@@ -1,0 +1,11 @@
+22:15:53 - Map change. 
+ 22:15:53 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 22:17:49 - MHR_Nr10_Rtr_DurableAxis936 has joined the game with ID: 2529036 
+ 22:18:11 - MHR_Nr10_Rtr_DurableAxis936 has left the game with ID: 2529036 
+ 22:18:11 -  <img=ico_headshot> MHR_Nr10_Rtr_DurableAxis936 
+ 22:18:11 - New round started. 
+ 23:07:35 - Map change. 
+ 23:07:35 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 23:12:46 - Map change. 
+ 23:12:46 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 

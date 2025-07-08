@@ -1,0 +1,12 @@
+09:33:05 - Map change. 
+ 09:33:05 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 11:35:28 - Map change. 
+ 11:36:31 - Map change. 
+ 11:37:06 - Map change. 
+ 11:37:13 - Map change. 
+ 11:37:54 - Map change. 
+ 13:15:40 - Map change. 
+ 13:15:40 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 13:57:58 - Map change. 
+ 13:57:58 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 

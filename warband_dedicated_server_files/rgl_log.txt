@@ -1,0 +1,200 @@
+Starting new log file.
+ Version:  1.173 
+ 
+ Processing Ini File {
+ Module_name =  Calradia 
+ Num Hints =  0 
+ Setting Map Min X =  -180.000000 
+ Setting Map Max X =  180.000000 
+ Setting Map Min Y =  -145.000000 
+ Setting Map Max Y =  145.000000 
+ Setting Time Multiplier =  0.250000 
+ Setting Seeing Range Multiplier =  6.500000 
+ Setting Track Spotting Multiplier =  0.800000 
+ Setting player_wounded_treshold =  5.000000 
+ Setting hero_wounded_treshold =  15.000000 
+ Setting Skill Prisoner Management Bonus =  5 
+ Setting Skill Leadership Bonus =  3 
+ Setting Base Companion Limit =  20 
+ Setting player_xp_multiplier =  2.000000 
+ Setting hero_xp_multiplier =  2.000000 
+ Setting regulars_xp_multiplier =  3.000000 
+ Setting damage_interrupt_attack_treshold =  3.000000 
+ Setting damage_interrupt_attack_treshold_mp =  1.000000 
+ Setting armor_soak_factor_against_cut =  0.800000 
+ Setting armor_soak_factor_against_pierce =  0.650000 
+ Setting armor_soak_factor_against_blunt =  0.500000 
+ Setting armor_reduction_factor_against_cut =  1.000000 
+ Setting armor_reduction_factor_against_pierce =  0.500000 
+ Setting armor_reduction_factor_against_blunt =  0.750000 
+ Setting horse_charge_damage_multiplier =  1.000000 
+ Setting couched_lance_damage_multiplier =  0.650000 
+ Setting fall_damage_multiplier =  3.000000 
+ Setting shield_penetration_offset =  30.000000 
+ Setting shield_penetration_factor =  3.000000 
+ Setting missile_damage_speed_power =  1.900000 
+ Setting melee_damage_speed_power =  2.000000 
+ Scan Module Textures =  1 
+ Scan Module Sounds =  1 
+ Loading Module Resource  textures_face_gen 
+ Loading Module Resource  shaders 
+ Loading Module Resource  mm_shaders 
+ Loading Module Resource  textures 
+ Loading Module Resource  mmtextures 
+ Loading Module Resource  mm_confederate_textures 
+ Loading Module Resource  materials 
+ Loading Module Resource  mmmaterials 
+ Loading Module Resource  mm_confederate_materials 
+ Loading Module Resource  materials_face_gen 
+ Loading Module Resource  meshes_face_gen 
+ Loading Module Resource  helpers 
+ Loading Module Resource  particle_meshes 
+ Loading Module Resource  skeletons 
+ Loading Module Resource  tree_meshes 
+ Loading Module Resource  xtree_meshes 
+ Loading Module Resource  grass_meshes 
+ Loading Module Resource  plant_meshes 
+ Loading Module Resource  body_meshes 
+ Loading Module Resource  object_meshes 
+ Loading Module Resource  object_bodies 
+ Loading Module Resource  goods_meshes 
+ Loading Module Resource  arabian_castle 
+ Loading Module Resource  food 
+ Loading Module Resource  beards 
+ Loading Module Resource  village_houses 
+ Loading Module Resource  village_houses_a 
+ Loading Module Resource  interiors_a 
+ Loading Module Resource  interiors_c 
+ Loading Module Resource  arena 
+ Loading Module Resource  castle_a 
+ Loading Module Resource  dungeon 
+ Loading Module Resource  snowy_houses 
+ Loading Module Resource  square_keep 
+ Loading Module Resource  xtree_meshes_b 
+ Loading Module Resource  user_interface_b 
+ Loading Module Resource  user_interface_c 
+ Loading Module Resource  houses1 
+ Loading Module Resource  wall_meshes1 
+ Loading Module Resource  town_houses 
+ Loading Module Resource  doors 
+ Loading Module Resource  churches 
+ Loading Module Resource  town_houses_b 
+ Loading Module Resource  castle_c 
+ Loading Module Resource  castle_e 
+ Loading Module Resource  castle_f 
+ Loading Module Resource  castle_g 
+ Loading Module Resource  castle_h 
+ Loading Module Resource  gatehouse 
+ Loading Module Resource  viking_houses 
+ Loading Module Resource  town_houses_c 
+ Loading Module Resource  banners 
+ Loading Module Resource  mmparticles 
+ Loading Module Resource  particles_2 
+ Loading Module Resource  prisons 
+ Loading Module Resource  skyboxes 
+ Loading Module Resource  object_b 
+ Loading Module Resource  destroy 
+ Loading Module Resource  grass_meshes_b 
+ Loading Module Resource  interiors_steppe 
+ Loading Module Resource  town_houses_d 
+ Loading Module Resource  arabian_props 
+ Loading Module Resource  horse_skeleton 
+ Loading Module Resource  ani_horse_mounted 
+ Loading Module Resource  ani_man_walk 
+ Loading Module Resource  ani_death 
+ Loading Module Resource  ani_human_mounted 
+ Loading Module Resource  ani_man_cheer 
+ Loading Module Resource  ani_stand_onhorse 
+ Loading Module Resource  ani_strikes 
+ Loading Module Resource  ani_equip_arms 
+ Loading Module Resource  ani_run_p 
+ Loading Module Resource  uni_strikes3 
+ Loading Module Resource  ani_walk_sideways 
+ Loading Module Resource  ani_run_sideways 
+ Loading Module Resource  ani_stand 
+ Loading Module Resource  ani_crouch_down 
+ Loading Module Resource  ani_low_walk 
+ Loading Module Resource  ani_turn_man 
+ Loading Module Resource  ani_lancer 
+ Loading Module Resource  ani_attacks 
+ Loading Module Resource  ani_kicks 
+ Loading Module Resource  ani_walk_backward 
+ Loading Module Resource  ani_run_lookingsides 
+ Loading Module Resource  ani_defends 
+ Loading Module Resource  ani_walk_lookingsides 
+ Loading Module Resource  ani_jump 
+ Loading Module Resource  uni_jump 
+ Loading Module Resource  uni_stances 
+ Loading Module Resource  uni_equip 
+ Loading Module Resource  uni_strike 
+ Loading Module Resource  uni_throws 
+ Loading Module Resource  uni_fistswing 
+ Loading Module Resource  uni_defence 
+ Loading Module Resource  uni_sideways 
+ Loading Module Resource  uni_equip_musket 
+ Loading Module Resource  rock 
+ Loading Module Resource  raw_materials 
+ Loading Module Resource  ui_server_filter 
+ Loading Module Resource  ship 
+ Loading Module Resource  arabian_houses 
+ Loading Module Resource  tree_f 
+ Loading Module Resource  arabian_village 
+ Loading Module Resource  valleyProps 
+ Loading Module Resource  workshops 
+ Loading Module Resource  barrier_primitives 
+ Loading Module Resource  town_houses_e 
+ Loading Module Resource  wb_mp_objects_a 
+ Loading Module Resource  mmweapons 
+ Loading Module Resource  mmuniforms 
+ Loading Module Resource  mm_french_uniforms 
+ Loading Module Resource  mm_french_hats 
+ Loading Module Resource  mm_french_swords 
+ Loading Module Resource  mm_french_firearms 
+ Loading Module Resource  mm_russian_uniforms 
+ Loading Module Resource  mm_russian_hats 
+ Loading Module Resource  mm_russian_swords 
+ Loading Module Resource  mm_russian_firearms 
+ Loading Module Resource  mm_british_swords 
+ Loading Module Resource  mm_british_firearms 
+ Loading Module Resource  mm_german_firearms 
+ Loading Module Resource  mm_german_swords 
+ Loading Module Resource  mmprusuniforms 
+ Loading Module Resource  mmprushats 
+ Loading Module Resource  mmaustrianuniforms 
+ Loading Module Resource  mmaustrianhats 
+ Loading Module Resource  mmbrituniforms 
+ Loading Module Resource  mmbrithats 
+ Loading Module Resource  mm_colours 
+ Loading Module Resource  mmanimations 
+ Loading Module Resource  nw_custom_anim 
+ Loading Module Resource  mmsceneprops 
+ Loading Module Resource  mm_cannons 
+ Loading Module Resource  mm_cannon_items 
+ Loading Module Resource  mmhorses 
+ Loading Module Resource  mmplants 
+ Loading Module Resource  mmspanishbuildings 
+ Loading Module Resource  mmczechbuildings 
+ Loading Module Resource  mmwallprops 
+ Loading Module Resource  mm_waterloo 
+ Loading Module Resource  mmfurniture 
+ Loading Module Resource  terrain_borders 
+ Loading Module Resource  mm_sapperbuildstuff 
+ Loading Module Resource  mmmills 
+ Loading Module Resource  mm_fortprops 
+ Loading Module Resource  mm_spvillagehouse 
+ Loading Module Resource  mm_uiobjects 
+ Loading Module Resource  mm_oimprops 
+ Loading Module Resource  mmwoodenwalls 
+ Loading Module Resource  frigate 
+ Loading Module Resource  shipcrew 
+ Loading Module Resource  mm_confederate_uniforms 
+ Loading Module Resource  training_and_nonmilitary 
+ Setting multiplayer_walk_enabled =  0 
+ 
+} //Processing Ini File Finished
+ Loading Module...
+ Loading item kinds...
+ Loading dialogs...
+ Loading mission templates...
+ Loading party templates...
+ 

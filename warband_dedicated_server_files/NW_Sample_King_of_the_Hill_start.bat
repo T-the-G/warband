@@ -1,0 +1,1 @@
+mb_warband_dedicated.exe -r NW_Sample_King_of_the_Hill.txt -m Napoleonic Wars

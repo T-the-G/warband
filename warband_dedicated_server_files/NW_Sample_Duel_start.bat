@@ -1,0 +1,1 @@
+mb_warband_dedicated.exe -r NW_Sample_Duel.txt -m Napoleonic Wars

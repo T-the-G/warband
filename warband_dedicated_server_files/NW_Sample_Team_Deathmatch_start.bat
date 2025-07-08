@@ -1,0 +1,1 @@
+mb_warband_dedicated.exe -r NW_Sample_Team_Deathmatch.txt -m Napoleonic Wars

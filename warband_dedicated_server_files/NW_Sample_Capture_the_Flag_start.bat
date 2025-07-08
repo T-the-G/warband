@@ -1,0 +1,1 @@
+mb_warband_dedicated.exe -r NW_Sample_Capture_the_Flag.txt -m Napoleonic Wars
