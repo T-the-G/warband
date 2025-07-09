@@ -12,7 +12,9 @@ A simple, dockerised, dedicated server for Mount &amp; Blade: Warband / Napoleon
 
 ### Run the container
 
-**NOTE:** If you would like to use game modules besides `Napoleonic Wars`, you must create the file `path/to/warband/entrypoint.sh` before running the container, and mount it in the container's `/entrypoint.sh` location using a volume. The server's run-command can then be modified within `entrypoint.sh`.
+**NOTE:** If you would like to use game modules other than `Napoleonic Wars`, you must create the file `path/to/warband/entrypoint.sh` before running the container, and mount it in the container's `/entrypoint.sh` location using a volume. The server's run-command can then be modified within `entrypoint.sh`.
+
+    path/to/warband/entrypoint.sh:/entrypoint.sh
 
 #### Docker run
 
@@ -27,12 +29,16 @@ Be sure to replace `path/to/warband` with the actual path where the server files
 
     services:
       warband:
-        image: t-the-g/warband:latest
+        image: ttheg/warband:latest
         container_name: warband
         network_mode: host
         volumes:
           - path/to/warband:/server
+        #  - path/to/warband/entrypoint.sh:/entrypoint.sh
         restart: unless-stopped
+        # The following provides wine output for debugging
+        stdin_open: true
+        tty: true
         # ports:
         #   - "7240:7240/udp"
 
@@ -42,7 +48,7 @@ Be sure to replace `path/to/warband` with the actual location where the server f
 
 The first time the container is run, it will populate `path/to/warband` with the server files.
 
-Since the container should be running as root user, it can be useful to change the file ownerships, for easier editing.
+Since the container should be running as the root user, it can be useful to change the file ownerships, for easier editing.
 
     sudo chown -R 1000:1000 path/to/warband
 
