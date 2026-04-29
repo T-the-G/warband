@@ -1,6 +1,18 @@
 # Warband
 
-A simple, dockerised, dedicated server for Mount &amp; Blade: Warband / Napoleonic Wars
+A simple, dockerised, dedicated server for Mount &amp; Blade: Warband, Napoleonic Wars, and Napoleonic Wars Extended.
+
+# Table of contents
+
+- [Introduction](#warband)
+- [Setup](#setup)
+    - [Docker setup](#docker-setup)
+        - [Build the image](#build-the-image)
+        - [Modify the entrypoint](#modify-the-entrypoint)
+        - [Run the container](#run-the-container)
+            - [Docker run](#docker-run)
+            - [Docker compose](#docker-compose)
+    - [Server setup](#server-setup)
 
 # Setup
 
@@ -12,7 +24,7 @@ A simple, dockerised, dedicated server for Mount &amp; Blade: Warband / Napoleon
 
 ### Modify the entrypoint
 
-If you would like to use game modules other than `Napoleonic Wars`, you must create the file `path/to/warband/entrypoint.sh` **before** running the container for the first time, add the contents in the file as seen in this repo, and mount it in the container's `/entrypoint.sh` location using a volume.
+If you would like to use game modules other than `Napoleonic Wars`, you must create the file `path/to/warband/entrypoint.sh` **before** running the container for the first time, add the contents in the [file](./entrypoint.sh), and mount it in the container's `/entrypoint.sh` location using a volume.
 
     path/to/warband/entrypoint.sh:/entrypoint.sh
 
