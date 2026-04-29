@@ -1,0 +1,2417 @@
+trp_player|Jugador
+trp_player_pl|Jugador
+trp_multiplayer_profile_troop_male|perfil miltijugador tropa masculina
+trp_multiplayer_profile_troop_male_pl|multiplayer profile troop male
+trp_multiplayer_profile_troop_female|multiplayer profile troop female
+trp_multiplayer_profile_troop_female_pl|multiplayer profile troop female
+trp_temp_troop|Temp Troop
+trp_temp_troop_pl|Temp Troop
+trp_british_infantry_ai|Infantería de Línea Británica
+trp_british_infantry_ai_pl|Infantería de Línea
+trp_british_infantry2_ai|Infantería de Línea Germana
+trp_british_infantry2_ai_pl|Infantería de Línea Germana
+trp_british_highlander_ai|Infantería de Línea Escocesa
+trp_british_highlander_ai_pl|Infantería de Línea Escocesa
+trp_british_foot_guard_ai|Guardia a Pie Británica
+trp_british_foot_guard_ai_pl|Guardia a Pie
+trp_british_light_infantry_ai|Infantería Ligera Británica
+trp_british_light_infantry_ai_pl|Infantería Ligera
+trp_british_rifle_ai|Tirador Británico
+trp_british_rifle_ai_pl|Tiradores
+trp_british_hussar_ai|Húsar Británico
+trp_british_hussar_ai_pl|Húsares
+trp_british_light_dragoon_ai|Dragón Ligero Británico
+trp_british_light_dragoon_ai_pl|Dragones Ligeros
+trp_british_dragoon_ai|Dragón Británico
+trp_british_dragoon_ai_pl|Dragón Peasado
+trp_british_horseguard_ai|Guardia a Caballo Británico
+trp_british_horseguard_ai_pl|Guardia a Caballo
+trp_british_ship_ai|Marinero Británico
+trp_british_ship_ai_pl|Marineros
+trp_british_ship_marine_ai|Marina Británica
+trp_british_ship_marine_ai_pl|Infantería de Marina
+trp_british_arty_ai|Artillero Británico
+trp_british_arty_ai_pl|Artillería (Cañón)
+trp_british_arty_alt_ai|Artillero Británico
+trp_british_arty_alt_ai_pl|Artillería (Howitzer)
+trp_british_rocket_ai|Lanzador de Cohetes Británico
+trp_british_rocket_ai_pl|Artillería de Cohetes
+trp_french_infantry_ai|Infantería de Línea Francesa
+trp_french_infantry_ai_pl|Infantería de Línea
+trp_french_infantry2_ai|Granadero Francés
+trp_french_infantry2_ai_pl|Granaderos
+trp_french_infantry_vistula_ai|Infantería de Línea Polaca
+trp_french_infantry_vistula_ai_pl|Infantería de Línea Polaca
+trp_french_old_guard_ai|Guardia Granadero Francés
+trp_french_old_guard_ai_pl|Guardias Granaderos
+trp_french_voltigeur_ai|Voltigeur Francés
+trp_french_voltigeur_ai_pl|Voltigeurs
+trp_french_hussar_ai|Húsar Francés
+trp_french_hussar_ai_pl|Húsares
+trp_french_lancer_ai|Lancero Polaco
+trp_french_lancer_ai_pl|Lanceros Polacos
+trp_french_dragoon_ai|Dragón Francés
+trp_french_dragoon_ai_pl|Dragones
+trp_french_cuirassier_ai|Coracero Francés
+trp_french_cuirassier_ai_pl|Cuirassiers
+trp_french_carabineer_ai|Carabinero Francés
+trp_french_carabineer_ai_pl|Carabiniers
+trp_french_grenadier_a_cheval_ai|Granadero a Caballo Francés
+trp_french_grenadier_a_cheval_ai_pl|Granaderos a Caballo
+trp_french_ship_ai|Marinero Francés
+trp_french_ship_ai_pl|Marineros
+trp_french_ship_marine_ai|Marina Francés
+trp_french_ship_marine_ai_pl|Infantería de Marina
+trp_french_arty_ai|Artillero Francés
+trp_french_arty_ai_pl|Artillería (Cañón)
+trp_french_arty_alt_ai|Artillero Francés
+trp_french_arty_alt_ai_pl|Artillería (Howitzer)
+trp_prussian_infantry_ai|Infantería de Línea Prusiana
+trp_prussian_infantry_ai_pl|Infantería de Línea (Brandenburg)
+trp_prussian_infantry2_ai|Infantería de Línea Prusiana
+trp_prussian_infantry2_ai_pl|Infantería de Línea (Rhen)
+trp_prussian_infantry_kurmark_ai|Landwehr Prusiano
+trp_prussian_infantry_kurmark_ai_pl|Landwehr
+trp_prussian_infantry_freikorps_ai|Freikorps Prusiano
+trp_prussian_infantry_freikorps_ai_pl|Freikorps
+trp_prussian_infantry_15_ai|Guardia a Pie Prusiana
+trp_prussian_infantry_15_ai_pl|Guardias a Pie
+trp_prussian_infantry_rifle_ai|Jaeger Prusiano
+trp_prussian_infantry_rifle_ai_pl|Jaegers
+trp_prussian_dragoon_ai|Dragones Prussianos
+trp_prussian_dragoon_ai_pl|Dragones
+trp_prussian_hussar_ai|Húsar Prusiano
+trp_prussian_hussar_ai_pl|Húsares
+trp_prussian_landwehr_cav_ai|Lancero Prusiano
+trp_prussian_landwehr_cav_ai_pl|Lanceros
+trp_prussian_cuirassier_ai|Coracero Prusiano
+trp_prussian_cuirassier_ai_pl|Cuirassiers
+trp_prussian_arty_ai|Artillero Prusiano
+trp_prussian_arty_ai_pl|Artillería (Cañón)
+trp_prussian_arty_alt_ai|Artillero Prusiano
+trp_prussian_arty_alt_ai_pl|Artillería (Howitzer)
+trp_russian_partizan_ai|Guerrillero Ruso
+trp_russian_partizan_ai_pl|Guerrilleros
+trp_russian_opol_ai|Milicia Rusa
+trp_russian_opol_ai_pl|Milicia de Línea
+trp_russian_infantry_ai|Infantería de Línea Rusa
+trp_russian_infantry_ai_pl|Infantería de Línea
+trp_russian_grenadier_ai|Granadero Ruso
+trp_russian_grenadier_ai_pl|Granaderos
+trp_russian_foot_guard_ai|Guardia a Pie Rusa
+trp_russian_foot_guard_ai_pl|Guardias a Pie
+trp_russian_infantry_rifle_ai|Jaeger Ruso
+trp_russian_infantry_rifle_ai_pl|Jaegers
+trp_russian_hussar_ai|Húsar Ruso
+trp_russian_hussar_ai_pl|Húsares
+trp_russian_uhlan_ai|Russian Uhlan
+trp_russian_uhlan_ai_pl|Uhlans
+trp_russian_cossack_ai|Cosaco Ruso
+trp_russian_cossack_ai_pl|Cosacos
+trp_russian_dragoon_ai|Dragón Ruso
+trp_russian_dragoon_ai_pl|Dragones
+trp_russian_horse_guard_ai|Guardia a Caballo Ruso
+trp_russian_horse_guard_ai_pl|Guardias a Caballo
+trp_russian_arty_ai|Artillero Ruso
+trp_russian_arty_ai_pl|Artillería (Cañón)
+trp_russian_arty_alt_ai|Artillero Ruso
+trp_russian_arty_alt_ai_pl|Artillería (Howitzer)
+trp_austrian_infantry_ai|Infantería de Línea Austríaca
+trp_austrian_infantry_ai_pl|Infantería de Línea
+trp_austrian_infantry2_ai|Infantería de Línea Húngara
+trp_austrian_infantry2_ai_pl|Infantería de Línea
+trp_austrian_grenzer_ai|Grenzer Austríaco
+trp_austrian_grenzer_ai_pl|Grenzers
+trp_austrian_grenadier_ai|Granadero Húngaro
+trp_austrian_grenadier_ai_pl|Grenadiers
+trp_austrian_infantry_rifle_ai|Jaeger Austríaco
+trp_austrian_infantry_rifle_ai_pl|Jaegers
+trp_austrian_hussar_ai|Húsar Austríaco
+trp_austrian_hussar_ai_pl|Húsares
+trp_austrian_uhlan_ai|Ulano Austríaco
+trp_austrian_uhlan_ai_pl|Ulanos
+trp_austrian_light_horse_ai|Chevauleger Austríaco
+trp_austrian_light_horse_ai_pl|Chevaulegers
+trp_austrian_dragoon_ai|Dragón Austríaco
+trp_austrian_dragoon_ai_pl|Dragones
+trp_austrian_cuirassier_ai|Coracero Austríaco
+trp_austrian_cuirassier_ai_pl|Coraceros
+trp_austrian_arty_ai|Artillero Austríaco
+trp_austrian_arty_ai_pl|Artillería (Cañón)
+trp_austrian_arty_alt_ai|Artillero Austríaco
+trp_austrian_arty_alt_ai_pl|Artillería (Howitzer)
+trp_rhine_infantry_bavaria_ai|Infanteria de linea de Bavaria
+trp_rhine_infantry_bavaria_ai_pl|Infanteria de linea de Bavaria
+trp_rhine_infantry_wurttemberg_ai|Infanteria de linea de Wurttemberger 
+trp_rhine_infantry_wurttemberg_ai_pl|Infanteria de linea de Wurttemberger 
+trp_rhine_infantry_saxony_ai|Infanteria de linea Sajona
+trp_rhine_infantry_saxony_ai_pl|Infanteria de linea Sajona
+trp_rhine_infantry_wurttemberg2_ai|Granadero de Wurttemberger
+trp_rhine_infantry_wurttemberg2_ai_pl|Granaderos de Wurttemberger
+trp_rhine_grenadier_guard_ai|Guardia granadero de Westphalian 
+trp_rhine_grenadier_guard_ai_pl|Guardias granaderos
+trp_rhine_light_infantry_hessen_ai|Infanteria Ligera de Hesee
+trp_rhine_light_infantry_hessen_ai_pl|Infanteria Ligera
+trp_rhine_light_infantry_bavaria_ai|Tirador Bavaro
+trp_rhine_light_infantry_bavaria_ai_pl|Tirador
+trp_rhine_mounted_jaeger_ai|Tirador a Caballo de Nassau
+trp_rhine_mounted_jaeger_ai_pl|Tiradores a Caballo
+trp_rhine_uhlan_ai|Ulano Sajon
+trp_rhine_uhlan_ai_pl|Ulanos
+trp_rhine_light_dragoon_ai|Dragones ligeros deBadner
+trp_rhine_light_dragoon_ai_pl|Dragones ligeros
+trp_rhine_cuirassier_ai|Coracero de Westphalian 
+trp_rhine_cuirassier_ai_pl|Coracero
+trp_rhine_garde_du_corps_ai|Guardia a caballo Sajon
+trp_rhine_garde_du_corps_ai_pl|Guardia a caballo
+trp_rhine_arty_ai|Artillero Bavaro 
+trp_rhine_arty_ai_pl|Artilleria (Cañón)
+trp_rhine_arty_alt_ai|Artillero  Bavaro
+trp_rhine_arty_alt_ai_pl|Artilleria (Howitzer)
+trp_austrian_11_ai_pl|Infantería de Línea Austríaca
+trp_austrian_11_ai|Infantería de Línea Austríaca
+trp_austrian_16_ai_pl|Granadero Austríaco
+trp_austrian_16_ai|Granadero Austríaco
+trp_austrian_24_ai_pl|Infantería de Línea Austríaca
+trp_austrian_24_ai|Infantería de Línea Austríaca
+trp_austrian_31_ai_pl|Infantería de Línea Húngara
+trp_austrian_31_ai|Infantería de Línea Húngara
+trp_austrian_34_ai_pl|Infantería de Línea Húngara
+trp_austrian_34_ai|Infantería de Línea Húngara
+trp_austrian_39_ai_pl|Infantería de Línea Húngara
+trp_austrian_39_ai|Infantería de Línea Húngara
+trp_austrian_4_ai_pl|Infantería de Línea Austríaca
+trp_austrian_4_ai|Infantería de Línea Austríaca
+trp_austrian_51_ai_pl|Infantería de Línea Húngara
+trp_austrian_51_ai|Infantería de Línea Húngara
+trp_austrian_56_ai_pl|Granadero Austríaco
+trp_austrian_56_ai|Granadero Austríaco
+trp_austrian_59_ai_pl|Infantería de Línea Austríaca
+trp_austrian_59_ai|Infantería de Línea Austríaca
+trp_austrian_cuirassier5_ai_pl|Cuirassier Austríaco
+trp_austrian_cuirassier5_ai|Cuirassier Austríaco
+trp_austrian_grenzer5_ai_pl|Grenzer Austríaco
+trp_austrian_grenzer5_ai|Grenzer Austríaco
+trp_austrian_horseart_ai_pl|Artillería a caballo Austríaca
+trp_austrian_horseart_ai|Artillería a caballo Austríaca
+trp_austrian_hussar12_ai|Húsar Húngara
+trp_austrian_hussar12_ai_pl|Húsares
+trp_brit_canadian_horsemen_ai_pl|Caballería Ligera Colonial Canadiense
+trp_brit_canadian_horsemen_ai|Caballería Ligera Colonial Canadiense
+trp_brit_canadian_infantry_ai_pl|Infantería colonial canadiense
+trp_brit_canadian_infantry_ai|Infantería colonial canadiense
+trp_brit_horseart_ai_pl|Artillería real a caballo
+trp_brit_horseart_ai|Artillería real a caballo
+trp_brit_indian_ai_pl|Infantería india
+trp_brit_indian_ai|Infantería india
+trp_british_foot_guard_ai_pl|Guardia de pies británico
+trp_british_foot_guard_ai|Guardia de pies británico
+trp_british_highlander78_ai_pl|Infantería de Línea Británica
+trp_british_highlander78_ai|Infantería de Línea Británica
+trp_british_hussar_ai_pl|Húsares
+trp_british_hussar_ai|Húsar británico
+trp_british_infantry14_ai_pl|Infantería de Línea Británica
+trp_british_infantry14_ai|Infantería de Línea Británica
+trp_french_corses_ai_pl|Fusileros corsos
+trp_french_corses_ai|Fusileros corsos
+trp_french_foot_dragoon_ai_pl|Dragón Francés
+trp_french_foot_dragoon_ai|Dragón Francés
+trp_french_gendarme_ai_pl|Gendarme francés
+trp_french_gendarme_ai|Gendarme francés
+trp_french_guard_marines_ai_pl|Guardia Marina Francesa
+trp_french_guard_marines_ai|Guardia Marina Francesa
+trp_french_horseart_ai_pl|Artillería a caballo francesa
+trp_french_horseart_ai|Artillería a caballo francesa
+trp_french_hussar5_ai_pl|Húsares
+trp_french_hussar5_ai|Húsar Francés
+trp_french_infantry14_ai_pl|Infantería de Línea Francesa
+trp_french_infantry14_ai|Infantería de Línea Francesa
+trp_french_infantry3_ai_pl|Infantería de Línea Francesa
+trp_french_infantry3_ai|Infantería de Línea Francesa
+trp_french_infantry65_ai_pl|Infantería de Línea Francesa
+trp_french_infantry65_ai|Infantería de Línea Francesa
+trp_french_infantry_1er_ai_pl|Infantería de Línea Francesa
+trp_french_infantry_1er_ai|Infantería de Línea Francesa
+trp_french_infantry_swiss_ai_pl|Swiss Infantería de Línea
+trp_french_infantry_swiss_ai|Swiss Infantería de Línea
+trp_french_mounted_chasseur_ai_pl|Cazador Montado Francés
+trp_french_mounted_chasseur_ai|Cazador Montado Francés
+trp_nwe_rus_horse_arty_ai_pl|Artillería a caballo rusa
+trp_nwe_rus_horse_arty_ai|Artillería a caballo rusa
+trp_ottoman_arty_ai_pl|Artillero Bavaro 
+trp_ottoman_arty_ai|Artillero Bavaro 
+trp_ottoman_arty_alt_ai_pl|Artilleria (Howitzer)
+trp_ottoman_arty_alt_ai|Artilleria (Cañón)
+trp_ottoman_arty_guard_ai_pl|Guardia de artilleria
+trp_ottoman_arty_guard_ai|Guardia de artilleria
+trp_ottoman_bashi_ai_pl|Basi-bozuk
+trp_ottoman_bashi_ai|Basi-bozuk
+trp_ottoman_camel_cav_ai_pl|Caballería ligera de camellos otomana
+trp_ottoman_camel_cav_ai|Caballería ligera de camellos otomana
+trp_ottoman_camel_heavy_cav_ai_pl|Caballería pesada de camellos otomana
+trp_ottoman_camel_heavy_cav_ai|Caballería pesada de camellos otomana
+trp_ottoman_cuirassier_ai_pl|Coracero otomano
+trp_ottoman_cuirassier_ai|Coracero otomano
+trp_ottoman_dragoon_ai_pl|Dragón otomano
+trp_ottoman_dragoon_ai|Dragón otomano
+trp_ottoman_heavy_cavalry_ai_pl|Mameluco
+trp_ottoman_heavy_cavalry_ai|Mameluco
+trp_ottoman_horseart_ai_pl|Artillería a caballo otomana
+trp_ottoman_horseart_ai|Artillería a caballo otomana
+trp_ottoman_horseart_guard_ai_pl|Artillería a caballo otomana
+trp_ottoman_horseart_guard_ai|Artillería a caballo otomana
+trp_ottoman_hussar_ai_pl|Húsares
+trp_ottoman_hussar_ai|Húsar Otomano
+trp_ottoman_jani_ai_pl|Jenízaro otomano
+trp_ottoman_jani_ai|Jenízaro otomano
+trp_ottoman_jani_istanbul_ai_pl|Jenízaro otomano
+trp_ottoman_jani_istanbul_ai|Jenízaro otomano
+trp_ottoman_lancer_ai_pl|Lancero otomano
+trp_ottoman_lancer_ai|Lancero otomano
+trp_ottoman_levend_ai_pl|Infantería de Línea otomana
+trp_ottoman_levend_ai|Infantería de Línea otomana
+trp_ottoman_libyan_ai_pl|Beduino libio
+trp_ottoman_libyan_ai|Beduino libio
+trp_ottoman_light_ai_pl|Infantería ligera albanesa
+trp_ottoman_light_ai|Infantería ligera albanesa
+trp_ottoman_rifle_ai_pl|Fusilero otomano
+trp_ottoman_rifle_ai|Fusilero otomano
+trp_ottoman_ship_ai_pl|Tripulación del buque
+trp_ottoman_ship_ai|Tripulación del buque
+trp_ottoman_ship_cannon_ai_pl|Tripulación del buque
+trp_ottoman_ship_cannon_ai|Tripulación del buque
+trp_ottoman_ship_marine_ai_pl|Tripulación del buque
+trp_ottoman_ship_marine_ai|Tripulación del buque
+trp_ottoman_subara_ai_pl|Infantería de Línea otomana
+trp_ottoman_subara_ai|Infantería de Línea otomana
+trp_ottoman_uskudar_ai_pl|Infantería de Línea otomana
+trp_ottoman_uskudar_ai|Infantería de Línea otomana
+trp_pruss_brun_ai_pl|Guardia de pies prusiano
+trp_pruss_brun_ai|Guardia de pies prusiano
+trp_pruss_cav_silesian_ai_pl|Coracero prusiano
+trp_pruss_cav_silesian_ai|Coracero prusiano
+trp_pruss_freiw_ai_pl|Cazador prusiano
+trp_pruss_freiw_ai|Cazador prusiano
+trp_pruss_horseart_ai_pl|Artillería a caballo prusiana
+trp_pruss_horseart_ai|Artillería a caballo prusiana
+trp_rhine_grenadier_guard2_ai_pl|Guardia de Granaderos de Berg
+trp_rhine_grenadier_guard2_ai|Guardia de Granaderos de Berg
+trp_rhine_horseart_ai_pl|Artillería a caballo sajona
+trp_rhine_horseart_ai|Artillería a caballo sajona
+trp_russian_butyrskiy_infantry_ai_pl|Infantería de Línea Rusa
+trp_russian_butyrskiy_infantry_ai|Infantería de Línea Rusa
+trp_russian_finnish_jaeger_ai_pl|Jaeger finlandés
+trp_russian_finnish_jaeger_ai|Jaeger finlandés
+trp_russian_glukhovskiy_cuirassier_ai_pl|Coracero ruso
+trp_russian_glukhovskiy_cuirassier_ai|Coracero ruso
+trp_russian_internal_guard_ai_pl|Guardia interno ruso
+trp_russian_internal_guard_ai|Guardia interno ruso
+trp_russian_litovski_guard_ai_pl|Guardia de pie ruso
+trp_russian_litovski_guard_ai|Guardia de pie ruso
+trp_british_foot_guard1_ai|1st Regiment of Foot Guards
+trp_british_foot_guard1_ai_pl|Guardia a Pie
+trp_british_hussar2_ai|2nd KGL Hussars
+trp_british_hussar2_ai_pl|Húsar
+trp_prussian_infantry_2_ai|2. Infanterie-Regiment
+trp_prussian_infantry_2_ai_pl|Infantería de Línea
+trp_prussian_infantry12_ai|12. Brandenburgische Infanterie-Regiment
+trp_prussian_infantry12_ai_pl|Infantería de Línea
+trp_prussian_infantry14_ai|14. Westfalische Infanterie-Regiment
+trp_prussian_infantry14_ai_pl|Infantería de Línea
+trp_prussian_infantry18_ai|18. Infanterie-Regiment
+trp_prussian_infantry18_ai_pl|Infantería de Línea
+trp_prussian_infantry24_ai|24. Brandenburgische Infanterie-Regiment
+trp_prussian_infantry24_ai_pl|Infantería de Línea
+trp_prussian_infantry26_ai|26. Magdeburgische Infanterie-Regiment
+trp_prussian_infantry26_ai_pl|Infantería de Línea
+trp_prussian_infantry_elbe_ai|2. Elb-Landwehr-Regiment
+trp_prussian_infantry_elbe_ai_pl|Infantería de Línea
+trp_prussian_dragoon5_ai|5. Brandenburgische Dragoner-Regiment
+trp_prussian_dragoon5_ai_pl|Dragón
+trp_prussian_hussar_mhr_ai|Magdeburgisches Husaren-Regiment Nr.10
+trp_prussian_hussar_mhr_ai_pl|Húsar
+trp_austrian_32_ai|Infanterie Regiment Nr.32 Eszterházy
+trp_austrian_32_ai_pl|Infantería de Línea
+trp_italian_infantry1_ai|Infantería de Línea italiana
+trp_italian_infantry2_ai|Infantería de Línea italiana
+trp_italian_infantry3_ai|Infantería de Línea italiana
+trp_italian_infantry4_ai|Infantería de Línea italiana
+trp_italian_infantry5_ai|Infantería de Línea italiana
+trp_italian_foot_guard1_ai|Guardia a Pie italiana
+trp_italian_foot_guard2_ai|Guardia a Pie italiana
+trp_italian_foot_guard3_ai|Guardia a Pie italiana
+trp_italian_light_ai|Infantería ligera italiana
+trp_italian_rifle_ai|Fusilero italiano
+trp_italian_hussar1_ai|Húsar italiano
+trp_italian_hussar2_ai|Húsar italiano
+trp_italian_dragoon_ai|Dragones italianos
+trp_italian_cuirassier1_ai|Guardia a Caballo italiana
+trp_italian_cuirassier2_ai|Guardia a Caballo italiana
+trp_italian_arty_ai|Artillería italiana
+trp_italian_arty_alt_ai|Artillería italiana
+trp_italian_horseart_ai|Artillería a caballo italiana
+trp_italian_ship_marine_ai|Tripulación del buque
+trp_italian_ship_ai|Tripulación del buque
+trp_italian_infantry1_ai_pl|Infantería de Línea
+trp_italian_infantry2_ai_pl|Infantería de Línea
+trp_italian_infantry3_ai_pl|Infantería de Línea
+trp_italian_infantry4_ai_pl|Infantería de Línea
+trp_italian_infantry5_ai_pl|Infantería de Línea
+trp_italian_foot_guard1_ai_pl|Guardia a Pie
+trp_italian_foot_guard2_ai_pl|Guardia a Pie
+trp_italian_foot_guard3_ai_pl|Guardia a Pie
+trp_italian_light_ai_pl|Infantería ligera
+trp_italian_rifle_ai_pl|Fusilero
+trp_italian_hussar1_ai_pl|Húsar
+trp_italian_hussar2_ai_pl|Húsar
+trp_italian_dragoon_ai_pl|Dragones
+trp_italian_cuirassier1_ai_pl|Guardia a Caballo
+trp_italian_cuirassier2_ai_pl|Guardia a Caballo
+trp_italian_arty_ai_pl|Artillería (Cañón)
+trp_italian_arty_alt_ai_pl|Artillería (Howitzer)
+trp_italian_horseart_ai_pl|Artillería a caballo italiana
+trp_italian_ship_marine_ai_pl|Tripulación del buque
+trp_italian_ship_ai_pl|Tripulación del buque
+trp_rhine_infantry_saxony2_ai|Infanteria de linea Sajona
+trp_rhine_infantry_saxony2_ai_pl|Infantería de Línea
+trp_rhine_westphalian_hussar_ai|Húsar de Westphalian
+trp_rhine_westphalian_hussar_ai_pl|Húsar
+trp_rhine_infantry_waldeck_ai|Infantería de los Principados de Waldeck
+trp_rhine_infantry_waldeck_ai_pl|Infantería de Línea
+trp_rhine_wurt_guard_ai|Guardia a Pie de Wurttemberg
+trp_rhine_wurt_guard_ai_pl|Guardia a Pie
+trp_russian_ship_marine_ai_pl|Tripulación del buque
+trp_russian_ship_ai_pl|Tripulación del buque
+trp_russian_ship_marine_ai|Tripulación del buque
+trp_russian_ship_ai|Tripulación del buque
+trp_british_infantry|33rd Regiment of Foot
+trp_british_infantry_pl|Infantería de Línea
+trp_british_infantry_nco|33rd Regiment of Foot
+trp_british_infantry_nco_pl|Sargento
+trp_british_infantry_officer|33rd Regiment of Foot
+trp_british_infantry_officer_pl|Oficial
+trp_british_infantry_drum|33rd Regiment of Foot
+trp_british_infantry_drum_pl|Tambor
+trp_british_infantry_flute|33rd Regiment of Foot
+trp_british_infantry_flute_pl|Flautista
+trp_british_infantry2|5th Line Battalion King's German Legion
+trp_british_infantry2_pl|Infantería de Línea
+trp_british_infantry2_nco|Kings German Legion 5th Battalion
+trp_british_infantry2_nco_pl|Sargento
+trp_british_infantry2_officer|Kings German Legion 5th Battalion
+trp_british_infantry2_officer_pl|Oficial
+trp_british_infantry2_drum|Kings German Legion 5th Battalion
+trp_british_infantry2_drum_pl|Tambor
+trp_british_infantry2_flute|Kings German Legion 5th Battalion
+trp_british_infantry2_flute_pl|Flautista
+trp_british_highlander|42nd Regiment of Foot (Black Watch)
+trp_british_highlander_pl|Infantería de Línea
+trp_british_highlander_nco|42nd Highland Regiment of Foot
+trp_british_highlander_nco_pl|Sargento
+trp_british_highlander_officer|42nd Highland Regiment of Foot
+trp_british_highlander_officer_pl|Oficial
+trp_british_highlander_drum|42nd Highland Regiment of Foot
+trp_british_highlander_drum_pl|Tambor
+trp_british_highlander_pipes|42nd Highland Regiment of Foot
+trp_british_highlander_pipes_pl|Gaitero
+trp_british_foot_guard|Coldstream Regiment of Foot Guards
+trp_british_foot_guard_pl|Guardia a Pie
+trp_british_foot_guard_nco|2nd Regiment of Foot Guards (Coldstream)
+trp_british_foot_guard_nco_pl|Sargento
+trp_british_foot_guard_officer|2nd Regiment of Foot Guards (Coldstream)
+trp_british_foot_guard_officer_pl|Oficial
+trp_british_foot_guard_drum|2nd Regiment of Foot Guards (Coldstream)
+trp_british_foot_guard_drum_pl|Tambor
+trp_british_foot_guard_flute|2nd Regiment of Foot Guards (Coldstream)
+trp_british_foot_guard_flute_pl|Flautista
+trp_british_light_infantry|51st (2nd Yorkshire West Riding) Regiment of Foot
+trp_british_light_infantry_pl|Infantería Ligera
+trp_british_light_infantry_nco|51st Regiment of Foot
+trp_british_light_infantry_nco_pl|Sargento
+trp_british_light_infantry_officer|51st Regiment of Foot
+trp_british_light_infantry_officer_pl|Oficial
+trp_british_light_infantry_horn|51st Regiment of Foot
+trp_british_light_infantry_horn_pl|Cornista
+trp_british_rifle|95th Regiment of Foot (Rifles)
+trp_british_rifle_pl|Tirador
+trp_british_rifle_nco|95th Rifle Regiment of Foot
+trp_british_rifle_nco_pl|Sargento
+trp_british_rifle_officer|95th Rifle Regiment of Foot
+trp_british_rifle_officer_pl|Oficial
+trp_british_rifle_horn|95th Rifle Regiment of Foot
+trp_british_rifle_horn_pl|Cornista
+trp_british_hussar|1st KGL Hussars
+trp_british_hussar_pl|Húsar
+trp_british_hussar_nco|1st KGL Hussars
+trp_british_hussar_nco_pl|Sargento
+trp_british_hussar_officer|1st KGL Hussars
+trp_british_hussar_officer_pl|Oficial
+trp_british_hussar_trumpet|1st KGL Hussars
+trp_british_hussar_trumpet_pl|Cornetista
+trp_british_light_dragoon|23rd Light Dragoons
+trp_british_light_dragoon_pl|Caballería Ligera
+trp_british_light_dragoon_nco|23rd Light Dragoons
+trp_british_light_dragoon_nco_pl|Sargento
+trp_british_light_dragoon_officer|23rd Light Dragoons
+trp_british_light_dragoon_officer_pl|Oficial
+trp_british_light_dragoon_trumpet|23rd Light Dragoons
+trp_british_light_dragoon_trumpet_pl|Cornetista
+trp_british_dragoon|6th (Inniskilling) Dragoons
+trp_british_dragoon_pl|Caballería Pesada
+trp_british_dragoon_nco|6th (Inniskilling) Dragoons
+trp_british_dragoon_nco_pl|Sargento
+trp_british_dragoon_officer|6th (Inniskilling) Dragoons
+trp_british_dragoon_officer_pl|Oficial
+trp_british_dragoon_trumpet|6th (Inniskilling) Dragoons
+trp_british_dragoon_trumpet_pl|Cornetista
+trp_british_horseguard|Royal Horse Guards Blue
+trp_british_horseguard_pl|Caballería Pesada
+trp_british_horseguard_nco|Royal Horse Guards Blue
+trp_british_horseguard_nco_pl|Sargento
+trp_british_horseguard_officer|Royal Horse Guards Blue
+trp_british_horseguard_officer_pl|Oficial
+trp_british_horseguard_trumpet|Royal Horse Guards Blue
+trp_british_horseguard_trumpet_pl|Cornetista
+trp_british_arty|Royal Foot Artillery
+trp_british_arty_pl|Artillería
+trp_british_arty_guard|Guardia de artilleria
+trp_british_arty_guard_pl|Guardia de artilleria
+trp_british_arty_nco|Royal Foot Artillery
+trp_british_arty_nco_pl|Tren de Artillería
+trp_british_arty_officer|Royal Foot Artillery
+trp_british_arty_officer_pl|Oficial
+trp_british_rocket|2nd Rocket Troop
+trp_british_rocket_pl|Artillería de Cohetes
+trp_british_medic|Cirujano
+trp_british_medic_pl|Cirujano
+trp_british_sapper|Zapador
+trp_british_sapper_pl|Ingeniero
+trp_british_ship|Tripulación del buque
+trp_british_ship_pl|Infantería
+trp_british_ship_cannon|Tripulación del buque
+trp_british_ship_cannon_pl|Artillería del buque
+trp_british_ship_marine|Tripulación del buque
+trp_british_ship_marine_pl|Marina, 1st Battalion - Royal Marines
+trp_british_ship_captain|Tripulación del buque
+trp_british_ship_captain_pl|Capitán de Navío, HMS Neptune
+trp_wellington|Arthur Wellesley, Duke of Wellington
+trp_wellington_pl|Comandante
+trp_french_infantry|45e Regiment d'Infanterie de ligne
+trp_french_infantry_pl|Infantería de Línea
+trp_french_infantry_nco|45e Regiment d'Infanterie de ligne
+trp_french_infantry_nco_pl|Sargento
+trp_french_infantry_officer|45e Regiment d'Infanterie de ligne
+trp_french_infantry_officer_pl|Oficial
+trp_french_infantry_drum|45e Regiment d'Infanterie de ligne
+trp_french_infantry_drum_pl|Tambor
+trp_french_infantry_flute|45e Regiment d'Infanterie de ligne
+trp_french_infantry_flute_pl|Flautista
+trp_french_infantry2|84e Regiment d'Infanterie de ligne
+trp_french_infantry2_pl|Infantería de Línea
+trp_french_infantry2_nco|84e Regiment d'Infanterie de ligne
+trp_french_infantry2_nco_pl|Sargento
+trp_french_infantry2_officer|84e Regiment d'Infanterie de ligne
+trp_french_infantry2_officer_pl|Oficial
+trp_french_infantry2_drum|84e Regiment d'Infanterie de ligne
+trp_french_infantry2_drum_pl|Tambor
+trp_french_infantry2_flute|84e Regiment d'Infanterie de ligne
+trp_french_infantry2_flute_pl|Flautista
+trp_french_infantry_vistula|Legion de la Vistule
+trp_french_infantry_vistula_pl|Infantería de Línea
+trp_french_infantry_vistula_nco|Legion de la Vistule
+trp_french_infantry_vistula_nco_pl|Sargento
+trp_french_infantry_vistula_officer|Legion de la Vistule
+trp_french_infantry_vistula_officer_pl|Oficial
+trp_french_infantry_vistula_drum|Legion de la Vistule
+trp_french_infantry_vistula_drum_pl|Tambor
+trp_french_infantry_vistula_flute|Legion de la Vistule
+trp_french_infantry_vistula_flute_pl|Flautista
+trp_french_old_guard|1er Regiment de Grenadiers de la Garde Imperiale
+trp_french_old_guard_pl|Guardia a Pie
+trp_french_old_guard_nco|1er Regiment de Grenadiers de la Garde Imperiale
+trp_french_old_guard_nco_pl|Sargento
+trp_french_old_guard_officer|1er Regiment de Grenadiers de la Garde Imperiale
+trp_french_old_guard_officer_pl|Oficial
+trp_french_old_guard_drum|1er Regiment de Grenadiers de la Garde Imperiale
+trp_french_old_guard_drum_pl|Tambor
+trp_french_old_guard_flute|1er Regiment de Grenadiers de la Garde Imperiale
+trp_french_old_guard_flute_pl|Flautista
+trp_french_voltigeur|15eme Regiment d'Infanterie Legere
+trp_french_voltigeur_pl|Infantería Ligera
+trp_french_voltigeur_nco|15eme Regiment d'Infanterie Legere
+trp_french_voltigeur_nco_pl|Sargento
+trp_french_voltigeur_officer|15eme Regiment d'Infanterie Legere
+trp_french_voltigeur_officer_pl|Oficial
+trp_french_voltigeur_horn|15eme Regiment d'Infanterie Legere
+trp_french_voltigeur_horn_pl|Cornista
+trp_french_hussar|2e Regiment de Hussards
+trp_french_hussar_pl|Húsar
+trp_french_hussar_nco|2e Regiment de Hussards
+trp_french_hussar_nco_pl|Sargento
+trp_french_hussar_officer|2e Regiment de Hussards
+trp_french_hussar_officer_pl|Oficial
+trp_french_hussar_trumpet|2e Regiment de Hussards
+trp_french_hussar_trumpet_pl|Trompetista
+trp_french_lancer|Regiment de Chevau-Legers Lanciers de la Garde
+trp_french_lancer_pl|Lancero
+trp_french_lancer_nco|Regiment de Chevau-Legers Lanciers de la Garde
+trp_french_lancer_nco_pl|Sargento
+trp_french_lancer_officer|Regiment de Chevau-Legers Lanciers de la Garde
+trp_french_lancer_officer_pl|Oficial
+trp_french_lancer_trumpet|Regiment de Chevau-Legers Lanciers de la Garde
+trp_french_lancer_trumpet_pl|Trompetista
+trp_french_dragoon|Regiment de Dragons de l'Imperatrice
+trp_french_dragoon_pl|Dragón
+trp_french_dragoon_nco|Regiment de Dragons de l'Imperatrice
+trp_french_dragoon_nco_pl|Sargento
+trp_french_dragoon_officer|Regiment de Dragons de l'Imperatrice
+trp_french_dragoon_officer_pl|Oficial
+trp_french_dragoon_trumpet|Regiment de Dragons de l'Imperatrice
+trp_french_dragoon_trumpet_pl|Trompetista
+trp_french_cuirassier|9eme Regiment de Cuirassiers
+trp_french_cuirassier_pl|Cuirassier
+trp_french_cuirassier_nco|Cuirassiers
+trp_french_cuirassier_nco_pl|Sargento
+trp_french_cuirassier_officer|Cuirassiers
+trp_french_cuirassier_officer_pl|Oficial
+trp_french_cuirassier_trumpet|Cuirassiers
+trp_french_cuirassier_trumpet_pl|Trompetista
+trp_french_carabineer|1er Regiment de Carabiniers
+trp_french_carabineer_pl|Carabinier
+trp_french_carabineer_nco|Carabineers
+trp_french_carabineer_nco_pl|Sargento
+trp_french_carabineer_officer|Carabineers
+trp_french_carabineer_officer_pl|Oficial
+trp_french_carabineer_trumpet|Carabineers
+trp_french_carabineer_trumpet_pl|Trompetista
+trp_french_grenadier_a_cheval|Regiment de Grenadiers a Cheval de la Garde
+trp_french_grenadier_a_cheval_pl|Caballería Pesada
+trp_french_grenadier_a_cheval_nco|Regiment de Grenadiers a Cheval de la Garde
+trp_french_grenadier_a_cheval_nco_pl|Sargento
+trp_french_grenadier_a_cheval_officer|Regiment de Grenadiers a Cheval de la Garde
+trp_french_grenadier_a_cheval_officer_pl|Oficial
+trp_french_grenadier_a_cheval_trumpet|Regiment de Grenadiers a Cheval de la Garde
+trp_french_grenadier_a_cheval_trumpet_pl|Trompetista
+trp_french_arty|L'Artillerie
+trp_french_arty_pl|Artillería
+trp_french_arty_guard|Guardia de artilleria
+trp_french_arty_guard_pl|Guardia de artilleria
+trp_french_arty_nco|L'Artillerie
+trp_french_arty_nco_pl|Tren de Artillería
+trp_french_arty_officer|L'Artillerie
+trp_french_arty_officer_pl|Oficial
+trp_french_medic|Medecin de 2e classe
+trp_french_medic_pl|Cirujano
+trp_french_sapper|Zapador
+trp_french_sapper_pl|Ingeniero
+trp_french_ship|Tripulación del buque
+trp_french_ship_pl|Infantería
+trp_french_ship_cannon|Tripulación del buque
+trp_french_ship_cannon_pl|Artillería del buque
+trp_french_ship_marine|Tripulación del buque
+trp_french_ship_marine_pl|Marina, 24e Bataillon des Equipages
+trp_french_ship_captain|Tripulación del buque
+trp_french_ship_captain_pl|Capitaine de Vaisseau, Intrepide
+trp_napoleon|L'Empereur Napoleon Bonaparte
+trp_napoleon_pl|Comandante
+trp_prussian_infantry|8. Brandenburgische Infanterie-Regiment
+trp_prussian_infantry_pl|Infantería de Línea
+trp_prussian_infantry_nco|8. Infanterie Regiment
+trp_prussian_infantry_nco_pl|Sargento
+trp_prussian_infantry_officer|8. Infanterie Regiment
+trp_prussian_infantry_officer_pl|Oficial
+trp_prussian_infantry_drum|8. Infanterie Regiment
+trp_prussian_infantry_drum_pl|Tambor
+trp_prussian_infantry_flute|8. Infanterie Regiment
+trp_prussian_infantry_flute_pl|Flautista
+trp_prussian_infantry2|23. Rheinische Infanterie-Regiment
+trp_prussian_infantry2_pl|Infantería de Línea
+trp_prussian_infantry2_nco|23. Rheinische Infanterie-Regiment
+trp_prussian_infantry2_nco_pl|Sargento
+trp_prussian_infantry2_officer|23. Rheinische Infanterie-Regiment
+trp_prussian_infantry2_officer_pl|Oficial
+trp_prussian_infantry2_drum|23. Rheinische Infanterie-Regiment
+trp_prussian_infantry2_drum_pl|Tambor
+trp_prussian_infantry2_flute|23. Rheinische Infanterie-Regiment
+trp_prussian_infantry2_flute_pl|Flautista
+trp_prussian_infantry_kurmark|3. Kurmarkische Landwehr-Regiment
+trp_prussian_infantry_kurmark_pl|Infantería de Línea
+trp_prussian_infantry_kurmark_nco|3. Kurmark Landwehr
+trp_prussian_infantry_kurmark_nco_pl|Sargento
+trp_prussian_infantry_kurmark_officer|3. Kurmark Landwehr
+trp_prussian_infantry_kurmark_officer_pl|Oficial
+trp_prussian_infantry_kurmark_drum|3. Kurmark Landwehr
+trp_prussian_infantry_kurmark_drum_pl|Tambor
+trp_prussian_infantry_kurmark_flute|3. Kurmark Landwehr
+trp_prussian_infantry_kurmark_flute_pl|Flautista
+trp_prussian_infantry_freikorps|Lutzowsches Freikorps
+trp_prussian_infantry_freikorps_pl|Infantería de Línea
+trp_prussian_infantry_freikorps_nco|Lutzowsches Freikorps
+trp_prussian_infantry_freikorps_nco_pl|Sargento
+trp_prussian_infantry_freikorps_officer|Lutzowsches Freikorps
+trp_prussian_infantry_freikorps_officer_pl|Oficial
+trp_prussian_infantry_freikorps_drum|Lutzowsches Freikorps
+trp_prussian_infantry_freikorps_drum_pl|Tambor
+trp_prussian_infantry_freikorps_flute|Lutzowsches Freikorps
+trp_prussian_infantry_freikorps_flute_pl|Flautista
+trp_prussian_infantry_15|1. Garde-Regiment zu Fuss
+trp_prussian_infantry_15_pl|Guardia a Pie
+trp_prussian_infantry_15_nco|1. Garde-Regiment zu Fuss
+trp_prussian_infantry_15_nco_pl|Sargento
+trp_prussian_infantry_15_officer|1. Garde-Regiment zu Fuss
+trp_prussian_infantry_15_officer_pl|Oficial
+trp_prussian_infantry_15_drum|1. Garde-Regiment zu Fuss
+trp_prussian_infantry_15_drum_pl|Tambor
+trp_prussian_infantry_15_flute|1. Garde-Regiment zu Fuss
+trp_prussian_infantry_15_flute_pl|Flautista
+trp_prussian_infantry_rifle|Schlesische Schutzen
+trp_prussian_infantry_rifle_pl|Tirador
+trp_prussian_infantry_rifle_nco|Schlesische Jaeger
+trp_prussian_infantry_rifle_nco_pl|Sargento
+trp_prussian_infantry_rifle_officer|Schlesische Jaeger
+trp_prussian_infantry_rifle_officer_pl|Oficial
+trp_prussian_infantry_rifle_horn|Schlesische Jaeger
+trp_prussian_infantry_rifle_horn_pl|Cornista
+trp_prussian_dragoon|6. Neumarkische Dragoner
+trp_prussian_dragoon_pl|Dragón
+trp_prussian_dragoon_nco|6. Dragoner Regiment
+trp_prussian_dragoon_nco_pl|Sargento
+trp_prussian_dragoon_officer|6. Dragoner Regiment
+trp_prussian_dragoon_officer_pl|Oficial
+trp_prussian_dragoon_trumpet|6. Dragoner Regiment
+trp_prussian_dragoon_trumpet_pl|Trompetista
+trp_prussian_hussar|1. Leib-Husaren-Regiment (Totenkopfhusaren)
+trp_prussian_hussar_pl|Húsar
+trp_prussian_hussar_nco|Death's Head Hussar Regiment
+trp_prussian_hussar_nco_pl|Sargento
+trp_prussian_hussar_officer|Death's Head Hussar Regiment
+trp_prussian_hussar_officer_pl|Oficial
+trp_prussian_hussar_trumpet|Death's Head Hussar Regiment
+trp_prussian_hussar_trumpet_pl|Trompetista
+trp_prussian_landwehr_cav|Westfalische Landwehrkavallerie
+trp_prussian_landwehr_cav_pl|Lancero
+trp_prussian_landwehr_cav_nco|Westfalische Landwehrkavallerie
+trp_prussian_landwehr_cav_nco_pl|Sargento
+trp_prussian_landwehr_cav_officer|Westfalische Landwehrkavallerie
+trp_prussian_landwehr_cav_officer_pl|Oficial
+trp_prussian_landwehr_cav_trumpet|Westfalische Landwehrkavallerie
+trp_prussian_landwehr_cav_trumpet_pl|Trompetista
+trp_prussian_cuirassier|3. Brandenburgische Kurassier Regiment
+trp_prussian_cuirassier_pl|Caballería Pesada
+trp_prussian_cuirassier_nco|3. Brandenburgische Kurassier Regiment
+trp_prussian_cuirassier_nco_pl|Sargento
+trp_prussian_cuirassier_officer|3. Brandenburgische Kurassier Regiment
+trp_prussian_cuirassier_officer_pl|Oficial
+trp_prussian_cuirassier_trumpet|3. Brandenburgische Kurassier Regiment
+trp_prussian_cuirassier_trumpet_pl|Trompetista
+trp_prussian_arty|36. Regiment der Fussartillerie
+trp_prussian_arty_pl|Artillería
+trp_prussian_arty_guard|Guardia de artilleria
+trp_prussian_arty_guard_pl|Guardia de artilleria
+trp_prussian_arty_nco|36. Regiment der Fussartillerie
+trp_prussian_arty_nco_pl|Artillería Train
+trp_prussian_arty_officer|36. Regiment der Fussartillerie
+trp_prussian_arty_officer_pl|Oficial
+trp_prussian_medic|Sanitario
+trp_prussian_medic_pl|Cirujano
+trp_prussian_sapper|4. Mansfelder Pionierskorps
+trp_prussian_sapper_pl|Ingeniero
+trp_prussian_blucher|Generalfeldmarschall Gebhard von Blucher
+trp_prussian_blucher_pl|Comandante
+trp_russian_partizan|Partizani
+trp_russian_partizan_pl|Partisan Irregulars
+trp_russian_opol|Sankt-Peterburzhskoye Opolcheniye
+trp_russian_opol_pl|Milicia de Línea
+trp_russian_opol_nco|St Petersburg Opolcheniye
+trp_russian_opol_nco_pl|Sargento
+trp_russian_opol_officer|St Petersburg Opolcheniye
+trp_russian_opol_officer_pl|Oficial
+trp_russian_infantry|Simbirskiy Pehotniy Polk
+trp_russian_infantry_pl|Infantería de Línea
+trp_russian_infantry_nco|Simbirsk Infantry Regiment
+trp_russian_infantry_nco_pl|Sargento
+trp_russian_infantry_officer|Simbirsk Infantry Regiment
+trp_russian_infantry_officer_pl|Oficial
+trp_russian_infantry_drum|Simbirsk Infantry Regiment
+trp_russian_infantry_drum_pl|Tambor
+trp_russian_infantry_flute|Simbirsk Infantry Regiment
+trp_russian_infantry_flute_pl|Flautista
+trp_russian_grenadier|Pavlovskiy Grenaderskiy Polk
+trp_russian_grenadier_pl|Infantería de Línea
+trp_russian_grenadier_nco|Pavlovskiy Grenadier Regiment
+trp_russian_grenadier_nco_pl|Sargento
+trp_russian_grenadier_officer|Pavlovskiy Grenadier Regiment
+trp_russian_grenadier_officer_pl|Oficial
+trp_russian_grenadier_drum|Pavlovskiy Grenadier Regiment
+trp_russian_grenadier_drum_pl|Tambor
+trp_russian_grenadier_flute|Pavlovskiy Grenadier Regiment
+trp_russian_grenadier_flute_pl|Flautista
+trp_russian_foot_guard|Leib-Gvardii Preobrazhenskiy Polk
+trp_russian_foot_guard_pl|Guardia a Pie
+trp_russian_foot_guard_nco|Preobrazhenskiy Guard Regiment
+trp_russian_foot_guard_nco_pl|Sargento
+trp_russian_foot_guard_officer|Preobrazhenskiy Guard Regiment
+trp_russian_foot_guard_officer_pl|Oficial
+trp_russian_foot_guard_drum|Preobrazhenskiy Guard Regiment
+trp_russian_foot_guard_drum_pl|Tambor
+trp_russian_foot_guard_flute|Preobrazhenskiy Guard Regiment
+trp_russian_foot_guard_flute_pl|Flautista
+trp_russian_infantry_rifle|21-y Yegerskiy Polk
+trp_russian_infantry_rifle_pl|Tirador
+trp_russian_infantry_rifle_nco|21st Jaeger Regiment
+trp_russian_infantry_rifle_nco_pl|Sargento
+trp_russian_infantry_rifle_officer|21st Jaeger Regiment
+trp_russian_infantry_rifle_officer_pl|Oficial
+trp_russian_infantry_rifle_horn|21st Jaeger Regiment
+trp_russian_infantry_rifle_horn_pl|Cornista
+trp_russian_hussar|Sumskoy Gusarskiy Polk
+trp_russian_hussar_pl|Húsar
+trp_russian_hussar_nco|Sumskiy Hussar Regiment
+trp_russian_hussar_nco_pl|Sargento
+trp_russian_hussar_officer|Sumskiy Hussar Regiment
+trp_russian_hussar_officer_pl|Oficial
+trp_russian_hussar_trumpet|Sumskiy Hussar Regiment
+trp_russian_hussar_trumpet_pl|Trompetista
+trp_russian_uhlan|Litovskiy Ulanskiy Polk
+trp_russian_uhlan_pl|Lancer
+trp_russian_uhlan_nco|Lithuanian Uhlans
+trp_russian_uhlan_nco_pl|Colour Bearer
+trp_russian_uhlan_officer|Lithuanian Uhlans
+trp_russian_uhlan_officer_pl|Officer
+trp_russian_uhlan_trumpet|Lithuanian Uhlans
+trp_russian_uhlan_trumpet_pl|Trumpeter
+trp_russian_cossack|Donskoy Kazachiy Polk
+trp_russian_cossack_pl|Lancero
+trp_russian_cossack_nco|Don Cossacks
+trp_russian_cossack_nco_pl|Sargento
+trp_russian_cossack_officer|Don Cossacks
+trp_russian_cossack_officer_pl|Oficial
+trp_russian_dragoon|Kievskiy Dragunskiy Polk
+trp_russian_dragoon_pl|Dragón
+trp_russian_dragoon_nco|Kiev Dragoon Regiment
+trp_russian_dragoon_nco_pl|Sargento
+trp_russian_dragoon_officer|Kiev Dragoon Regiment
+trp_russian_dragoon_officer_pl|Oficial
+trp_russian_dragoon_trumpet|Kiev Dragoon Regiment
+trp_russian_dragoon_trumpet_pl|Trompetista
+trp_russian_horse_guard|Kavalergardskiy Polk
+trp_russian_horse_guard_pl|Cuirassier
+trp_russian_horse_guard_nco|Chevaliers-Gardes
+trp_russian_horse_guard_nco_pl|Sargento
+trp_russian_horse_guard_officer|Chevaliers-Gardes
+trp_russian_horse_guard_officer_pl|Oficial
+trp_russian_horse_guard_trumpet|Chevaliers-Gardes
+trp_russian_horse_guard_trumpet_pl|Trompetista
+trp_russian_arty|8-ya Batarejnaya Rota
+trp_russian_arty_pl|Artillería
+trp_russian_arty_guard|Guardia de artilleria
+trp_russian_arty_guard_pl|Guardia de artilleria
+trp_russian_arty_nco|Artillería
+trp_russian_arty_nco_pl|Tren de Artillería
+trp_russian_arty_officer|Artillería
+trp_russian_arty_officer_pl|Oficial
+trp_russian_medic|Khirurg
+trp_russian_medic_pl|Cirujano
+trp_russian_sapper|Zapador
+trp_russian_sapper_pl|Ingeniero
+trp_kutuzov|Feldmarshal Mikhail Kutuzov
+trp_kutuzov_pl|Comandante
+trp_austrian_infantry|Infantrie Regiment Erzherzog Rudolf Nr. 14
+trp_austrian_infantry_pl|Infantería de Línea
+trp_austrian_infantry_nco|Infantrie Regiment Erzherzog Rudolf Nr. 14
+trp_austrian_infantry_nco_pl|Sargento
+trp_austrian_infantry_officer|Infantrie Regiment Erzherzog Rudolf Nr. 14
+trp_austrian_infantry_officer_pl|Oficial
+trp_austrian_infantry_drum|Infantrie Regiment Erzherzog Rudolf Nr. 14
+trp_austrian_infantry_drum_pl|Tambor
+trp_austrian_infantry_flute|Infantrie Regiment Erzherzog Rudolf Nr. 14
+trp_austrian_infantry_flute_pl|Flautista
+trp_austrian_infantry2|Infantrie Regiment Freiherr von Wacquant Nr. 62
+trp_austrian_infantry2_pl|Infantería de Línea
+trp_austrian_infantry2_nco|Infantrie Regiment Freiherr von Wacquant Nr. 62
+trp_austrian_infantry2_nco_pl|Sargento
+trp_austrian_infantry2_officer|Infantrie Regiment Freiherr von Wacquant Nr. 62
+trp_austrian_infantry2_officer_pl|Oficial
+trp_austrian_infantry2_drum|Infantrie Regiment Freiherr von Wacquant Nr. 62
+trp_austrian_infantry2_drum_pl|Tambor
+trp_austrian_infantry2_flute|Infantrie Regiment Freiherr von Wacquant Nr. 62
+trp_austrian_infantry2_flute_pl|Flautista
+trp_austrian_grenzer|Grenz Regiment Oguliner Nr. 3
+trp_austrian_grenzer_pl|Line/Light Infantry
+trp_austrian_grenzer_nco|Grenz Regiment Oguliner Nr. 3
+trp_austrian_grenzer_nco_pl|Sargento
+trp_austrian_grenzer_officer|Grenz Regiment Oguliner Nr. 3
+trp_austrian_grenzer_officer_pl|Oficial
+trp_austrian_grenzer_drum|Grenz Regiment Oguliner Nr. 3
+trp_austrian_grenzer_drum_pl|Tambor
+trp_austrian_grenzer_flute|Grenz Regiment Oguliner Nr. 3
+trp_austrian_grenzer_flute_pl|Flautista
+trp_austrian_grenadier|Grenadier Battalion Purcell
+trp_austrian_grenadier_pl|Guardia a Pie
+trp_austrian_grenadier_nco|Grenadier Battalion Purcell
+trp_austrian_grenadier_nco_pl|Sargento
+trp_austrian_grenadier_officer|Grenadier Battalion Purcell
+trp_austrian_grenadier_officer_pl|Oficial
+trp_austrian_grenadier_drum|Grenadier Battalion Purcell
+trp_austrian_grenadier_drum_pl|Tambor
+trp_austrian_grenadier_flute|Grenadier Battalion Purcell
+trp_austrian_grenadier_flute_pl|Flautista
+trp_austrian_infantry_rifle|Jaeger Battalion 2
+trp_austrian_infantry_rifle_pl|Tirador
+trp_austrian_infantry_rifle_nco|Jaeger Battalion 2
+trp_austrian_infantry_rifle_nco_pl|Sargento
+trp_austrian_infantry_rifle_officer|Jaeger Battalion 2
+trp_austrian_infantry_rifle_officer_pl|Oficial
+trp_austrian_infantry_rifle_horn|Jaeger Battalion 2
+trp_austrian_infantry_rifle_horn_pl|Cornista
+trp_austrian_hussar|Husar Regiment Graf von Hessen-Homburg Nr. 4
+trp_austrian_hussar_pl|Húsar
+trp_austrian_hussar_nco|Husar Regiment Graf von Hessen-Homburg Nr. 4
+trp_austrian_hussar_nco_pl|Sargento
+trp_austrian_hussar_officer|Husar Regiment Graf von Hessen-Homburg Nr. 4
+trp_austrian_hussar_officer_pl|Oficial
+trp_austrian_hussar_trumpet|Husar Regiment Graf von Hessen-Homburg Nr. 4
+trp_austrian_hussar_trumpet_pl|Trompetista
+trp_austrian_uhlan|Ulan Regiment Schwarzenberg Nr. 2
+trp_austrian_uhlan_pl|Lancero
+trp_austrian_uhlan_nco|Ulan Regiment Schwarzenberg Nr. 2
+trp_austrian_uhlan_nco_pl|Sargento
+trp_austrian_uhlan_officer|Ulan Regiment Schwarzenberg Nr. 2
+trp_austrian_uhlan_officer_pl|Oficial
+trp_austrian_uhlan_trumpet|Ulan Regiment Schwarzenberg Nr. 2
+trp_austrian_uhlan_trumpet_pl|Trompetista
+trp_austrian_light_horse|Chevauleger Regiment Furst von Hohenzollern Nr. 2
+trp_austrian_light_horse_pl|Caballería Ligera
+trp_austrian_light_horse_nco|Chevauleger Regiment Furst von Hohenzollern Nr. 2
+trp_austrian_light_horse_nco_pl|Sargento
+trp_austrian_light_horse_officer|Chevauleger Regiment Furst von Hohenzollern Nr. 2
+trp_austrian_light_horse_officer_pl|Oficial
+trp_austrian_light_horse_trumpet|Chevauleger Regiment Furst von Hohenzollern Nr. 2
+trp_austrian_light_horse_trumpet_pl|Trompetista
+trp_austrian_dragoon|Dragoner Regiment Erzherzog Ferdinand Nr. 5
+trp_austrian_dragoon_pl|Dragón
+trp_austrian_dragoon_nco|Dragoner Regiment Erzherzog Ferdinand Nr. 5
+trp_austrian_dragoon_nco_pl|Sargento
+trp_austrian_dragoon_officer|Dragoner Regiment Erzherzog Ferdinand Nr. 5
+trp_austrian_dragoon_officer_pl|Oficial
+trp_austrian_dragoon_trumpet|Dragoner Regiment Erzherzog Ferdinand Nr. 5
+trp_austrian_dragoon_trumpet_pl|Trompetista
+trp_austrian_cuirassier|Kurassier Regiment Kaiser Franz Nr. 1
+trp_austrian_cuirassier_pl|Cuirassier
+trp_austrian_cuirassier_nco|Kurassier Regiment Kaiser Franz Nr. 1
+trp_austrian_cuirassier_nco_pl|Sargento
+trp_austrian_cuirassier_officer|Kurassier Regiment Kaiser Franz Nr. 1
+trp_austrian_cuirassier_officer_pl|Oficial
+trp_austrian_cuirassier_trumpet|Kurassier Regiment Kaiser Franz Nr. 1
+trp_austrian_cuirassier_trumpet_pl|Trompetista
+trp_austrian_arty|Artillerie Regiment Prinz zu Lothringen Nr. 7
+trp_austrian_arty_pl|Artillería
+trp_austrian_arty_guard|Guardia de artilleria
+trp_austrian_arty_guard_pl|Guardia de artilleria
+trp_austrian_arty_nco|Artillerie Regiment Prinz zu Lothringen Nr. 7
+trp_austrian_arty_nco_pl|Tren de Artillería
+trp_austrian_arty_officer|Artillerie Regiment Prinz zu Lothringen Nr. 7
+trp_austrian_arty_officer_pl|Oficial
+trp_austrian_medic|Sanitario
+trp_austrian_medic_pl|Cirujano
+trp_austrian_sapper|Pionier-Battalion Nr. 1
+trp_austrian_sapper_pl|Ingeniero
+trp_schwarzenberg|Karl Philipp, Furst zu Schwarzenberg
+trp_schwarzenberg_pl|Comandante
+trp_rhine_infantry_bavaria|2.Regimiento de Infanteria de Linea Kronprinz, Bayern
+trp_rhine_infantry_bavaria_pl|Infanteria de Linea
+trp_rhine_infantry_bavaria_nco|Infanteria de Linea Bavara
+trp_rhine_infantry_bavaria_nco_pl|Sargento
+trp_rhine_infantry_bavaria_officer|Infanteria de Linea Bavara
+trp_rhine_infantry_bavaria_officer_pl|Oficial
+trp_rhine_infantry_bavaria_drum|Infanteria de liena Bavara
+trp_rhine_infantry_bavaria_drum_pl|Tamvor
+trp_rhine_infantry_bavaria_flute|Infanteria de Linea Bavara 
+trp_rhine_infantry_bavaria_flute_pl|Flautista
+trp_rhine_infantry_wurttemberg|2 Regimiento de Infanteria Herzog Wilhelm, Wurttemberg
+trp_rhine_infantry_wurttemberg_pl|Infanteria de Linea 
+trp_rhine_infantry_wurttemberg_nco|Infanteria de Linea Wurttemberger 
+trp_rhine_infantry_wurttemberg_nco_pl|Sargento
+trp_rhine_infantry_wurttemberg_officer|Infanteria de Linea de Wurttemberger 
+trp_rhine_infantry_wurttemberg_officer_pl|Oficial
+trp_rhine_infantry_wurttemberg_drum|Infanteria de linea de Wurttemberger 
+trp_rhine_infantry_wurttemberg_drum_pl|Tambor
+trp_rhine_infantry_wurttemberg_flute|Infanteia de Linea Wurttemberger Line Infantry
+trp_rhine_infantry_wurttemberg_flute_pl|Flautista
+trp_rhine_infantry_saxony|Regimiento de Infanteria Prinz Friedrich August, Sachsen
+trp_rhine_infantry_saxony_pl|Infanteria de Linea
+trp_rhine_infantry_saxony_nco|Infanteria de Linea Sajona
+trp_rhine_infantry_saxony_nco_pl|Sargento
+trp_rhine_infantry_saxony_officer|Infanteria de Linea Sajona
+trp_rhine_infantry_saxony_officer_pl|Oficial
+trp_rhine_infantry_saxony_drum|Infanteria de Linea Sajona
+trp_rhine_infantry_saxony_drum_pl|Tambor
+trp_rhine_infantry_saxony_flute|Infanteria de Linea Sajona
+trp_rhine_infantry_saxony_flute_pl|Flauta
+trp_rhine_infantry_wurttemberg2|4 Regimiento de Infanteria von Franquemont, Wurttemberg
+trp_rhine_infantry_wurttemberg2_pl|Infanteria de Linea 
+trp_rhine_infantry_wurttemberg2_nco|Granandero de Wurttemberger
+trp_rhine_infantry_wurttemberg2_nco_pl|Sargento 
+trp_rhine_infantry_wurttemberg2_officer|Granandero de Wurttemberger 
+trp_rhine_infantry_wurttemberg2_officer_pl|Oficial
+trp_rhine_infantry_wurttemberg2_drum|Granadero de Wurttemberger 
+trp_rhine_infantry_wurttemberg2_drum_pl|Tambor
+trp_rhine_infantry_wurttemberg2_flute|Granadero de Wurttemberger 
+trp_rhine_infantry_wurttemberg2_flute_pl|Flauta
+trp_rhine_grenadier_guard|Granaderos de la guardia, Westphalen
+trp_rhine_grenadier_guard_pl|Guardia a pie
+trp_rhine_grenadier_guard_nco|Guadia granadero Westphalian 
+trp_rhine_grenadier_guard_nco_pl|Sargento
+trp_rhine_grenadier_guard_officer|Guardia granadero Westphalian 
+trp_rhine_grenadier_guard_officer_pl|Oficial
+trp_rhine_grenadier_guard_drum|Guardia granadro Westphalian
+trp_rhine_grenadier_guard_drum_pl|Tambor
+trp_rhine_grenadier_guard_flute|Guardia granadero Westphalian 
+trp_rhine_grenadier_guard_flute_pl|Flautista
+trp_rhine_light_infantry_hessen|Regimiento de Infanteria Gross- und Erbprinz, Hessen-Darmstadt
+trp_rhine_light_infantry_hessen_pl|Infanteria Ligera
+trp_rhine_light_infantry_hessen_nco|Infanteria Ligera de Hessen 
+trp_rhine_light_infantry_hessen_nco_pl|Sargento
+trp_rhine_light_infantry_hessen_officer|Infanteria Ligera de Hessen 
+trp_rhine_light_infantry_hessen_officer_pl|Oficial
+trp_rhine_light_infantry_hessen_horn|Infanteria Ligera de Hessen
+trp_rhine_light_infantry_hessen_horn_pl|Corneta
+trp_rhine_light_infantry_bavaria|7. Batallon de Infanteria Ligera , Bayern
+trp_rhine_light_infantry_bavaria_pl|Infanteria ligera/Tirador
+trp_rhine_light_infantry_bavaria_nco|Tirador Bavaro
+trp_rhine_light_infantry_bavaria_nco_pl|Sargento
+trp_rhine_light_infantry_bavaria_officer|Tirador Bavaro
+trp_rhine_light_infantry_bavaria_officer_pl|Oficial
+trp_rhine_light_infantry_bavaria_horn|Tirador Bavaro
+trp_rhine_light_infantry_bavaria_horn_pl|Corneta
+trp_rhine_mounted_jaeger|Reitende Jaeger, Nassau
+trp_rhine_mounted_jaeger_pl|Husar
+trp_rhine_mounted_jaeger_nco|Tirador montado Nassauer 
+trp_rhine_mounted_jaeger_nco_pl|Sargento
+trp_rhine_mounted_jaeger_officer|Tirador montado Nassauer
+trp_rhine_mounted_jaeger_officer_pl|Oficial
+trp_rhine_mounted_jaeger_trumpet|Tirador montado Nassauer 
+trp_rhine_mounted_jaeger_trumpet_pl|Trompeta
+trp_rhine_uhlan|Regimiento Ulano Prinz Clemens, Sachsen
+trp_rhine_uhlan_pl|Lancero
+trp_rhine_uhlan_nco|Ulano Sajon
+trp_rhine_uhlan_nco_pl|Sargento
+trp_rhine_uhlan_officer|Ulnao Sajon
+trp_rhine_uhlan_officer_pl|Oficial
+trp_rhine_uhlan_trumpet|Ulano Sajon
+trp_rhine_uhlan_trumpet_pl|Trompeta
+trp_rhine_light_dragoon|Regimiento de dragones ligeros, Baden
+trp_rhine_light_dragoon_pl|Caballo ligero
+trp_rhine_light_dragoon_nco|Dragon ligero de Badner 
+trp_rhine_light_dragoon_nco_pl|Sargento
+trp_rhine_light_dragoon_officer|Dragon ligero de Badner 
+trp_rhine_light_dragoon_officer_pl|Oficial
+trp_rhine_light_dragoon_trumpet|Dragon Ligero de Badner 
+trp_rhine_light_dragoon_trumpet_pl|Trompeta
+trp_rhine_cuirassier|1er Regimiento  de coraceros, Westphalen
+trp_rhine_cuirassier_pl|Coracero
+trp_rhine_cuirassier_nco|Coracer de Westphalian 
+trp_rhine_cuirassier_nco_pl|Sargento
+trp_rhine_cuirassier_officer|Coracero de Westphalian 
+trp_rhine_cuirassier_officer_pl|Oficial
+trp_rhine_cuirassier_trumpet|Coracero de Westphalian 
+trp_rhine_cuirassier_trumpet_pl|Trompeta
+trp_rhine_garde_du_corps|Guardia de corps, Sachsen
+trp_rhine_garde_du_corps_pl|Caballeria pesada
+trp_rhine_garde_du_corps_nco|Guardia a caballo Sajon 
+trp_rhine_garde_du_corps_nco_pl|Sargento
+trp_rhine_garde_du_corps_officer|Guardia a caballo Sajon 
+trp_rhine_garde_du_corps_officer_pl|Oficial
+trp_rhine_garde_du_corps_trumpet|Guardia a caballo Sajon
+trp_rhine_garde_du_corps_trumpet_pl|Trompeta
+trp_rhine_arty|Regimiento de Artilleria, Bayern
+trp_rhine_arty_pl|Artilleria
+trp_rhine_arty_guard|Guardia de artilleria, Bayern
+trp_rhine_arty_guard_pl|Guardia de artilleria
+trp_rhine_arty_nco|Artillero Bavaro
+trp_rhine_arty_nco_pl|Tren de artilleria
+trp_rhine_arty_officer|Artillero Bavaro
+trp_rhine_arty_officer_pl|Oficial
+trp_rhine_medic|Medecin de 2e classe, Frankreich
+trp_rhine_medic_pl|cirujano
+trp_rhine_sapper|Pioneros, Monta�a
+trp_rhine_sapper_pl|Ingeniero
+trp_friedrich_august|Friedrich August I, Konig von Sachsen
+trp_friedrich_august_pl|Commandante
+trp_british_infantry_flag_bearer|33rd Regiment of Foot
+trp_british_infantry2_flag_bearer|5th Line Battalion King's German Legion
+trp_british_highlander_flag_bearer|42nd Regiment of Foot (Black Watch)
+trp_british_foot_guard_flag_bearer|Coldstream Regiment of Foot Guards
+trp_british_light_infantry_flag_bearer|51st (2nd Yorkshire West Riding) Regiment of Foot
+trp_british_rifle_flag_bearer|95th Regiment of Foot (Rifles)
+trp_british_hussar_flag_bearer|1st KGL Hussars
+trp_british_light_dragoon_flag_bearer|23rd Light Dragoons
+trp_british_dragoon_flag_bearer|6th (Inniskilling) Dragoons
+trp_british_horseguard_flag_bearer|Royal Horse Guards Blue
+trp_british_arty_flag_bearer|Royal Foot Artillery
+trp_british_ship_flag_bearer|Tripulación del buque
+trp_french_infantry_flag_bearer|45e Regiment d'Infanterie de ligne
+trp_french_infantry2_flag_bearer|84e Regiment d'Infanterie de ligne
+trp_french_infantry_vistula_flag_bearer|Legion de la Vistule
+trp_french_old_guard_flag_bearer|1er Regiment de Grenadiers de la Garde Imperiale
+trp_french_voltigeur_flag_bearer|15eme Regiment d'Infanterie Legere
+trp_french_hussar_flag_bearer|2e Regiment de Hussards
+trp_french_lancer_flag_bearer|Regiment de Chevau-Legers Lanciers de la Garde
+trp_french_dragoon_flag_bearer|Regiment de Dragons de l'Imperatrice
+trp_french_cuirassier_flag_bearer|9eme Regiment de Cuirassiers
+trp_french_carabineer_flag_bearer|1er Regiment de Carabiniers
+trp_french_grenadier_a_cheval_flag_bearer|Regiment de Grenadiers a Cheval de la Garde
+trp_french_arty_flag_bearer|L'Artillerie
+trp_french_ship_flag_bearer|Tripulación del buque
+trp_prussian_infantry_flag_bearer|8. Brandenburgische Infanterie-Regiment
+trp_prussian_infantry2_flag_bearer|23. Rheinische Infanterie-Regiment
+trp_prussian_infantry_kurmark_flag_bearer|3. Kurmarkische Landwehr-Regiment
+trp_prussian_infantry_freikorps_flag_bearer|Lutzowsches Freikorps
+trp_prussian_infantry_15_flag_bearer|1. Garde-Regiment zu Fuss
+trp_prussian_infantry_rifle_flag_bearer|Schlesische Schutzen
+trp_prussian_dragoon_flag_bearer|6. Neumarkische Dragoner
+trp_prussian_hussar_flag_bearer|1. Leib-Husaren-Regiment (Totenkopfhusaren)
+trp_prussian_landwehr_cav_flag_bearer|Westfalische Landwehrkavallerie
+trp_prussian_cuirassier_flag_bearer|3. Brandenburgische Kurassier Regiment
+trp_prussian_arty_flag_bearer|36. Regiment der Fussartillerie
+trp_russian_opol_flag_bearer|Sankt-Peterburzhskoye Opolcheniye
+trp_russian_infantry_flag_bearer|Simbirskiy Pehotniy Polk
+trp_russian_grenadier_flag_bearer|Pavlovskiy Grenaderskiy Polk
+trp_russian_foot_guard_flag_bearer|Leib-Gvardii Preobrazhenskiy Polk
+trp_russian_infantry_rifle_flag_bearer|21-y Yegerskiy Polk
+trp_russian_hussar_flag_bearer|Sumskoy Gusarskiy Polk
+trp_russian_uhlan_flag_bearer|Litovskiy Ulanskiy Polk
+trp_russian_cossack_flag_bearer|Donskoy Kazachiy Polk
+trp_russian_dragoon_flag_bearer|Kievskiy Dragunskiy Polk
+trp_russian_horse_guard_flag_bearer|Kavalergardskiy Polk
+trp_russian_arty_flag_bearer|8-ya Batarejnaya Rota
+trp_austrian_infantry_flag_bearer|Infantrie Regiment Erzherzog Rudolf Nr. 14
+trp_austrian_infantry2_flag_bearer|Infantrie Regiment Freiherr von Wacquant Nr. 62
+trp_austrian_grenzer_flag_bearer|Grenz Regiment Oguliner Nr. 3
+trp_austrian_grenadier_flag_bearer|Grenadier Battalion Purcell
+trp_austrian_infantry_rifle_flag_bearer|Jaeger Battalion 2
+trp_austrian_hussar_flag_bearer|Husar Regiment Graf von Hessen-Homburg Nr. 4
+trp_austrian_uhlan_flag_bearer|Ulan Regiment Schwarzenberg Nr. 2
+trp_austrian_light_horse_flag_bearer|Chevauleger Regiment Furst von Hohenzollern Nr. 2
+trp_austrian_dragoon_flag_bearer|Dragoner Regiment Erzherzog Ferdinand Nr. 5
+trp_austrian_cuirassier_flag_bearer|Kurassier Regiment Kaiser Franz Nr. 1
+trp_austrian_arty_flag_bearer|Artillerie Regiment Prinz zu Lothringen Nr. 7
+trp_rhine_infantry_bavaria_flag_bearer|2.Regimiento de Infanteria de Linea Kronprinz, Bayern
+trp_rhine_infantry_wurttemberg_flag_bearer|2 Regimiento de Infanteria Herzog Wilhelm, Wurttemberg
+trp_rhine_infantry_saxony_flag_bearer|Regimiento de Infanteria Prinz Friedrich August, Sachsen
+trp_rhine_infantry_wurttemberg2_flag_bearer|4 Regimiento de Infanteria von Franquemont, Wurttemberg
+trp_rhine_grenadier_guard_flag_bearer|Granaderos de la guardia, Westphalen
+trp_rhine_light_infantry_hessen_flag_bearer|Regimiento de Infanteria Gross- und Erbprinz, Hessen-Darmstadt
+trp_rhine_light_infantry_bavaria_flag_bearer|7. Batallon de Infanteria Ligera , Bayern
+trp_rhine_mounted_jaeger_flag_bearer|Reitende Jaeger, Nassau
+trp_rhine_uhlan_flag_bearer|Regimiento Ulano Prinz Clemens, Sachsen
+trp_rhine_light_dragoon_flag_bearer|Regimiento de dragones ligeros, Baden
+trp_rhine_cuirassier_flag_bearer|1er Regimiento  de coraceros, Westphalen
+trp_rhine_garde_du_corps_flag_bearer|Guardia de corps, Sachsen
+trp_rhine_arty_flag_bearer|Regimiento de Artilleria, Bayern
+trp_british_infantry_flag_bearer_pl|Alférez
+trp_british_infantry2_flag_bearer_pl|Alférez
+trp_british_highlander_flag_bearer_pl|Alférez
+trp_british_foot_guard_flag_bearer_pl|Alférez
+trp_british_light_infantry_flag_bearer_pl|Alférez
+trp_british_rifle_flag_bearer_pl|Alférez
+trp_british_hussar_flag_bearer_pl|Alférez
+trp_british_light_dragoon_flag_bearer_pl|Alférez
+trp_british_dragoon_flag_bearer_pl|Alférez
+trp_british_horseguard_flag_bearer_pl|Alférez
+trp_british_arty_flag_bearer_pl|Alférez
+trp_british_ship_flag_bearer_pl|Alférez
+trp_french_infantry_flag_bearer_pl|Portador del Águila
+trp_french_infantry2_flag_bearer_pl|Portador del Águila
+trp_french_infantry_vistula_flag_bearer_pl|Portador del Águila
+trp_french_old_guard_flag_bearer_pl|Portador del Águila
+trp_french_voltigeur_flag_bearer_pl|Portador del Águila
+trp_french_hussar_flag_bearer_pl|Portador del Águila
+trp_french_lancer_flag_bearer_pl|Portador del Águila
+trp_french_dragoon_flag_bearer_pl|Portador del Águila
+trp_french_cuirassier_flag_bearer_pl|Portador del Águila
+trp_french_carabineer_flag_bearer_pl|Portador del Águila
+trp_french_grenadier_a_cheval_flag_bearer_pl|Portador del Águila
+trp_french_arty_flag_bearer_pl|Portador del Águila
+trp_french_ship_flag_bearer_pl|Portador del Águila
+trp_prussian_infantry_flag_bearer_pl|Portaestandarte
+trp_prussian_infantry2_flag_bearer_pl|Portaestandarte
+trp_prussian_infantry_kurmark_flag_bearer_pl|Portaestandarte
+trp_prussian_infantry_freikorps_flag_bearer_pl|Portaestandarte
+trp_prussian_infantry_15_flag_bearer_pl|Portaestandarte
+trp_prussian_infantry_rifle_flag_bearer_pl|Portaestandarte
+trp_prussian_dragoon_flag_bearer_pl|Portaestandarte
+trp_prussian_hussar_flag_bearer_pl|Portaestandarte
+trp_prussian_landwehr_cav_flag_bearer_pl|Portaestandarte
+trp_prussian_cuirassier_flag_bearer_pl|Portaestandarte
+trp_prussian_arty_flag_bearer_pl|Portaestandarte
+trp_russian_opol_flag_bearer_pl|Portaestandarte
+trp_russian_infantry_flag_bearer_pl|Portaestandarte
+trp_russian_grenadier_flag_bearer_pl|Portaestandarte
+trp_russian_foot_guard_flag_bearer_pl|Portaestandarte
+trp_russian_infantry_rifle_flag_bearer_pl|Portaestandarte
+trp_russian_hussar_flag_bearer_pl|Portaestandarte
+trp_russian_uhlan_flag_bearer_pl|Portaestandarte
+trp_russian_cossack_flag_bearer_pl|Portaestandarte
+trp_russian_dragoon_flag_bearer_pl|Portaestandarte
+trp_russian_horse_guard_flag_bearer_pl|Portaestandarte
+trp_russian_arty_flag_bearer_pl|Portaestandarte
+trp_austrian_infantry_flag_bearer_pl|Portaestandarte
+trp_austrian_infantry2_flag_bearer_pl|Portaestandarte
+trp_austrian_grenzer_flag_bearer_pl|Portaestandarte
+trp_austrian_grenadier_flag_bearer_pl|Portaestandarte
+trp_austrian_infantry_rifle_flag_bearer_pl|Portaestandarte
+trp_austrian_hussar_flag_bearer_pl|Portaestandarte
+trp_austrian_uhlan_flag_bearer_pl|Portaestandarte
+trp_austrian_light_horse_flag_bearer_pl|Portaestandarte
+trp_austrian_dragoon_flag_bearer_pl|Portaestandarte
+trp_austrian_cuirassier_flag_bearer_pl|Portaestandarte
+trp_austrian_arty_flag_bearer_pl|Portaestandarte
+trp_rhine_infantry_bavaria_flag_bearer_pl|Portaestandarte
+trp_rhine_infantry_wurttemberg_flag_bearer_pl|Portaestandarte
+trp_rhine_infantry_saxony_flag_bearer_pl|Portaestandarte
+trp_rhine_infantry_wurttemberg2_flag_bearer_pl|Portaestandarte
+trp_rhine_grenadier_guard_flag_bearer_pl|Portaestandarte
+trp_rhine_light_infantry_hessen_flag_bearer_pl|Portaestandarte
+trp_rhine_light_infantry_bavaria_flag_bearer_pl|Portaestandarte
+trp_rhine_mounted_jaeger_flag_bearer_pl|Portaestandarte
+trp_rhine_uhlan_flag_bearer_pl|Portaestandarte
+trp_rhine_light_dragoon_flag_bearer_pl|Portaestandarte
+trp_rhine_cuirassier_flag_bearer_pl|Portaestandarte
+trp_rhine_garde_du_corps_flag_bearer_pl|Portaestandarte
+trp_rhine_arty_flag_bearer_pl|Portaestandarte
+trp_british_horse_sapper|Sapper
+trp_british_horse_sapper_pl|Ingeniero a caballo
+trp_french_horse_sapper|Sapeur
+trp_french_horse_sapper_pl|Ingeniero a caballo
+trp_prussian_horse_sapper|4. Mansfelder Pionierskorps
+trp_prussian_horse_sapper_pl|Ingeniero a caballo
+trp_russian_horse_sapper|Saper
+trp_russian_horse_sapper_pl|Ingeniero a caballo
+trp_austrian_horse_sapper|Pionier-Battalion Nr. 1
+trp_austrian_horse_sapper_pl|Ingeniero a caballo
+trp_rhine_horse_sapper|Pioniere, Berg
+trp_rhine_horse_sapper_pl|Ingeniero a caballo
+trp_ottoman_bashi|Basi-bozuk
+trp_ottoman_bashi_pl|Mercenarios
+trp_ottoman_medic|Hekim
+trp_ottoman_medic_pl|Cirujano
+trp_ottoman_sapper|Lağımcı
+trp_ottoman_sapper_pl|Ingeniero
+trp_ottoman_horse_sapper|Lağımcı
+trp_ottoman_horse_sapper_pl|Ingeniero a caballo
+trp_ottoman_ship_marine|Leventler
+trp_ottoman_ship_marine_pl|infantería de marina
+trp_ottoman_ship_flag_bearer|Ship Crew
+trp_ottoman_ship_flag_bearer_pl|Portaestandarte
+trp_ottoman_ship|Tripulación del buque
+trp_ottoman_ship_pl|Tripulación del buque
+trp_ottoman_ship_cannon|Tripulación del buque
+trp_ottoman_ship_cannon_pl|Artillería del buque
+trp_ottoman_ship_captain|Tripulación del buque
+trp_ottoman_ship_captain_pl|Capitán
+trp_ottoman_pasha|Cezzar Ahmet Paşa
+trp_ottoman_pasha_pl|Comandante
+trp_brit_canadian_infantry|Infantería Colonial Canadiense
+trp_brit_canadian_infantry_pl|Infantería de Línea
+trp_brit_canadian_infantry_flag_bearer|Infantería Colonial Canadiense
+trp_brit_canadian_infantry_flag_bearer_pl|Alférez
+trp_brit_canadian_infantry_nco|Infantería Colonial Canadiense
+trp_brit_canadian_infantry_nco_pl|Sargento
+trp_brit_canadian_infantry_officer|Infantería Colonial Canadiense
+trp_brit_canadian_infantry_officer_pl|Oficial
+trp_brit_canadian_infantry_drum|Infantería Colonial Canadiense
+trp_brit_canadian_infantry_drum_pl|Tambor
+trp_brit_canadian_infantry_flute|Infantería Colonial Canadiense
+trp_brit_canadian_infantry_flute_pl|Flautista
+trp_british_infantry14|14th Regiment of Foot (The Buckinghamshire)
+trp_british_infantry14_pl|Infantería de Línea
+trp_british_infantry14_flag_bearer|14th Regiment of Foot (The Buckinghamshire)
+trp_british_infantry14_flag_bearer_pl|Alférez
+trp_british_infantry14_nco|14th Regiment of Foot (The Buckinghamshire)
+trp_british_infantry14_nco_pl|Sargento
+trp_british_infantry14_officer|14th Regiment of Foot (The Buckinghamshire)
+trp_british_infantry14_officer_pl|Oficial
+trp_british_infantry14_drum|14th Regiment of Foot (The Buckinghamshire)
+trp_british_infantry14_drum_pl|Tambor
+trp_british_infantry14_flute|14th Regiment of Foot (The Buckinghamshire)
+trp_british_infantry14_flute_pl|Flautista
+trp_british_highlander78|78th Regiment of Foot (the Ross-shire Buffs)
+trp_british_highlander78_pl|Infantería de Línea
+trp_british_highlander78_flag_bearer|78th Regiment of Foot (the Ross-shire Buffs)
+trp_british_highlander78_flag_bearer_pl|Alférez
+trp_british_highlander78_nco|78th Regiment of Foot (the Ross-shire Buffs)
+trp_british_highlander78_nco_pl|Sargento
+trp_british_highlander78_officer|78th Regiment of Foot (the Ross-shire Buffs)
+trp_british_highlander78_officer_pl|Oficial
+trp_british_highlander78_drum|78th Regiment of Foot (the Ross-shire Buffs)
+trp_british_highlander78_drum_pl|Tambor
+trp_british_highlander78_pipes|78th Regiment of Foot (the Ross-shire Buffs)
+trp_british_highlander78_pipes_pl|Gaitero
+trp_brit_indian|5th West India Regiment of Foot
+trp_brit_indian_pl|Guardia a Pie
+trp_brit_indian_flag_bearer|5th West India Regiment of Foot
+trp_brit_indian_flag_bearer_pl|Alférez
+trp_brit_indian_nco|5th West India Regiment of Foot
+trp_brit_indian_nco_pl|Sargento
+trp_brit_indian_officer|5th West India Regiment of Foot
+trp_brit_indian_officer_pl|Oficial
+trp_brit_indian_drum|5th West India Regiment of Foot
+trp_brit_indian_drum_pl|Tambor
+trp_brit_indian_flute|5th West India Regiment of Foot
+trp_brit_indian_flute_pl|Flautista
+trp_brit_canadian_horsemen|Caballería Ligera Colonial Canadiense
+trp_brit_canadian_horsemen_pl|Húsar
+trp_brit_canadian_horsemen_flag_bearer|Caballería Ligera Colonial Canadiense
+trp_brit_canadian_horsemen_flag_bearer_pl|Alférez
+trp_brit_canadian_horsemen_nco|Caballería Ligera Colonial Canadiense
+trp_brit_canadian_horsemen_nco_pl|Sargento
+trp_brit_canadian_horsemen_officer|Caballería Ligera Colonial Canadiense
+trp_brit_canadian_horsemen_officer_pl|Oficial
+trp_brit_canadian_horsemen_trumpet|Caballería Ligera Colonial Canadiense
+trp_brit_canadian_horsemen_trumpet_pl|Trompetista
+trp_brit_horseart|Artillería real a caballo
+trp_brit_horseart_pl|Artillería a caballo
+trp_brit_horseart_guard|Artillería real a caballo
+trp_brit_horseart_guard_pl|Guardia de artilleria
+trp_brit_horseart_flag_bearer|Artillería real a caballo
+trp_brit_horseart_flag_bearer_pl|Alférez
+trp_brit_horseart_nco|Artillería real a caballo
+trp_brit_horseart_nco_pl|Artillería Train
+trp_brit_horseart_officer|Artillería real a caballo
+trp_brit_horseart_officer_pl|Oficial
+trp_french_infantry_swiss|4e Regiment d'Infanterie Suisse
+trp_french_infantry_swiss_pl|Infantería de Línea
+trp_french_infantry_swiss_flag_bearer|4e Regiment d'Infanterie Suisse
+trp_french_infantry_swiss_flag_bearer_pl|Portador del Águila
+trp_french_infantry_swiss_nco|4e Regiment d'Infanterie Suisse
+trp_french_infantry_swiss_nco_pl|Sargento
+trp_french_infantry_swiss_officer|4e Regiment d'Infanterie Suisse
+trp_french_infantry_swiss_officer_pl|Oficial
+trp_french_infantry_swiss_drum|4e Regiment d'Infanterie Suisse
+trp_french_infantry_swiss_drum_pl|Tambor
+trp_french_infantry_swiss_flute|4e Regiment d'Infanterie Suisse
+trp_french_infantry_swiss_flute_pl|Flautista
+trp_french_infantry_1er|1er Regiment d'Infanterie de ligne
+trp_french_infantry_1er_pl|Infantería de Línea
+trp_french_infantry_1er_flag_bearer|1er Regiment d'Infanterie de ligne
+trp_french_infantry_1er_flag_bearer_pl|Portador del Águila
+trp_french_infantry_1er_nco|1er Regiment d'Infanterie de ligne
+trp_french_infantry_1er_nco_pl|Sargento
+trp_french_infantry_1er_officer|1er Regiment d'Infanterie de ligne
+trp_french_infantry_1er_officer_pl|Oficial
+trp_french_infantry_1er_drum|1er Regiment d'Infanterie de ligne
+trp_french_infantry_1er_drum_pl|Tambor
+trp_french_infantry_1er_flute|1er Regiment d'Infanterie de ligne
+trp_french_infantry_1er_flute_pl|Flautista
+trp_french_infantry3|3e Regiment d'Infanterie de ligne
+trp_french_infantry3_pl|Infantería de Línea
+trp_french_infantry3_flag_bearer|3e Regiment d'Infanterie de ligne
+trp_french_infantry3_flag_bearer_pl|Portador del Águila
+trp_french_infantry3_nco|3e Regiment d'Infanterie de ligne
+trp_french_infantry3_nco_pl|Sargento
+trp_french_infantry3_officer|3e Regiment d'Infanterie de ligne
+trp_french_infantry3_officer_pl|Oficial
+trp_french_infantry3_drum|3e Regiment d'Infanterie de ligne
+trp_french_infantry3_drum_pl|Tambor
+trp_french_infantry3_flute|3e Regiment d'Infanterie de ligne
+trp_french_infantry3_flute_pl|Flautista
+trp_french_infantry14|14e Regiment d'Infanterie de ligne
+trp_french_infantry14_pl|Infantería de Línea
+trp_french_infantry14_flag_bearer|14e Regiment d'Infanterie de ligne
+trp_french_infantry14_flag_bearer_pl|Portador del Águila
+trp_french_infantry14_nco|14e Regiment d'Infanterie de ligne
+trp_french_infantry14_nco_pl|Sargento
+trp_french_infantry14_officer|14e Regiment d'Infanterie de ligne
+trp_french_infantry14_officer_pl|Oficial
+trp_french_infantry14_drum|14e Regiment d'Infanterie de ligne
+trp_french_infantry14_drum_pl|Tambor
+trp_french_infantry14_flute|14e Regiment d'Infanterie de ligne
+trp_french_infantry14_flute_pl|Flautista
+trp_french_infantry65|65e Regiment d'Infanterie de ligne
+trp_french_infantry65_pl|Infantería de Línea
+trp_french_infantry65_flag_bearer|65e Regiment d'Infanterie de ligne
+trp_french_infantry65_flag_bearer_pl|Portador del Águila
+trp_french_infantry65_nco|65e Regiment d'Infanterie de ligne
+trp_french_infantry65_nco_pl|Sargento
+trp_french_infantry65_officer|65e Regiment d'Infanterie de ligne
+trp_french_infantry65_officer_pl|Oficial
+trp_french_infantry65_drum|65e Regiment d'Infanterie de ligne
+trp_french_infantry65_drum_pl|Tambor
+trp_french_infantry65_flute|65e Regiment d'Infanterie de ligne
+trp_french_infantry65_flute_pl|Flautista
+trp_french_guard_marines|Regiment de Marins de la Garde Imperiale
+trp_french_guard_marines_pl|Guardia a Pie
+trp_french_guard_marines_flag_bearer|Regiment de Marins de la Garde Imperiale
+trp_french_guard_marines_flag_bearer_pl|Portador del Águila
+trp_french_guard_marines_nco|Regiment de Marins de la Garde Imperiale
+trp_french_guard_marines_nco_pl|Sargento
+trp_french_guard_marines_officer|Regiment de Marins de la Garde Imperiale
+trp_french_guard_marines_officer_pl|Oficial
+trp_french_guard_marines_drum|Regiment de Marins de la Garde Imperiale
+trp_french_guard_marines_drum_pl|Tambor
+trp_french_guard_marines_flute|Regiment de Marins de la Garde Imperiale
+trp_french_guard_marines_flute_pl|Flautista
+trp_french_gendarme|Legion de la Gendarmerie Imperiale
+trp_french_gendarme_pl|Guardia a Pie
+trp_french_gendarme_flag_bearer|Legion de la Gendarmerie Imperiale
+trp_french_gendarme_flag_bearer_pl|Portador del Águila
+trp_french_gendarme_nco|Legion de la Gendarmerie Imperiale
+trp_french_gendarme_nco_pl|Sargento
+trp_french_gendarme_officer|Legion de la Gendarmerie Imperiale
+trp_french_gendarme_officer_pl|Oficial
+trp_french_gendarme_drum|Legion de la Gendarmerie Imperiale
+trp_french_gendarme_drum_pl|Tambor
+trp_french_gendarme_flute|Legion de la Gendarmerie Imperiale
+trp_french_gendarme_flute_pl|Flautista
+trp_french_guard_light|1er Regiment de Voltigeurs de la Garde Imperiale
+trp_french_guard_light_pl|Infantería Ligera
+trp_french_guard_light_flag_bearer|1er Regiment de Voltigeurs de la Garde Imperiale
+trp_french_guard_light_flag_bearer_pl|Portador del Águila
+trp_french_guard_light_nco|1er Regiment de Voltigeurs de la Garde Imperiale
+trp_french_guard_light_nco_pl|Sargento
+trp_french_guard_light_officer|1er Regiment de Voltigeurs de la Garde Imperiale
+trp_french_guard_light_officer_pl|Oficial
+trp_french_guard_light_horn|1er Regiment de Voltigeurs de la Garde Imperiale
+trp_french_guard_light_horn_pl|Cornista
+trp_french_corses|Bataillon de Tirailleurs Corses
+trp_french_corses_pl|Tirador
+trp_french_corses_flag_bearer|Bataillon de Tirailleurs Corses
+trp_french_corses_flag_bearer_pl|Portador del Águila
+trp_french_corses_nco|Bataillon de Tirailleurs Corses
+trp_french_corses_nco_pl|Sargento
+trp_french_corses_officer|Bataillon de Tirailleurs Corses
+trp_french_corses_officer_pl|Oficial
+trp_french_corses_horn|Bataillon de Tirailleurs Corses
+trp_french_corses_horn_pl|Cornista
+trp_french_foot_dragoon|28e Regiment de Dragons a Pied
+trp_french_foot_dragoon_pl|Tirador
+trp_french_foot_dragoon_flag_bearer|28e Regiment de Dragons a Pied
+trp_french_foot_dragoon_flag_bearer_pl|Portador del Águila
+trp_french_foot_dragoon_nco|28e Regiment de Dragons a Pied
+trp_french_foot_dragoon_nco_pl|Sargento
+trp_french_foot_dragoon_officer|28e Regiment de Dragons a Pied
+trp_french_foot_dragoon_officer_pl|Oficial
+trp_french_foot_dragoon_horn|28e Regiment de Dragons a Pied
+trp_french_foot_dragoon_horn_pl|Cornista
+trp_french_hussar5|5e Regiment de Hussards
+trp_french_hussar5_pl|Húsar
+trp_french_hussar5_flag_bearer|5e Regiment de Hussards
+trp_french_hussar5_flag_bearer_pl|Portador del Águila
+trp_french_hussar5_nco|5e Regiment de Hussards
+trp_french_hussar5_nco_pl|Sargento
+trp_french_hussar5_officer|5e Regiment de Hussards
+trp_french_hussar5_officer_pl|Oficial
+trp_french_hussar5_trumpet|5e Regiment de Hussards
+trp_french_hussar5_trumpet_pl|Trompetista
+trp_french_mounted_chasseur|Regiment de Chasseurs a Cheval de la Garde
+trp_french_mounted_chasseur_pl|Dragón
+trp_french_mounted_chasseur_flag_bearer|Regiment de Chasseurs a Cheval de la Garde
+trp_french_mounted_chasseur_flag_bearer_pl|Portador del Águila
+trp_french_mounted_chasseur_nco|Regiment de Chasseurs a Cheval de la Garde
+trp_french_mounted_chasseur_nco_pl|Sargento
+trp_french_mounted_chasseur_officer|Regiment de Chasseurs a Cheval de la Garde
+trp_french_mounted_chasseur_officer_pl|Oficial
+trp_french_mounted_chasseur_trumpet|Regiment de Chasseurs a Cheval de la Garde
+trp_french_mounted_chasseur_trumpet_pl|Trompetista
+trp_french_horseart|Artillerie a cheval française
+trp_french_horseart_pl|Artillería a caballo
+trp_french_horseart_guard|Artillerie a cheval française
+trp_french_horseart_guard_pl|Guardia de artilleria
+trp_french_horseart_flag_bearer|Artillerie a cheval française
+trp_french_horseart_flag_bearer_pl|Portador del Águila
+trp_french_horseart_nco|Artillerie a cheval française
+trp_french_horseart_nco_pl|Artillería Train
+trp_french_horseart_officer|Artillerie a cheval française
+trp_french_horseart_officer_pl|Oficial
+trp_pruss_brun|Brunswick Infanterie-Regiment
+trp_pruss_brun_pl|Guardia a Pie
+trp_pruss_brun_flag_bearer|Brunswick Infanterie-Regiment
+trp_pruss_brun_flag_bearer_pl|Portaestandarte
+trp_pruss_brun_nco|Brunswick Infanterie-Regiment
+trp_pruss_brun_nco_pl|Sargento
+trp_pruss_brun_officer|Brunswick Infanterie-Regiment
+trp_pruss_brun_officer_pl|Oficial
+trp_pruss_brun_drum|Brunswick Infanterie-Regiment
+trp_pruss_brun_drum_pl|Tambor
+trp_pruss_brun_flute|Brunswick Infanterie-Regiment
+trp_pruss_brun_flute_pl|Flautista
+trp_pruss_freiw|1. Schlesische Landwehr, Freiwillige Jäger
+trp_pruss_freiw_pl|Infantería Ligera
+trp_pruss_freiw_flag_bearer|1. Schlesische Landwehr, Freiwillige Jäger
+trp_pruss_freiw_flag_bearer_pl|Portaestandarte
+trp_pruss_freiw_nco|1. Schlesische Landwehr, Freiwillige Jäger
+trp_pruss_freiw_nco_pl|Sargento
+trp_pruss_freiw_officer|1. Schlesische Landwehr, Freiwillige Jäger
+trp_pruss_freiw_officer_pl|Oficial
+trp_pruss_freiw_horn|1. Schlesische Landwehr, Freiwillige Jäger
+trp_pruss_freiw_horn_pl|Cornista
+trp_pruss_cav_silesian|1. Schlesische Kurassier Regiment
+trp_pruss_cav_silesian_pl|Cuirassier
+trp_pruss_cav_silesian_flag_bearer|1. Schlesische Kurassier Regiment
+trp_pruss_cav_silesian_flag_bearer_pl|Portaestandarte
+trp_pruss_cav_silesian_nco|1. Schlesische Kurassier Regiment
+trp_pruss_cav_silesian_nco_pl|Sargento
+trp_pruss_cav_silesian_officer|1. Schlesische Kurassier Regiment
+trp_pruss_cav_silesian_officer_pl|Oficial
+trp_pruss_cav_silesian_trumpet|1. Schlesische Kurassier Regiment
+trp_pruss_cav_silesian_trumpet_pl|Trompetista
+trp_pruss_horseart|Reitende Batterie Nr.20
+trp_pruss_horseart_pl|Artillería a caballo
+trp_pruss_horseart_guard|Reitende Batterie Nr.20
+trp_pruss_horseart_guard_pl|Guardia de artilleria
+trp_pruss_horseart_flag_bearer|Reitende Batterie Nr.20
+trp_pruss_horseart_flag_bearer_pl|Portaestandarte
+trp_pruss_horseart_nco|Reitende Batterie Nr.20
+trp_pruss_horseart_nco_pl|Artillería Train
+trp_pruss_horseart_officer|Reitende Batterie Nr.20
+trp_pruss_horseart_officer_pl|Oficial
+trp_russian_butyrskiy_infantry|Butyrskiy Pehotniy Polk
+trp_russian_butyrskiy_infantry_pl|Infantería de Línea
+trp_russian_butyrskiy_infantry_flag_bearer|Butyrskiy Pehotniy Polk
+trp_russian_butyrskiy_infantry_flag_bearer_pl|Portaestandarte
+trp_russian_butyrskiy_infantry_nco|Butyrskiy Pehotniy Polk
+trp_russian_butyrskiy_infantry_nco_pl|Sargento
+trp_russian_butyrskiy_infantry_officer|Butyrskiy Pehotniy Polk
+trp_russian_butyrskiy_infantry_officer_pl|Oficial
+trp_russian_butyrskiy_infantry_drum|Butyrskiy Pehotniy Polk
+trp_russian_butyrskiy_infantry_drum_pl|Tambor
+trp_russian_butyrskiy_infantry_flute|Butyrskiy Pehotniy Polk
+trp_russian_butyrskiy_infantry_flute_pl|Flautista
+trp_russian_internal_guard|Guardia interno ruso
+trp_russian_internal_guard_pl|Infantería de Línea
+trp_russian_internal_guard_flag_bearer|Guardia interno ruso
+trp_russian_internal_guard_flag_bearer_pl|Portaestandarte
+trp_russian_internal_guard_nco|Guardia interno ruso
+trp_russian_internal_guard_nco_pl|Sargento
+trp_russian_internal_guard_officer|Guardia interno ruso
+trp_russian_internal_guard_officer_pl|Oficial
+trp_russian_internal_guard_drum|Guardia interno ruso
+trp_russian_internal_guard_drum_pl|Tambor
+trp_russian_internal_guard_flute|Guardia interno ruso
+trp_russian_internal_guard_flute_pl|Flautista
+trp_russian_litovski_guard|Leib-Gvardii Litovskiy Polk
+trp_russian_litovski_guard_pl|Guardia a Pie
+trp_russian_litovski_guard_flag_bearer|Leib-Gvardii Litovskiy Polk
+trp_russian_litovski_guard_flag_bearer_pl|Portaestandarte
+trp_russian_litovski_guard_nco|Leib-Gvardii Litovskiy Polk
+trp_russian_litovski_guard_nco_pl|Sargento
+trp_russian_litovski_guard_officer|Leib-Gvardii Litovskiy Polk
+trp_russian_litovski_guard_officer_pl|Oficial
+trp_russian_litovski_guard_drum|Leib-Gvardii Litovskiy Polk
+trp_russian_litovski_guard_drum_pl|Tambor
+trp_russian_litovski_guard_flute|Leib-Gvardii Litovskiy Polk
+trp_russian_litovski_guard_flute_pl|Flautista
+trp_russian_finnish_jaeger|Finlandskiy Leib-Yegerskiy Polk
+trp_russian_finnish_jaeger_pl|Infantería Ligera
+trp_russian_finnish_jaeger_flag_bearer|Finlandskiy Leib-Yegerskiy Polk
+trp_russian_finnish_jaeger_flag_bearer_pl|Portaestandarte
+trp_russian_finnish_jaeger_nco|Finlandskiy Leib-Yegerskiy Polk
+trp_russian_finnish_jaeger_nco_pl|Sargento
+trp_russian_finnish_jaeger_officer|Finlandskiy Leib-Yegerskiy Polk
+trp_russian_finnish_jaeger_officer_pl|Oficial
+trp_russian_finnish_jaeger_horn|Finlandskiy Leib-Yegerskiy Polk
+trp_russian_finnish_jaeger_horn_pl|Cornista
+trp_russian_glukhovskiy_cuirassier|Glukhovskiy Kirasirskiy Polk
+trp_russian_glukhovskiy_cuirassier_pl|Cuirassier
+trp_russian_glukhovskiy_cuirassier_flag_bearer|Glukhovskiy Kirasirskiy Polk
+trp_russian_glukhovskiy_cuirassier_flag_bearer_pl|Portaestandarte
+trp_russian_glukhovskiy_cuirassier_nco|Glukhovskiy Kirasirskiy Polk
+trp_russian_glukhovskiy_cuirassier_nco_pl|Sargento
+trp_russian_glukhovskiy_cuirassier_officer|Glukhovskiy Kirasirskiy Polk
+trp_russian_glukhovskiy_cuirassier_officer_pl|Oficial
+trp_russian_glukhovskiy_cuirassier_trumpet|Glukhovskiy Kirasirskiy Polk
+trp_russian_glukhovskiy_cuirassier_trumpet_pl|Trompetista
+trp_nwe_rus_horse_arty|4-ya Konno-Artilleriyskaya Rota
+trp_nwe_rus_horse_arty_pl|Artillería a caballo
+trp_nwe_rus_horse_arty_guard|4-ya Konno-Artilleriyskaya Rota
+trp_nwe_rus_horse_arty_guard_pl|Guardia de artilleria
+trp_nwe_rus_horse_arty_flag_bearer|4-ya Konno-Artilleriyskaya Rota
+trp_nwe_rus_horse_arty_flag_bearer_pl|Portaestandarte
+trp_nwe_rus_horse_arty_nco|4-ya Konno-Artilleriyskaya Rota
+trp_nwe_rus_horse_arty_nco_pl|Artillería Train
+trp_nwe_rus_horse_arty_officer|4-ya Konno-Artilleriyskaya Rota
+trp_nwe_rus_horse_arty_officer_pl|Oficial
+trp_austrian_4|Infanterie Regiment Nr.4 Hoch und Deutschmeister
+trp_austrian_4_pl|Infantería de Línea
+trp_austrian_4_flag_bearer|Infanterie Regiment Nr.4 Hoch und Deutschmeister
+trp_austrian_4_flag_bearer_pl|Portaestandarte
+trp_austrian_4_nco|Infanterie Regiment Nr.4 Hoch und Deutschmeister
+trp_austrian_4_nco_pl|Sargento
+trp_austrian_4_officer|Infanterie Regiment Nr.4 Hoch und Deutschmeister
+trp_austrian_4_officer_pl|Oficial
+trp_austrian_4_drum|Infanterie Regiment Nr.4 Hoch und Deutschmeister
+trp_austrian_4_drum_pl|Tambor
+trp_austrian_4_flute|Infanterie Regiment Nr.4 Hoch und Deutschmeister
+trp_austrian_4_flute_pl|Flautista
+trp_austrian_11|Infanterie Regiment Nr.11 Rainer
+trp_austrian_11_pl|Infantería de Línea
+trp_austrian_11_flag_bearer|Infanterie Regiment Nr.11 Rainer
+trp_austrian_11_flag_bearer_pl|Portaestandarte
+trp_austrian_11_nco|Infanterie Regiment Nr.11 Rainer
+trp_austrian_11_nco_pl|Sargento
+trp_austrian_11_officer|Infanterie Regiment Nr.11 Rainer
+trp_austrian_11_officer_pl|Oficial
+trp_austrian_11_drum|Infanterie Regiment Nr.11 Rainer
+trp_austrian_11_drum_pl|Tambor
+trp_austrian_11_flute|Infanterie Regiment Nr.11 Rainer
+trp_austrian_11_flute_pl|Flautista
+trp_austrian_24|Infanterie Regiment Nr.24 von Strauch
+trp_austrian_24_pl|Infantería de Línea
+trp_austrian_24_flag_bearer|Infanterie Regiment Nr.24 von Strauch
+trp_austrian_24_flag_bearer_pl|Portaestandarte
+trp_austrian_24_nco|Infanterie Regiment Nr.24 von Strauch
+trp_austrian_24_nco_pl|Sargento
+trp_austrian_24_officer|Infanterie Regiment Nr.24 von Strauch
+trp_austrian_24_officer_pl|Oficial
+trp_austrian_24_drum|Infanterie Regiment Nr.24 von Strauch
+trp_austrian_24_drum_pl|Tambor
+trp_austrian_24_flute|Infanterie Regiment Nr.24 von Strauch
+trp_austrian_24_flute_pl|Flautista
+trp_austrian_31|Infanterie Regiment Nr.31 Benjowsky
+trp_austrian_31_pl|Infantería de Línea
+trp_austrian_31_flag_bearer|Infanterie Regiment Nr.31 Benjowsky
+trp_austrian_31_flag_bearer_pl|Portaestandarte
+trp_austrian_31_nco|Infanterie Regiment Nr.31 Benjowsky
+trp_austrian_31_nco_pl|Sargento
+trp_austrian_31_officer|Infanterie Regiment Nr.31 Benjowsky
+trp_austrian_31_officer_pl|Oficial
+trp_austrian_31_drum|Infanterie Regiment Nr.31 Benjowsky
+trp_austrian_31_drum_pl|Tambor
+trp_austrian_31_flute|Infanterie Regiment Nr.31 Benjowsky
+trp_austrian_31_flute_pl|Flautista
+trp_austrian_34|Infanterie Regiment Nr.34 Freiherr von Davidovich
+trp_austrian_34_pl|Infantería de Línea
+trp_austrian_34_flag_bearer|Infanterie Regiment Nr.34 Freiherr von Davidovich
+trp_austrian_34_flag_bearer_pl|Portaestandarte
+trp_austrian_34_nco|Infanterie Regiment Nr.34 Freiherr von Davidovich
+trp_austrian_34_nco_pl|Sargento
+trp_austrian_34_officer|Infanterie Regiment Nr.34 Freiherr von Davidovich
+trp_austrian_34_officer_pl|Oficial
+trp_austrian_34_drum|Infanterie Regiment Nr.34 Freiherr von Davidovich
+trp_austrian_34_drum_pl|Tambor
+trp_austrian_34_flute|Infanterie Regiment Nr.34 Freiherr von Davidovich
+trp_austrian_34_flute_pl|Flautista
+trp_austrian_39|Infanterie Regiment Nr.39 Freiherr Duka
+trp_austrian_39_pl|Infantería de Línea
+trp_austrian_39_flag_bearer|Infanterie Regiment Nr.39 Freiherr Duka
+trp_austrian_39_flag_bearer_pl|Portaestandarte
+trp_austrian_39_nco|Infanterie Regiment Nr.39 Freiherr Duka
+trp_austrian_39_nco_pl|Sargento
+trp_austrian_39_officer|Infanterie Regiment Nr.39 Freiherr Duka
+trp_austrian_39_officer_pl|Oficial
+trp_austrian_39_drum|Infanterie Regiment Nr.39 Freiherr Duka
+trp_austrian_39_drum_pl|Tambor
+trp_austrian_39_flute|Infanterie Regiment Nr.39 Freiherr Duka
+trp_austrian_39_flute_pl|Flautista
+trp_austrian_51|Infanterie Regiment Nr.51 Splenyi 'Legion Infernale'
+trp_austrian_51_pl|Infantería de Línea
+trp_austrian_51_flag_bearer|Infanterie Regiment Nr.51 Splenyi 'Legion Infernale'
+trp_austrian_51_flag_bearer_pl|Portaestandarte
+trp_austrian_51_nco|Infanterie Regiment Nr.51 Splenyi 'Legion Infernale'
+trp_austrian_51_nco_pl|Sargento
+trp_austrian_51_officer|Infanterie Regiment Nr.51 Splenyi 'Legion Infernale'
+trp_austrian_51_officer_pl|Oficial
+trp_austrian_51_drum|Infanterie Regiment Nr.51 Splenyi 'Legion Infernale'
+trp_austrian_51_drum_pl|Tambor
+trp_austrian_51_flute|Infanterie Regiment Nr.51 Splenyi 'Legion Infernale'
+trp_austrian_51_flute_pl|Flautista
+trp_austrian_59|Infanterie Regiment Nr.59 Alexander von Jordis
+trp_austrian_59_pl|Infantería de Línea
+trp_austrian_59_flag_bearer|Infanterie Regiment Nr.59 Alexander von Jordis
+trp_austrian_59_flag_bearer_pl|Portaestandarte
+trp_austrian_59_nco|Infanterie Regiment Nr.59 Alexander von Jordis
+trp_austrian_59_nco_pl|Sargento
+trp_austrian_59_officer|Infanterie Regiment Nr.59 Alexander von Jordis
+trp_austrian_59_officer_pl|Oficial
+trp_austrian_59_drum|Infanterie Regiment Nr.59 Alexander von Jordis
+trp_austrian_59_drum_pl|Tambor
+trp_austrian_59_flute|Infanterie Regiment Nr.59 Alexander von Jordis
+trp_austrian_59_flute_pl|Flautista
+trp_austrian_16|Infanterie Regiment Nr.16 Lusignan
+trp_austrian_16_pl|Guardia a Pie
+trp_austrian_16_flag_bearer|Infanterie Regiment Nr.16 Lusignan
+trp_austrian_16_flag_bearer_pl|Portaestandarte
+trp_austrian_16_nco|Infanterie Regiment Nr.16 Lusignan
+trp_austrian_16_nco_pl|Sargento
+trp_austrian_16_officer|Infanterie Regiment Nr.16 Lusignan
+trp_austrian_16_officer_pl|Oficial
+trp_austrian_16_drum|Infanterie Regiment Nr.16 Lusignan
+trp_austrian_16_drum_pl|Tambor
+trp_austrian_16_flute|Infanterie Regiment Nr.16 Lusignan
+trp_austrian_16_flute_pl|Flautista
+trp_austrian_56|Infanterie Regiment Nr.56 Graf Wenzel Colloredo
+trp_austrian_56_pl|Guardia a Pie
+trp_austrian_56_flag_bearer|Infanterie Regiment Nr.56 Graf Wenzel Colloredo
+trp_austrian_56_flag_bearer_pl|Portaestandarte
+trp_austrian_56_nco|Infanterie Regiment Nr.56 Graf Wenzel Colloredo
+trp_austrian_56_nco_pl|Sargento
+trp_austrian_56_officer|Infanterie Regiment Nr.56 Graf Wenzel Colloredo
+trp_austrian_56_officer_pl|Oficial
+trp_austrian_56_drum|Infanterie Regiment Nr.56 Graf Wenzel Colloredo
+trp_austrian_56_drum_pl|Tambor
+trp_austrian_56_flute|Infanterie Regiment Nr.56 Graf Wenzel Colloredo
+trp_austrian_56_flute_pl|Flautista
+trp_austrian_grenzer5|Grenz Regiment Warasdiner-Kreuzer Nr.5
+trp_austrian_grenzer5_pl|Infantería Ligera
+trp_austrian_grenzer5_flag_bearer|Grenz Regiment Warasdiner-Kreuzer Nr.5
+trp_austrian_grenzer5_flag_bearer_pl|Portaestandarte
+trp_austrian_grenzer5_nco|Grenz Regiment Warasdiner-Kreuzer Nr.5
+trp_austrian_grenzer5_nco_pl|Sargento
+trp_austrian_grenzer5_officer|Grenz Regiment Warasdiner-Kreuzer Nr.5
+trp_austrian_grenzer5_officer_pl|Oficial
+trp_austrian_grenzer5_horn|Grenz Regiment Warasdiner-Kreuzer Nr.5
+trp_austrian_grenzer5_horn_pl|Cornista
+trp_austrian_hussar12|Husaren Regiment Palatin Nr. 12
+trp_austrian_hussar12_pl|Húsar
+trp_austrian_hussar12_flag_bearer|Husar Regiment Nr.12 'Palatinal-Husaren'
+trp_austrian_hussar12_flag_bearer_pl|Portaestandarte
+trp_austrian_hussar12_nco|Husar Regiment Nr.12 'Palatinal-Husaren'
+trp_austrian_hussar12_nco_pl|Sargento
+trp_austrian_hussar12_officer|Husar Regiment Nr.12 'Palatinal-Husaren'
+trp_austrian_hussar12_officer_pl|Oficial
+trp_austrian_hussar12_trumpet|Husar Regiment Nr.12 'Palatinal-Husaren'
+trp_austrian_hussar12_trumpet_pl|Trompetista
+trp_austrian_cuirassier5|Kurassier Regiment Marquis Sommariva Nr.5
+trp_austrian_cuirassier5_pl|Cuirassier
+trp_austrian_cuirassier5_flag_bearer|Kurassier Regiment Marquis Sommariva Nr.5
+trp_austrian_cuirassier5_flag_bearer_pl|Portaestandarte
+trp_austrian_cuirassier5_nco|Kurassier Regiment Marquis Sommariva Nr.5
+trp_austrian_cuirassier5_nco_pl|Sargento
+trp_austrian_cuirassier5_officer|Kurassier Regiment Marquis Sommariva Nr.5
+trp_austrian_cuirassier5_officer_pl|Oficial
+trp_austrian_cuirassier5_trumpet|Kurassier Regiment Marquis Sommariva Nr.5
+trp_austrian_cuirassier5_trumpet_pl|Trompetista
+trp_austrian_horseart|Kavallerie-Batterie
+trp_austrian_horseart_pl|Artillería a caballo
+trp_austrian_horseart_guard|Kavallerie-Batterie
+trp_austrian_horseart_guard_pl|Guardia de artilleria
+trp_austrian_horseart_flag_bearer|Kavallerie-Batterie
+trp_austrian_horseart_flag_bearer_pl|Portaestandarte
+trp_austrian_horseart_nco|Kavallerie-Batterie
+trp_austrian_horseart_nco_pl|Artillería Train
+trp_austrian_horseart_officer|Kavallerie-Batterie
+trp_austrian_horseart_officer_pl|Oficial
+trp_rhine_grenadier_guard2|Granaderos de la guardia, Berg
+trp_rhine_grenadier_guard2_pl|Guardia a Pie
+trp_rhine_grenadier_guard2_flag_bearer|Granaderos de la guardia, Berg
+trp_rhine_grenadier_guard2_flag_bearer_pl|Portaestandarte
+trp_rhine_grenadier_guard2_nco|Granaderos de la guardia, Berg
+trp_rhine_grenadier_guard2_nco_pl|Sargento
+trp_rhine_grenadier_guard2_officer|Granaderos de la guardia, Berg
+trp_rhine_grenadier_guard2_officer_pl|Oficial
+trp_rhine_grenadier_guard2_drum|Granaderos de la guardia, Berg
+trp_rhine_grenadier_guard2_drum_pl|Tambor
+trp_rhine_grenadier_guard2_flute|Granaderos de la guardia, Berg
+trp_rhine_grenadier_guard2_flute_pl|Flautista
+trp_rhine_horseart|Reitende Batterie, Sachsen
+trp_rhine_horseart_pl|Artillería a caballo
+trp_rhine_horseart_guard|Reitende Batterie, Sachsen
+trp_rhine_horseart_guard_pl|Guardia de artilleria
+trp_rhine_horseart_flag_bearer|Reitende Batterie, Sachsen
+trp_rhine_horseart_flag_bearer_pl|Portaestandarte
+trp_rhine_horseart_nco|Reitende Batterie, Sachsen
+trp_rhine_horseart_nco_pl|Artillería Train
+trp_rhine_horseart_officer|Reitende Batterie, Sachsen
+trp_rhine_horseart_officer_pl|Oficial
+trp_ottoman_levend|Levend Çiftliği Alayı
+trp_ottoman_levend_pl|Infantería de Línea
+trp_ottoman_levend_flag_bearer|Levend Çiftliği Alayı
+trp_ottoman_levend_flag_bearer_pl|Portaestandarte
+trp_ottoman_levend_nco|Levend Çiftliği Alayı
+trp_ottoman_levend_nco_pl|Sargento
+trp_ottoman_levend_officer|Levend Çiftliği Alayı
+trp_ottoman_levend_officer_pl|Oficial
+trp_ottoman_levend_drum|Levend Çiftliği Alayı
+trp_ottoman_levend_drum_pl|Tambor
+trp_ottoman_levend_flute|Levend Çiftliği Alayı
+trp_ottoman_levend_flute_pl|Flautista
+trp_ottoman_uskudar|Üsküdar Alayı
+trp_ottoman_uskudar_pl|Infantería de Línea
+trp_ottoman_uskudar_flag_bearer|Üsküdar Alayı
+trp_ottoman_uskudar_flag_bearer_pl|Portaestandarte
+trp_ottoman_uskudar_nco|Üsküdar Alayı
+trp_ottoman_uskudar_nco_pl|Sargento
+trp_ottoman_uskudar_officer|Üsküdar Alayı
+trp_ottoman_uskudar_officer_pl|Oficial
+trp_ottoman_uskudar_drum|Üsküdar Alayı
+trp_ottoman_uskudar_drum_pl|Tambor
+trp_ottoman_uskudar_flute|Üsküdar Alayı
+trp_ottoman_uskudar_flute_pl|Flautista
+trp_ottoman_libyan|Beduino Libio
+trp_ottoman_libyan_pl|Infantería de Línea
+trp_ottoman_libyan_flag_bearer|Beduino Libio
+trp_ottoman_libyan_flag_bearer_pl|Portaestandarte
+trp_ottoman_libyan_nco|Beduino Libio
+trp_ottoman_libyan_nco_pl|Sargento
+trp_ottoman_libyan_officer|Beduino Libio
+trp_ottoman_libyan_officer_pl|Oficial
+trp_ottoman_libyan_drum|Beduino Libio
+trp_ottoman_libyan_drum_pl|Tambor
+trp_ottoman_libyan_flute|Beduino Libio
+trp_ottoman_libyan_flute_pl|Flautista
+trp_ottoman_subara|Şubara Neferi
+trp_ottoman_subara_pl|Infantería de Línea
+trp_ottoman_subara_flag_bearer|Şubara Neferi
+trp_ottoman_subara_flag_bearer_pl|Portaestandarte
+trp_ottoman_subara_nco|Şubara Neferi
+trp_ottoman_subara_nco_pl|Sargento
+trp_ottoman_subara_officer|Şubara Neferi
+trp_ottoman_subara_officer_pl|Oficial
+trp_ottoman_subara_drum|Şubara Neferi
+trp_ottoman_subara_drum_pl|Tambor
+trp_ottoman_subara_flute|Şubara Neferi
+trp_ottoman_subara_flute_pl|Flautista
+trp_ottoman_jani|Yeniçeri Ocağı - 1. Orta
+trp_ottoman_jani_pl|Guardia a Pie
+trp_ottoman_jani_flag_bearer|Yeniçeri Ocağı - 1. Orta
+trp_ottoman_jani_flag_bearer_pl|Portaestandarte
+trp_ottoman_jani_nco|Yeniçeri Ocağı - 1. Orta
+trp_ottoman_jani_nco_pl|Sargento
+trp_ottoman_jani_officer|Yeniçeri Ocağı - 1. Orta
+trp_ottoman_jani_officer_pl|Oficial
+trp_ottoman_jani_drum|Yeniçeri Ocağı - 1. Orta
+trp_ottoman_jani_drum_pl|Tambor
+trp_ottoman_jani_flute|Yeniçeri Ocağı - 1. Orta
+trp_ottoman_jani_flute_pl|Flautista
+trp_ottoman_jani_istanbul|Yeniçeri Ocağı - İstanbul Ortası
+trp_ottoman_jani_istanbul_pl|Guardia a Pie
+trp_ottoman_jani_istanbul_flag_bearer|Yeniçeri Ocağı - İstanbul Ortası
+trp_ottoman_jani_istanbul_flag_bearer_pl|Portaestandarte
+trp_ottoman_jani_istanbul_nco|Yeniçeri Ocağı - İstanbul Ortası
+trp_ottoman_jani_istanbul_nco_pl|Sargento
+trp_ottoman_jani_istanbul_officer|Yeniçeri Ocağı - İstanbul Ortası
+trp_ottoman_jani_istanbul_officer_pl|Oficial
+trp_ottoman_jani_istanbul_drum|Yeniçeri Ocağı - İstanbul Ortası
+trp_ottoman_jani_istanbul_drum_pl|Tambor
+trp_ottoman_jani_istanbul_flute|Yeniçeri Ocağı - İstanbul Ortası
+trp_ottoman_jani_istanbul_flute_pl|Flautista
+trp_ottoman_light|Arnavut Askerleri
+trp_ottoman_light_pl|Infantería Ligera
+trp_ottoman_light_flag_bearer|Arnavut Askerleri
+trp_ottoman_light_flag_bearer_pl|Portaestandarte
+trp_ottoman_light_nco|Arnavut Askerleri
+trp_ottoman_light_nco_pl|Sargento
+trp_ottoman_light_officer|Arnavut Askerleri
+trp_ottoman_light_officer_pl|Oficial
+trp_ottoman_light_horn|Arnavut Askerleri
+trp_ottoman_light_horn_pl|Cornista
+trp_ottoman_rifle|Laz Neferleri
+trp_ottoman_rifle_pl|Tirador
+trp_ottoman_rifle_flag_bearer|Laz Neferleri
+trp_ottoman_rifle_flag_bearer_pl|Portaestandarte
+trp_ottoman_rifle_nco|Laz Neferleri
+trp_ottoman_rifle_nco_pl|Sargento
+trp_ottoman_rifle_officer|Laz Neferleri
+trp_ottoman_rifle_officer_pl|Oficial
+trp_ottoman_rifle_horn|Laz Neferleri
+trp_ottoman_rifle_horn_pl|Cornista
+trp_ottoman_hussar|Deliler
+trp_ottoman_hussar_pl|Húsar
+trp_ottoman_hussar_flag_bearer|Deliler
+trp_ottoman_hussar_flag_bearer_pl|Portaestandarte
+trp_ottoman_hussar_nco|Deliler
+trp_ottoman_hussar_nco_pl|Sargento
+trp_ottoman_hussar_officer|Deliler
+trp_ottoman_hussar_officer_pl|Oficial
+trp_ottoman_hussar_trumpet|Deliler
+trp_ottoman_hussar_trumpet_pl|Trompetista
+trp_ottoman_camel_cav|Develi Süvarisi
+trp_ottoman_camel_cav_pl|Caballería ligera de camellos
+trp_ottoman_camel_cav_flag_bearer|Develi Süvarisi
+trp_ottoman_camel_cav_flag_bearer_pl|Portaestandarte
+trp_ottoman_camel_cav_nco|Develi Süvarisi
+trp_ottoman_camel_cav_nco_pl|Sargento
+trp_ottoman_camel_cav_officer|Develi Süvarisi
+trp_ottoman_camel_cav_officer_pl|Oficial
+trp_ottoman_camel_cav_trumpet|Develi Süvarisi
+trp_ottoman_camel_cav_trumpet_pl|Trompetista
+trp_ottoman_lancer|Sipahiler
+trp_ottoman_lancer_pl|Lancero
+trp_ottoman_lancer_flag_bearer|Sipahiler
+trp_ottoman_lancer_flag_bearer_pl|Portaestandarte
+trp_ottoman_lancer_nco|Sipahiler
+trp_ottoman_lancer_nco_pl|Sargento
+trp_ottoman_lancer_officer|Sipahiler
+trp_ottoman_lancer_officer_pl|Oficial
+trp_ottoman_lancer_trumpet|Sipahiler
+trp_ottoman_lancer_trumpet_pl|Trompetista
+trp_ottoman_dragoon|Sekban Süvarileri
+trp_ottoman_dragoon_pl|Dragón
+trp_ottoman_dragoon_flag_bearer|Sekban Süvarileri
+trp_ottoman_dragoon_flag_bearer_pl|Portaestandarte
+trp_ottoman_dragoon_nco|Sekban Süvarileri
+trp_ottoman_dragoon_nco_pl|Sargento
+trp_ottoman_dragoon_officer|Sekban Süvarileri
+trp_ottoman_dragoon_officer_pl|Oficial
+trp_ottoman_dragoon_trumpet|Sekban Süvarileri
+trp_ottoman_dragoon_trumpet_pl|Trompetista
+trp_ottoman_cuirassier|Kapıkulu Sipahileri
+trp_ottoman_cuirassier_pl|Cuirassier
+trp_ottoman_cuirassier_flag_bearer|Kapıkulu Sipahileri
+trp_ottoman_cuirassier_flag_bearer_pl|Portaestandarte
+trp_ottoman_cuirassier_nco|Kapıkulu Sipahileri
+trp_ottoman_cuirassier_nco_pl|Sargento
+trp_ottoman_cuirassier_officer|Kapıkulu Sipahileri
+trp_ottoman_cuirassier_officer_pl|Oficial
+trp_ottoman_cuirassier_trumpet|Kapıkulu Sipahileri
+trp_ottoman_cuirassier_trumpet_pl|Trompetista
+trp_ottoman_heavy_cavalry|Mameluco
+trp_ottoman_heavy_cavalry_pl|Caballería Pesada
+trp_ottoman_heavy_cavalry_flag_bearer|Mameluco
+trp_ottoman_heavy_cavalry_flag_bearer_pl|Portaestandarte
+trp_ottoman_heavy_cavalry_nco|Mameluco
+trp_ottoman_heavy_cavalry_nco_pl|Sargento
+trp_ottoman_heavy_cavalry_officer|Mameluco
+trp_ottoman_heavy_cavalry_officer_pl|Oficial
+trp_ottoman_heavy_cavalry_trumpet|Mameluco
+trp_ottoman_heavy_cavalry_trumpet_pl|Trompetista
+trp_ottoman_camel_heavy_cav|Develi Muhafızları
+trp_ottoman_camel_heavy_cav_pl|Caballería pesada de camellos
+trp_ottoman_camel_heavy_cav_flag_bearer|Develi Muhafızları
+trp_ottoman_camel_heavy_cav_flag_bearer_pl|Portaestandarte
+trp_ottoman_camel_heavy_cav_nco|Develi Muhafızları
+trp_ottoman_camel_heavy_cav_nco_pl|Sargento
+trp_ottoman_camel_heavy_cav_officer|Develi Muhafızları
+trp_ottoman_camel_heavy_cav_officer_pl|Oficial
+trp_ottoman_camel_heavy_cav_trumpet|Develi Muhafızları
+trp_ottoman_camel_heavy_cav_trumpet_pl|Trompetista
+trp_ottoman_arty|Topçu Ocağı
+trp_ottoman_arty_pl|Artillería
+trp_ottoman_arty_guard|Topçu Ocağı
+trp_ottoman_arty_guard_pl|Guardia de artilleria
+trp_ottoman_arty_flag_bearer|Topçu Ocağı
+trp_ottoman_arty_flag_bearer_pl|Portaestandarte
+trp_ottoman_arty_nco|Topçu Ocağı
+trp_ottoman_arty_nco_pl|Artillería Train
+trp_ottoman_arty_officer|Topçu Ocağı
+trp_ottoman_arty_officer_pl|Oficial
+trp_ottoman_horseart|Süvari Topçuları
+trp_ottoman_horseart_pl|Artillería a caballo
+trp_ottoman_horseart_guard|Süvari Topçuları
+trp_ottoman_horseart_guard_pl|Guardia de artilleria
+trp_ottoman_horseart_flag_bearer|Süvari Topçuları
+trp_ottoman_horseart_flag_bearer_pl|Portaestandarte
+trp_ottoman_horseart_nco|Süvari Topçuları
+trp_ottoman_horseart_nco_pl|Artillería Train
+trp_ottoman_horseart_officer|Süvari Topçuları
+trp_ottoman_horseart_officer_pl|Oficial
+trp_british_foot_guard1|1st Regiment of Foot Guards
+trp_british_foot_guard1_pl|Guardia a Pie
+trp_british_foot_guard1_flag_bearer|1st Regiment of Foot Guards
+trp_british_foot_guard1_flag_bearer_pl|Alférez
+trp_british_foot_guard1_nco|1st Regiment of Foot Guards
+trp_british_foot_guard1_nco_pl|Sargento
+trp_british_foot_guard1_officer|1st Regiment of Foot Guards
+trp_british_foot_guard1_officer_pl|Oficial
+trp_british_foot_guard1_drum|1st Regiment of Foot Guards
+trp_british_foot_guard1_drum_pl|Tambor
+trp_british_foot_guard1_flute|1st Regiment of Foot Guards
+trp_british_foot_guard1_flute_pl|Flautista
+trp_british_hussar2|2nd KGL Hussars
+trp_british_hussar2_pl|Húsar
+trp_british_hussar2_flag_bearer|2nd KGL Hussars
+trp_british_hussar2_flag_bearer_pl|Alférez
+trp_british_hussar2_nco|2nd KGL Hussars
+trp_british_hussar2_nco_pl|Sargento
+trp_british_hussar2_officer|2nd KGL Hussars
+trp_british_hussar2_officer_pl|Oficial
+trp_british_hussar2_trumpet|2nd KGL Hussars
+trp_british_hussar2_trumpet_pl|Trompetista
+trp_prussian_infantry_2|2. Infanterie-Regiment
+trp_prussian_infantry_2_pl|Infantería de Línea
+trp_prussian_infantry_2_flag_bearer|2. Infanterie-Regiment
+trp_prussian_infantry_2_flag_bearer_pl|Portaestandarte
+trp_prussian_infantry_2_nco|2. Infanterie-Regiment
+trp_prussian_infantry_2_nco_pl|Sargento
+trp_prussian_infantry_2_officer|2. Infanterie-Regiment
+trp_prussian_infantry_2_officer_pl|Oficial
+trp_prussian_infantry_2_drum|2. Infanterie-Regiment
+trp_prussian_infantry_2_drum_pl|Tambor
+trp_prussian_infantry_2_flute|2. Infanterie-Regiment
+trp_prussian_infantry_2_flute_pl|Flautista
+trp_prussian_infantry12|12. Brandenburgische Infanterie-Regiment
+trp_prussian_infantry12_pl|Infantería de Línea
+trp_prussian_infantry12_flag_bearer|12. Brandenburgische Infanterie-Regiment
+trp_prussian_infantry12_flag_bearer_pl|Portaestandarte
+trp_prussian_infantry12_nco|12. Brandenburgische Infanterie-Regiment
+trp_prussian_infantry12_nco_pl|Sargento
+trp_prussian_infantry12_officer|12. Brandenburgische Infanterie-Regiment
+trp_prussian_infantry12_officer_pl|Oficial
+trp_prussian_infantry12_drum|12. Brandenburgische Infanterie-Regiment
+trp_prussian_infantry12_drum_pl|Tambor
+trp_prussian_infantry12_flute|12. Brandenburgische Infanterie-Regiment
+trp_prussian_infantry12_flute_pl|Flautista
+trp_prussian_infantry14|14. Westfalische Infanterie-Regiment
+trp_prussian_infantry14_pl|Infantería de Línea
+trp_prussian_infantry14_flag_bearer|14. Westfalische Infanterie-Regiment
+trp_prussian_infantry14_flag_bearer_pl|Portaestandarte
+trp_prussian_infantry14_nco|14. Westfalische Infanterie-Regiment
+trp_prussian_infantry14_nco_pl|Sargento
+trp_prussian_infantry14_officer|14. Westfalische Infanterie-Regiment
+trp_prussian_infantry14_officer_pl|Oficial
+trp_prussian_infantry14_drum|14. Westfalische Infanterie-Regiment
+trp_prussian_infantry14_drum_pl|Tambor
+trp_prussian_infantry14_flute|14. Westfalische Infanterie-Regiment
+trp_prussian_infantry14_flute_pl|Flautista
+trp_prussian_infantry18|18. Infanterie-Regiment
+trp_prussian_infantry18_pl|Infantería de Línea
+trp_prussian_infantry18_flag_bearer|18. Infanterie-Regiment
+trp_prussian_infantry18_flag_bearer_pl|Portaestandarte
+trp_prussian_infantry18_nco|18. Infanterie-Regiment
+trp_prussian_infantry18_nco_pl|Sargento
+trp_prussian_infantry18_officer|18. Infanterie-Regiment
+trp_prussian_infantry18_officer_pl|Oficial
+trp_prussian_infantry18_drum|18. Infanterie-Regiment
+trp_prussian_infantry18_drum_pl|Tambor
+trp_prussian_infantry18_flute|18. Infanterie-Regiment
+trp_prussian_infantry18_flute_pl|Flautista
+trp_prussian_infantry24|24. Brandenburgische Infanterie-Regiment
+trp_prussian_infantry24_pl|Infantería de Línea
+trp_prussian_infantry24_flag_bearer|24. Brandenburgische Infanterie-Regiment
+trp_prussian_infantry24_flag_bearer_pl|Portaestandarte
+trp_prussian_infantry24_nco|24. Brandenburgische Infanterie-Regiment
+trp_prussian_infantry24_nco_pl|Sargento
+trp_prussian_infantry24_officer|24. Brandenburgische Infanterie-Regiment
+trp_prussian_infantry24_officer_pl|Oficial
+trp_prussian_infantry24_drum|24. Brandenburgische Infanterie-Regiment
+trp_prussian_infantry24_drum_pl|Tambor
+trp_prussian_infantry24_flute|24. Brandenburgische Infanterie-Regiment
+trp_prussian_infantry24_flute_pl|Flautista
+trp_prussian_infantry26|26. Magdeburgische Infanterie-Regiment
+trp_prussian_infantry26_pl|Infantería de Línea
+trp_prussian_infantry26_flag_bearer|26. Magdeburgische Infanterie-Regiment
+trp_prussian_infantry26_flag_bearer_pl|Portaestandarte
+trp_prussian_infantry26_nco|26. Magdeburgische Infanterie-Regiment
+trp_prussian_infantry26_nco_pl|Sargento
+trp_prussian_infantry26_officer|26. Magdeburgische Infanterie-Regiment
+trp_prussian_infantry26_officer_pl|Oficial
+trp_prussian_infantry26_drum|26. Magdeburgische Infanterie-Regiment
+trp_prussian_infantry26_drum_pl|Tambor
+trp_prussian_infantry26_flute|26. Magdeburgische Infanterie-Regiment
+trp_prussian_infantry26_flute_pl|Flautista
+trp_prussian_infantry_elbe|2. Elb-Landwehr-Regiment
+trp_prussian_infantry_elbe_pl|Infantería de Línea
+trp_prussian_infantry_elbe_flag_bearer|2. Elb-Landwehr-Regiment
+trp_prussian_infantry_elbe_flag_bearer_pl|Portaestandarte
+trp_prussian_infantry_elbe_nco|2. Elb-Landwehr-Regiment
+trp_prussian_infantry_elbe_nco_pl|Sargento
+trp_prussian_infantry_elbe_officer|2. Elb-Landwehr-Regiment
+trp_prussian_infantry_elbe_officer_pl|Oficial
+trp_prussian_infantry_elbe_drum|2. Elb-Landwehr-Regiment
+trp_prussian_infantry_elbe_drum_pl|Tambor
+trp_prussian_infantry_elbe_flute|2. Elb-Landwehr-Regiment
+trp_prussian_infantry_elbe_flute_pl|Flautista
+trp_prussian_dragoon5|5. Brandenburgische Dragoner-Regiment
+trp_prussian_dragoon5_pl|Dragón
+trp_prussian_dragoon5_flag_bearer|5. Brandenburgische Dragoner-Regiment
+trp_prussian_dragoon5_flag_bearer_pl|Portaestandarte
+trp_prussian_dragoon5_nco|5. Brandenburgische Dragoner-Regiment
+trp_prussian_dragoon5_nco_pl|Sargento
+trp_prussian_dragoon5_officer|5. Brandenburgische Dragoner-Regiment
+trp_prussian_dragoon5_officer_pl|Oficial
+trp_prussian_dragoon5_trumpet|5. Brandenburgische Dragoner-Regiment
+trp_prussian_dragoon5_trumpet_pl|Trompetista
+trp_prussian_hussar_mhr|Magdeburgisches Husaren-Regiment Nr.10
+trp_prussian_hussar_mhr_pl|Húsar
+trp_prussian_hussar_mhr_flag_bearer|Magdeburgisches Husaren-Regiment Nr.10
+trp_prussian_hussar_mhr_flag_bearer_pl|Portaestandarte
+trp_prussian_hussar_mhr_nco|Magdeburgisches Husaren-Regiment Nr.10
+trp_prussian_hussar_mhr_nco_pl|Sargento
+trp_prussian_hussar_mhr_officer|Magdeburgisches Husaren-Regiment Nr.10
+trp_prussian_hussar_mhr_officer_pl|Oficial
+trp_prussian_hussar_mhr_trumpet|Magdeburgisches Husaren-Regiment Nr.10
+trp_prussian_hussar_mhr_trumpet_pl|Trompetista
+trp_prussian_hussar_mhr_elite|Magdeburgisches Husaren-Regiment Nr.10
+trp_prussian_hussar_mhr_elite_pl|Cazador voluntario
+trp_austrian_32|Infanterie Regiment Nr.32 Eszterházy
+trp_austrian_32_pl|Infantería de Línea
+trp_austrian_32_flag_bearer|Infanterie Regiment Nr.32 Eszterházy
+trp_austrian_32_flag_bearer_pl|Portaestandarte
+trp_austrian_32_nco|Infanterie Regiment Nr.32 Eszterházy
+trp_austrian_32_nco_pl|Sargento
+trp_austrian_32_officer|Infanterie Regiment Nr.32 Eszterházy
+trp_austrian_32_officer_pl|Oficial
+trp_austrian_32_drum|Infanterie Regiment Nr.32 Eszterházy
+trp_austrian_32_drum_pl|Tambor
+trp_austrian_32_flute|Infanterie Regiment Nr.32 Eszterházy
+trp_austrian_32_flute_pl|Flautista
+trp_italian_infantry1|1° Reggimento di Fanteria di Linea 'Mantova'
+trp_italian_infantry1_pl|Infantería de Línea
+trp_italian_infantry1_flag_bearer|1° Reggimento di Fanteria di Linea 'Mantova'
+trp_italian_infantry1_flag_bearer_pl|Portaestandarte
+trp_italian_infantry1_nco|1° Reggimento di Fanteria di Linea 'Mantova'
+trp_italian_infantry1_nco_pl|Sargento
+trp_italian_infantry1_officer|1° Reggimento di Fanteria di Linea 'Mantova'
+trp_italian_infantry1_officer_pl|Oficial
+trp_italian_infantry1_drum|1° Reggimento di Fanteria di Linea 'Mantova'
+trp_italian_infantry1_drum_pl|Tambor
+trp_italian_infantry1_flute|1° Reggimento di Fanteria di Linea 'Mantova'
+trp_italian_infantry1_flute_pl|Flautista
+trp_italian_infantry2|2° Reggimento di Fanteria di Linea 'Ferrara'
+trp_italian_infantry2_pl|Infantería de Línea
+trp_italian_infantry2_flag_bearer|2° Reggimento di Fanteria di Linea 'Ferrara'
+trp_italian_infantry2_flag_bearer_pl|Portaestandarte
+trp_italian_infantry2_nco|2° Reggimento di Fanteria di Linea 'Ferrara'
+trp_italian_infantry2_nco_pl|Sargento
+trp_italian_infantry2_officer|2° Reggimento di Fanteria di Linea 'Ferrara'
+trp_italian_infantry2_officer_pl|Oficial
+trp_italian_infantry2_drum|2° Reggimento di Fanteria di Linea 'Ferrara'
+trp_italian_infantry2_drum_pl|Tambor
+trp_italian_infantry2_flute|2° Reggimento di Fanteria di Linea 'Ferrara'
+trp_italian_infantry2_flute_pl|Flautista
+trp_italian_infantry3|3° Reggimento di Fanteria di Linea 'Milano'
+trp_italian_infantry3_pl|Infantería de Línea
+trp_italian_infantry3_flag_bearer|3° Reggimento di Fanteria di Linea 'Milano'
+trp_italian_infantry3_flag_bearer_pl|Portaestandarte
+trp_italian_infantry3_nco|3° Reggimento di Fanteria di Linea 'Milano'
+trp_italian_infantry3_nco_pl|Sargento
+trp_italian_infantry3_officer|3° Reggimento di Fanteria di Linea 'Milano'
+trp_italian_infantry3_officer_pl|Oficial
+trp_italian_infantry3_drum|3° Reggimento di Fanteria di Linea 'Milano'
+trp_italian_infantry3_drum_pl|Tambor
+trp_italian_infantry3_flute|3° Reggimento di Fanteria di Linea 'Milano'
+trp_italian_infantry3_flute_pl|Flautista
+trp_italian_infantry4|Coscritti della Guardia Reale
+trp_italian_infantry4_pl|Infantería de Línea
+trp_italian_infantry4_flag_bearer|Coscritti della Guardia Reale
+trp_italian_infantry4_flag_bearer_pl|Portaestandarte
+trp_italian_infantry4_nco|Coscritti della Guardia Reale
+trp_italian_infantry4_nco_pl|Sargento
+trp_italian_infantry4_officer|Coscritti della Guardia Reale
+trp_italian_infantry4_officer_pl|Oficial
+trp_italian_infantry4_drum|Coscritti della Guardia Reale
+trp_italian_infantry4_drum_pl|Tambor
+trp_italian_infantry4_flute|Coscritti della Guardia Reale
+trp_italian_infantry4_flute_pl|Flautista
+trp_italian_infantry5|Reggimento Coloniale
+trp_italian_infantry5_pl|Infantería de Línea
+trp_italian_infantry5_flag_bearer|Reggimento Coloniale
+trp_italian_infantry5_flag_bearer_pl|Portaestandarte
+trp_italian_infantry5_nco|Reggimento Coloniale
+trp_italian_infantry5_nco_pl|Sargento
+trp_italian_infantry5_officer|Reggimento Coloniale
+trp_italian_infantry5_officer_pl|Oficial
+trp_italian_infantry5_drum|Reggimento Coloniale
+trp_italian_infantry5_drum_pl|Tambor
+trp_italian_infantry5_flute|Reggimento Coloniale
+trp_italian_infantry5_flute_pl|Flautista
+trp_italian_foot_guard1|Granatieri a Piedi Della Guardia Reale
+trp_italian_foot_guard1_pl|Guardia a Pie
+trp_italian_foot_guard1_flag_bearer|Granatieri a Piedi Della Guardia Reale
+trp_italian_foot_guard1_flag_bearer_pl|Portaestandarte
+trp_italian_foot_guard1_nco|Granatieri a Piedi Della Guardia Reale
+trp_italian_foot_guard1_nco_pl|Sargento
+trp_italian_foot_guard1_officer|Granatieri a Piedi Della Guardia Reale
+trp_italian_foot_guard1_officer_pl|Oficial
+trp_italian_foot_guard1_drum|Granatieri a Piedi Della Guardia Reale
+trp_italian_foot_guard1_drum_pl|Tambor
+trp_italian_foot_guard1_flute|Granatieri a Piedi Della Guardia Reale
+trp_italian_foot_guard1_flute_pl|Flautista
+trp_italian_foot_guard2|Veliti Della Guardia Reale
+trp_italian_foot_guard2_pl|Guardia a Pie
+trp_italian_foot_guard2_flag_bearer|Veliti Della Guardia Reale
+trp_italian_foot_guard2_flag_bearer_pl|Portaestandarte
+trp_italian_foot_guard2_nco|Veliti Della Guardia Reale
+trp_italian_foot_guard2_nco_pl|Sargento
+trp_italian_foot_guard2_officer|Veliti Della Guardia Reale
+trp_italian_foot_guard2_officer_pl|Oficial
+trp_italian_foot_guard2_drum|Veliti Della Guardia Reale
+trp_italian_foot_guard2_drum_pl|Tambor
+trp_italian_foot_guard2_flute|Veliti Della Guardia Reale
+trp_italian_foot_guard2_flute_pl|Flautista
+trp_italian_foot_guard3|Guardia Nazionale di Milano
+trp_italian_foot_guard3_pl|Guardia a Pie
+trp_italian_foot_guard3_flag_bearer|Guardia Nazionale di Milano
+trp_italian_foot_guard3_flag_bearer_pl|Portaestandarte
+trp_italian_foot_guard3_nco|Guardia Nazionale di Milano
+trp_italian_foot_guard3_nco_pl|Sargento
+trp_italian_foot_guard3_officer|Guardia Nazionale di Milano
+trp_italian_foot_guard3_officer_pl|Oficial
+trp_italian_foot_guard3_drum|Guardia Nazionale di Milano
+trp_italian_foot_guard3_drum_pl|Tambor
+trp_italian_foot_guard3_flute|Guardia Nazionale di Milano
+trp_italian_foot_guard3_flute_pl|Flautista
+trp_italian_light|3° Reggimento di Fanteria Leggera 'Real Bresciano'
+trp_italian_light_pl|Infantería Ligera
+trp_italian_light_flag_bearer|3° Reggimento di Fanteria Leggera 'Real Bresciano'
+trp_italian_light_flag_bearer_pl|Portaestandarte
+trp_italian_light_nco|3° Reggimento di Fanteria Leggera 'Real Bresciano'
+trp_italian_light_nco_pl|Sargento
+trp_italian_light_officer|3° Reggimento di Fanteria Leggera 'Real Bresciano'
+trp_italian_light_officer_pl|Oficial
+trp_italian_light_horn|3° Reggimento di Fanteria Leggera 'Real Bresciano'
+trp_italian_light_horn_pl|Cornista
+trp_italian_rifle|Bersaglieri di Brescia
+trp_italian_rifle_pl|Tirador
+trp_italian_rifle_flag_bearer|Bersaglieri di Brescia
+trp_italian_rifle_flag_bearer_pl|Portaestandarte
+trp_italian_rifle_nco|Bersaglieri di Brescia
+trp_italian_rifle_nco_pl|Sargento
+trp_italian_rifle_officer|Bersaglieri di Brescia
+trp_italian_rifle_officer_pl|Oficial
+trp_italian_rifle_horn|Bersaglieri di Brescia
+trp_italian_rifle_horn_pl|Cornista
+trp_italian_hussar1|1° Cacciatori a Cavallo 'Reale Italiano'
+trp_italian_hussar1_pl|Húsar
+trp_italian_hussar1_flag_bearer|1° Cacciatori a Cavallo 'Reale Italiano'
+trp_italian_hussar1_flag_bearer_pl|Portaestandarte
+trp_italian_hussar1_nco|1° Cacciatori a Cavallo 'Reale Italiano'
+trp_italian_hussar1_nco_pl|Sargento
+trp_italian_hussar1_officer|1° Cacciatori a Cavallo 'Reale Italiano'
+trp_italian_hussar1_officer_pl|Oficial
+trp_italian_hussar1_trumpet|1° Cacciatori a Cavallo 'Reale Italiano'
+trp_italian_hussar1_trumpet_pl|Trompetista
+trp_italian_hussar2|2° Cacciatori a Cavallo 'Reale Prince'
+trp_italian_hussar2_pl|Húsar
+trp_italian_hussar2_flag_bearer|2° Cacciatori a Cavallo 'Reale Prince'
+trp_italian_hussar2_flag_bearer_pl|Portaestandarte
+trp_italian_hussar2_nco|2° Cacciatori a Cavallo 'Reale Prince'
+trp_italian_hussar2_nco_pl|Sargento
+trp_italian_hussar2_officer|2° Cacciatori a Cavallo 'Reale Prince'
+trp_italian_hussar2_officer_pl|Oficial
+trp_italian_hussar2_trumpet|2° Cacciatori a Cavallo 'Reale Prince'
+trp_italian_hussar2_trumpet_pl|Trompetista
+trp_italian_dragoon|1° Reggimento Dragoni 'Regina'
+trp_italian_dragoon_pl|Dragón
+trp_italian_dragoon_flag_bearer|1° Reggimento Dragoni 'Regina'
+trp_italian_dragoon_flag_bearer_pl|Portaestandarte
+trp_italian_dragoon_nco|1° Reggimento Dragoni 'Regina'
+trp_italian_dragoon_nco_pl|Sargento
+trp_italian_dragoon_officer|1° Reggimento Dragoni 'Regina'
+trp_italian_dragoon_officer_pl|Oficial
+trp_italian_dragoon_trumpet|1° Reggimento Dragoni 'Regina'
+trp_italian_dragoon_trumpet_pl|Trompetista
+trp_italian_cuirassier1|Guardia Reale d'Onore 'Brescia'
+trp_italian_cuirassier1_pl|Caballería Pesada
+trp_italian_cuirassier1_flag_bearer|Guardia Reale d'Onore 'Brescia'
+trp_italian_cuirassier1_flag_bearer_pl|Portaestandarte
+trp_italian_cuirassier1_nco|Guardia Reale d'Onore 'Brescia'
+trp_italian_cuirassier1_nco_pl|Sargento
+trp_italian_cuirassier1_officer|Guardia Reale d'Onore 'Brescia'
+trp_italian_cuirassier1_officer_pl|Oficial
+trp_italian_cuirassier1_trumpet|Guardia Reale d'Onore 'Brescia'
+trp_italian_cuirassier1_trumpet_pl|Trompetista
+trp_italian_cuirassier2|Gendarmeria Scelta Della Guardia Reale
+trp_italian_cuirassier2_pl|Caballería Pesada
+trp_italian_cuirassier2_flag_bearer|Gendarmeria Scelta Della Guardia Reale
+trp_italian_cuirassier2_flag_bearer_pl|Portaestandarte
+trp_italian_cuirassier2_nco|Gendarmeria Scelta Della Guardia Reale
+trp_italian_cuirassier2_nco_pl|Sargento
+trp_italian_cuirassier2_officer|Gendarmeria Scelta Della Guardia Reale
+trp_italian_cuirassier2_officer_pl|Oficial
+trp_italian_cuirassier2_trumpet|Gendarmeria Scelta Della Guardia Reale
+trp_italian_cuirassier2_trumpet_pl|Trompetista
+trp_italian_arty|Reggimento di Artiglieria a Piedi
+trp_italian_arty_pl|Artillería
+trp_italian_arty_guard|Reggimento di Artiglieria a Piedi
+trp_italian_arty_guard_pl|Guardia de artilleria
+trp_italian_arty_flag_bearer|Reggimento di Artiglieria a Piedi
+trp_italian_arty_flag_bearer_pl|Portaestandarte
+trp_italian_arty_nco|Reggimento di Artiglieria a Piedi
+trp_italian_arty_nco_pl|Artillería Train
+trp_italian_arty_officer|Reggimento di Artiglieria a Piedi
+trp_italian_arty_officer_pl|Oficial
+trp_italian_horseart|Reggimento di Artiglieria a Cavallo
+trp_italian_horseart_pl|Artillería a caballo
+trp_italian_horseart_guard|Reggimento di Artiglieria a Cavallo
+trp_italian_horseart_guard_pl|Guardia de artilleria
+trp_italian_horseart_flag_bearer|Reggimento di Artiglieria a Cavallo
+trp_italian_horseart_flag_bearer_pl|Portaestandarte
+trp_italian_horseart_nco|Reggimento di Artiglieria a Cavallo
+trp_italian_horseart_nco_pl|Artillería Train
+trp_italian_horseart_officer|Reggimento di Artiglieria a Cavallo
+trp_italian_horseart_officer_pl|Oficial
+trp_italian_medic|Farmacista
+trp_italian_medic_pl|Cirujano
+trp_italian_sapper|Zappatori
+trp_italian_sapper_pl|Ingeniero
+trp_italian_horse_sapper|Zappatori
+trp_italian_horse_sapper_pl|Ingeniero a caballo
+trp_italian_ship_marine|Tripulación del buque
+trp_italian_ship_marine_pl|Infantería de marina
+trp_italian_ship_flag_bearer|Tripulación del buque
+trp_italian_ship_flag_bearer_pl|Portaestandarte
+trp_italian_ship|Tripulación del buque
+trp_italian_ship_pl|Tripulación del buque
+trp_italian_ship_cannon|Tripulación del buque
+trp_italian_ship_cannon_pl|Artillería del buque
+trp_italian_ship_captain|Tripulación del buque
+trp_italian_ship_captain_pl|Capitán
+trp_italian_general|Eugène de Beauharnais, Virrey de Italia
+trp_italian_general_pl|Comandante
+trp_rhine_infantry_saxony2|Infanterie-Regiment No.8 von Rechten, Sachsen
+trp_rhine_infantry_saxony2_pl|Infantería de Línea
+trp_rhine_infantry_saxony2_flag_bearer|Infanterie-Regiment No.8 von Rechten, Sachsen
+trp_rhine_infantry_saxony2_flag_bearer_pl|Portaestandarte
+trp_rhine_infantry_saxony2_nco|Infanterie-Regiment No.8 von Rechten, Sachsen
+trp_rhine_infantry_saxony2_nco_pl|Sargento
+trp_rhine_infantry_saxony2_officer|Infanterie-Regiment No.8 von Rechten, Sachsen
+trp_rhine_infantry_saxony2_officer_pl|Oficial
+trp_rhine_infantry_saxony2_drum|Infanterie-Regiment No.8 von Rechten, Sachsen
+trp_rhine_infantry_saxony2_drum_pl|Tambor
+trp_rhine_infantry_saxony2_flute|Infanterie-Regiment No.8 von Rechten, Sachsen
+trp_rhine_infantry_saxony2_flute_pl|Flautista
+trp_rhine_westphalian_hussar|2. Husaren Regiment, Westphalen
+trp_rhine_westphalian_hussar_pl|Húsar
+trp_rhine_westphalian_hussar_flag_bearer|2. Husaren Regiment, Westphalen
+trp_rhine_westphalian_hussar_flag_bearer_pl|Portaestandarte
+trp_rhine_westphalian_hussar_nco|2. Husaren Regiment, Westphalen
+trp_rhine_westphalian_hussar_nco_pl|Sargento
+trp_rhine_westphalian_hussar_officer|2. Husaren Regiment, Westphalen
+trp_rhine_westphalian_hussar_officer_pl|Oficial
+trp_rhine_westphalian_hussar_trumpet|2. Husaren Regiment, Westphalen
+trp_rhine_westphalian_hussar_trumpet_pl|Trompetista
+trp_rhine_infantry_waldeck|Waldeck Fürstentümer Infanterie-Bataillon
+trp_rhine_infantry_waldeck_pl|Infantería de Línea
+trp_rhine_infantry_waldeck_flag_bearer|Waldeck Fürstentümer Infanterie-Bataillon
+trp_rhine_infantry_waldeck_flag_bearer_pl|Portaestandarte
+trp_rhine_infantry_waldeck_nco|Waldeck Fürstentümer Infanterie-Bataillon
+trp_rhine_infantry_waldeck_nco_pl|Sargento
+trp_rhine_infantry_waldeck_officer|Waldeck Fürstentümer Infanterie-Bataillon
+trp_rhine_infantry_waldeck_officer_pl|Oficial
+trp_rhine_infantry_waldeck_drum|Waldeck Fürstentümer Infanterie-Bataillon
+trp_rhine_infantry_waldeck_drum_pl|Tambor
+trp_rhine_infantry_waldeck_flute|Waldeck Fürstentümer Infanterie-Bataillon
+trp_rhine_infantry_waldeck_flute_pl|Flautista
+trp_rhine_wurt_guard|Garde zu Fuss, Wurttemberg
+trp_rhine_wurt_guard_pl|Guardia a Pie
+trp_rhine_wurt_guard_flag_bearer|Garde zu Fuss, Wurttemberg
+trp_rhine_wurt_guard_flag_bearer_pl|Portaestandarte
+trp_rhine_wurt_guard_nco|Garde zu Fuss, Wurttemberg
+trp_rhine_wurt_guard_nco_pl|Sargento
+trp_rhine_wurt_guard_officer|Garde zu Fuss, Wurttemberg
+trp_rhine_wurt_guard_officer_pl|Oficial
+trp_rhine_wurt_guard_drum|Garde zu Fuss, Wurttemberg
+trp_rhine_wurt_guard_drum_pl|Tambor
+trp_rhine_wurt_guard_flute|Garde zu Fuss, Wurttemberg
+trp_rhine_wurt_guard_flute_pl|Flautista
+trp_russian_ship_marine|Tripulación del buque
+trp_russian_ship_marine_pl|Marine
+trp_russian_ship_flag_bearer|Tripulación del buque
+trp_russian_ship_flag_bearer_pl|Portaestandarte
+trp_russian_ship|Tripulación del buque
+trp_russian_ship_pl|Tripulación del buque
+trp_russian_ship_cannon|Tripulación del buque
+trp_russian_ship_cannon_pl|Artillería del buque
+trp_russian_ship_captain|Tripulación del buque
+trp_russian_ship_captain_pl|Capitán
+trp_british_arty_commander|Royal Foot Artillery
+trp_british_arty_commander_pl|Oficial
+trp_british_arty_alt_commander|Royal Foot Artillery
+trp_british_arty_alt_commander_pl|Oficial
+trp_french_arty_commander|L'Artillerie
+trp_french_arty_commander_pl|Oficial
+trp_french_arty_alt_commander|L'Artillerie
+trp_french_arty_alt_commander_pl|Oficial
+trp_prussian_arty_commander|36. Regiment der Fussartillerie
+trp_prussian_arty_commander_pl|Oficial
+trp_prussian_arty_alt_commander|36. Regiment der Fussartillerie
+trp_prussian_arty_alt_commander_pl|Oficial
+trp_russian_arty_commander|Artillería
+trp_russian_arty_commander_pl|Oficial
+trp_russian_arty_alt_commander|Artillería
+trp_russian_arty_alt_commander_pl|Oficial
+trp_austrian_arty_commander|Prinz zu Lothringen Nr. 7 Artillerie
+trp_austrian_arty_commander_pl|Oficial
+trp_austrian_arty_alt_commander|Prinz zu Lothringen Nr. 7 Artillerie
+trp_austrian_arty_alt_commander_pl|Oficial
+trp_rhine_arty_commander|Artilleria, Bayern.
+trp_rhine_arty_commander_pl|Oficial
+trp_rhine_arty_alt_commander|Artilleria, Bayern.
+trp_rhine_arty_alt_commander_pl|Oficial
+trp_quick_battle_troop_britain_1|Arthur Wellesley
+trp_quick_battle_troop_britain_1_pl|General
+trp_quick_battle_troop_france_1|Napoleon Bonaparte
+trp_quick_battle_troop_france_1_pl|Emperor
+trp_quick_battle_troop_prussia_1|Gebhard von Blucher
+trp_quick_battle_troop_prussia_1_pl|General
+trp_quick_battle_troop_russia_1|Mikhail Kutuzov
+trp_quick_battle_troop_russia_1_pl|General
+trp_quick_battle_troop_austria_1|Karl Philipp
+trp_quick_battle_troop_austria_1_pl|General
+trp_quick_battle_troop_rhine_1|Friedrich August
+trp_quick_battle_troop_rhine_1_pl|General
+trp_companion_1|Raphael Martin
+trp_companion_1_pl|Raphael Martin
+trp_companion_2|Clement Bernard
+trp_companion_2_pl|Clement Bernard
+trp_companion_3|Maxim Munnig Schmidt
+trp_companion_3_pl|Maxime Petit
+trp_companion_4|Alexandre Durand
+trp_companion_4_pl|Alexandre Durand
+trp_companion_5|Antoine Richard
+trp_companion_5_pl|Antoine Richard
+trp_companion_6|Alexis Moreau
+trp_companion_6_pl|Alexis Moreau
+trp_companion_7|Jules Dubois
+trp_companion_7_pl|Jules Dubois
+trp_companion_8|Matteo Robert
+trp_companion_8_pl|Matteo Robert
+trp_companion_9|Julien Laurent
+trp_companion_9_pl|Julien Laurent
+trp_companion_10|Samuel Simon
+trp_companion_10_pl|Samuel Simon
+trp_companion_11|Noe Michel
+trp_companion_11_pl|Noe Michel
+trp_companion_12|Corentin Leroy
+trp_companion_12_pl|Corentin Leroy
+trp_companion_13|Jeremy Garcia
+trp_companion_13_pl|Jeremy Garcia
+trp_companion_14|Charles Lefebvre
+trp_companion_14_pl|Charles Lefebvre
+trp_companion_15|Eliott Roux
+trp_companion_15_pl|Eliott Roux
+trp_companion_16|Theo David
+trp_companion_16_pl|Theo David
+trp_companion_17|Romain Bertrand
+trp_companion_17_pl|Romain Bertrand
+trp_companion_18|Quentin Fournier
+trp_companion_18_pl|Quentin Fournier
+trp_companion_19|Girard Baptiste
+trp_companion_19_pl|Girard Baptiste
+trp_companion_20|Valentin Bonnet
+trp_companion_20_pl|Valentin Bonnet
+trp_companion_21|Nico Kamps
+trp_companion_21_pl|Nicolas Morel
+trp_companion_22|Mael Rousseau
+trp_companion_22_pl|Mael Rousseau
+trp_companion_23|Pierre Lambert
+trp_companion_23_pl|Pierre Lambert
+trp_companion_24|Marius Blanc
+trp_companion_24_pl|Marius Blanc
+trp_companion_25|Remi Thomas
+trp_companion_25_pl|Remi Thomas
+trp_companion_26|Benjamin Aguillon
+trp_companion_26_pl|Benjamin Aguillon
+trp_companion_27|Maxence Beauregard
+trp_companion_27_pl|Maxence Beauregard
+trp_companion_28|Axel Lemieux
+trp_companion_28_pl|Axel Lemieux
+trp_companion_29|Jules Plantier
+trp_companion_29_pl|Jules Plantier
+trp_companion_30|Martin Roche
+trp_companion_30_pl|Martin Roche
+trp_companions_end|companions end
+trp_companions_end_pl|companions end
+trp_walker_french_infantry|Infantryman
+trp_walker_french_infantry_pl|Infantry
+trp_walker_french_voltigeur|Voltigeur
+trp_walker_french_voltigeur_pl|Voltigeurs
+trp_walker_french_hussar|Húsar
+trp_walker_french_hussar_pl|Húsars
+trp_walker_french_officer|Oficial
+trp_walker_french_officer_pl|officers
+trp_walker_messenger|Messenger
+trp_walker_messenger_pl|Messenger
+trp_walker_peasant_male|Peasant
+trp_walker_peasant_male_pl|Peasants
+trp_walker_peasant_female|Peasant
+trp_walker_peasant_female_pl|Peasants
+trp_walkers_end|walkers end
+trp_walkers_end_pl|walkers end
+trp_camp_armorer|Tailor
+trp_camp_weaponsmith|Weapon Merchant
+trp_camp_horse_merchant|Horse Merchant
+trp_merchants_end|merchants end
+trp_merchants_end_pl|merchants end

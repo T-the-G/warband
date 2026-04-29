@@ -10,3 +10,4 @@ fi
 
 cd /server
 exec wine mb_warband_dedicated.exe -r server_config.txt -m Napoleonic Wars
+#exec wine mb_warband_dedicated.exe -r server_config.txt -m Napoleonic Wars Extended

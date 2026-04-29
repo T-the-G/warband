@@ -1,0 +1,2459 @@
+trp_player|Oyuncu
+trp_player_pl|Oyuncu
+trp_multiplayer_profile_troop_male|multiplayer profile troop male
+trp_multiplayer_profile_troop_male_pl|multiplayer profile troop male
+trp_multiplayer_profile_troop_female|multiplayer profile troop female
+trp_multiplayer_profile_troop_female_pl|multiplayer profile troop female
+trp_temp_troop|Temp Troop
+trp_temp_troop_pl|Temp Troop
+trp_british_infantry_ai|İngiliz Piyadesi
+trp_british_infantry_ai_pl|Piyade
+trp_british_infantry2_ai|Alman Piyadesi
+trp_british_infantry2_ai_pl|Alman Piyadesi
+trp_british_highlander_ai|Britanya İskoç Piyadesi
+trp_british_highlander_ai_pl|İskoç Piyadesi
+trp_british_foot_guard_ai|İngiliz Muhafız Piyadesi
+trp_british_foot_guard_ai_pl|Muhafız Piyadesi
+trp_british_light_infantry_ai|İngiliz Hafif Piyadesi
+trp_british_light_infantry_ai_pl|Hafif Piyade
+trp_british_rifle_ai|İngiliz Tüfekli Piyade
+trp_british_rifle_ai_pl|Tüfekli Piyade
+trp_british_hussar_ai|İngiliz Hussar
+trp_british_hussar_ai_pl|süvariler
+trp_british_light_dragoon_ai|İngiliz Hafif Dragun
+trp_british_light_dragoon_ai_pl|Hafif Dragun
+trp_british_dragoon_ai|İngiliz Dragun
+trp_british_dragoon_ai_pl|İngiliz Dragunları
+trp_british_horseguard_ai|İngiliz Atlı Muhafızı
+trp_british_horseguard_ai_pl|Atlı Muhafız
+trp_british_ship_ai|İngiliz Denizci
+trp_british_ship_ai_pl|Denizciler
+trp_british_ship_marine_ai|İngiliz Deniz
+trp_british_ship_marine_ai_pl|Deniz
+trp_british_arty_ai|İngiliz Topçu Piyadesi
+trp_british_arty_ai_pl|Topçu Birliği (Top)
+trp_british_arty_alt_ai|İngiliz Topçu Piyadesi
+trp_british_arty_alt_ai_pl|Topçu Birliği (Havan Topu)
+trp_british_rocket_ai|İngiliz Roketçisi
+trp_british_rocket_ai_pl|Roket Topçusu
+trp_french_infantry_ai|Fransız Piyadesi
+trp_french_infantry_ai_pl|Piyade
+trp_french_infantry2_ai|Fransız Ağır Piyadesi
+trp_french_infantry2_ai_pl|Ağır Piyade
+trp_french_infantry_vistula_ai|Leh Piyadesi
+trp_french_infantry_vistula_ai_pl|Leh Piyadesi
+trp_french_old_guard_ai|Fransız Ağır Muhafız Piyadesi
+trp_french_old_guard_ai_pl|Ağır Muhafız Piyadesi
+trp_french_voltigeur_ai|Fransız Avcı Piyadesi
+trp_french_voltigeur_ai_pl|Avcı Piyadesi
+trp_french_hussar_ai|Fransız Hussar
+trp_french_hussar_ai_pl|Hussarlarlar
+trp_french_lancer_ai|Leh Kargılı Süvarisi
+trp_french_lancer_ai_pl|Leh Kargılı Süvarileri
+trp_french_dragoon_ai|Fransız Dragun
+trp_french_dragoon_ai_pl|Dragunlar
+trp_french_cuirassier_ai|Fransız Zırhlı Süvarisi
+trp_french_cuirassier_ai_pl|Zırhlı Süvariler
+trp_french_carabineer_ai|Fransız Karabinacı
+trp_french_carabineer_ai_pl|Karabinacılar
+trp_french_grenadier_a_cheval_ai|Fransız Ağır Süvarisi
+trp_french_grenadier_a_cheval_ai_pl|Ağır Süvari
+trp_french_ship_ai|Fransız Denizci
+trp_french_ship_ai_pl|Denizciler
+trp_french_ship_marine_ai|Fransız Deniz
+trp_french_ship_marine_ai_pl|Deniz
+trp_french_arty_ai|Fransız Topçu Piyadesi
+trp_french_arty_ai_pl|Topçu Birliği (Top)
+trp_french_arty_alt_ai|Fransız Topçu Piyadesi
+trp_french_arty_alt_ai_pl|Topçu Birliği (Havan Topu)
+trp_prussian_infantry_ai|Prusyalı Piyade
+trp_prussian_infantry_ai_pl|Piyade (Brandenburg)
+trp_prussian_infantry2_ai|Prusyalı Piyade
+trp_prussian_infantry2_ai_pl|Piyade (Rhen)
+trp_prussian_infantry_kurmark_ai|Prusyalı Milis
+trp_prussian_infantry_kurmark_ai_pl|Milis
+trp_prussian_infantry_freikorps_ai|Prusyalı Gönüllü
+trp_prussian_infantry_freikorps_ai_pl|Gönüllü
+trp_prussian_infantry_15_ai|Prusyalı Piyade
+trp_prussian_infantry_15_ai_pl|Muhafız Piyadeleri
+trp_prussian_infantry_rifle_ai|Prusyalı Yager
+trp_prussian_infantry_rifle_ai_pl|Yagerler
+trp_prussian_dragoon_ai|Prusyalı Dragun
+trp_prussian_dragoon_ai_pl|Dragunlar
+trp_prussian_hussar_ai|Prusyalı Hussar
+trp_prussian_hussar_ai_pl|Hussarlarlar
+trp_prussian_landwehr_cav_ai|Prusyalı Kargılı Süvari
+trp_prussian_landwehr_cav_ai_pl|Kargılı Süvariler
+trp_prussian_cuirassier_ai|Prusyalı Zırhlı Süvari
+trp_prussian_cuirassier_ai_pl|Zırhlı Süvariler
+trp_prussian_arty_ai|Prusyalı Topçu Piyadesi
+trp_prussian_arty_ai_pl|Topçu Birliği (Top)
+trp_prussian_arty_alt_ai|Prusyalı Topçu Piyadesi
+trp_prussian_arty_alt_ai_pl|Topçu Birliği (Havan Topu)
+trp_russian_partizan_ai|Rus Partizan
+trp_russian_partizan_ai_pl|Partizanlar
+trp_russian_opol_ai|Rus Milis
+trp_russian_opol_ai_pl|Milis
+trp_russian_infantry_ai|Rus Piyadesi
+trp_russian_infantry_ai_pl|Piyade
+trp_russian_grenadier_ai|Rus Ağır Piyadesi
+trp_russian_grenadier_ai_pl|Ağır Piyade
+trp_russian_foot_guard_ai|Rus Muhafız Piyadesi
+trp_russian_foot_guard_ai_pl|Muhafız Piyadeleri
+trp_russian_infantry_rifle_ai|Rus Yager
+trp_russian_infantry_rifle_ai_pl|Yagerler
+trp_russian_hussar_ai|Rus Hussar
+trp_russian_hussar_ai_pl|Hussarlarlar
+trp_russian_uhlan_ai|Rus Uhlan
+trp_russian_uhlan_ai_pl|Uhlans
+trp_russian_cossack_ai|Kargılı Hafif Süvari Muhafız Alayı
+trp_russian_cossack_ai_pl|Kazaklar
+trp_russian_dragoon_ai|Rus Dragun
+trp_russian_dragoon_ai_pl|Dragunlar
+trp_russian_horse_guard_ai|Rus Süvari Muhafızı
+trp_russian_horse_guard_ai_pl|Süvari Muhafızları
+trp_russian_arty_ai|Rus Topçu Piyadesi
+trp_russian_arty_ai_pl|Topçu Birliği (Top)
+trp_russian_arty_alt_ai|Rus Topçu Piyadesi
+trp_russian_arty_alt_ai_pl|Topçu Birliği (Havan Topu)
+trp_austrian_infantry_ai|Avusturyalı Piyade
+trp_austrian_infantry_ai_pl|Piyade
+trp_austrian_infantry2_ai|Macar Piyade
+trp_austrian_infantry2_ai_pl|Piyade
+trp_austrian_grenzer_ai|Avusturyalı Grenzer
+trp_austrian_grenzer_ai_pl|Grenzerler
+trp_austrian_grenadier_ai|Macar Ağır Piyadesi
+trp_austrian_grenadier_ai_pl|Ağır Piyade
+trp_austrian_infantry_rifle_ai|Avusturyalı Yager
+trp_austrian_infantry_rifle_ai_pl|Yagerler
+trp_austrian_hussar_ai|Avusturyalı Hussar
+trp_austrian_hussar_ai_pl|Hussarlarlar
+trp_austrian_uhlan_ai|Avusturyalı Uhlan
+trp_austrian_uhlan_ai_pl|Uhlanlar
+trp_austrian_light_horse_ai|Avusturyalı Hafif Süvari
+trp_austrian_light_horse_ai_pl|Hafif Süvariler
+trp_austrian_dragoon_ai|Avusturyalı Dragun
+trp_austrian_dragoon_ai_pl|Dragunlar
+trp_austrian_cuirassier_ai|Avusturyalı Zırhlı Süvari
+trp_austrian_cuirassier_ai_pl|Zırhlı Süvariler
+trp_austrian_arty_ai|Avusturyalı Topçu Piyadesi
+trp_austrian_arty_ai_pl|Topçu Birliği (Top)
+trp_austrian_arty_alt_ai|Avusturyalı Topçu Piyadesi
+trp_austrian_arty_alt_ai_pl|Topçu Birliği (Havan Topu)
+trp_rhine_infantry_bavaria_ai|Bavyera Piyade Alayı
+trp_rhine_infantry_bavaria_ai_pl|Bavyera Piyade Alayı
+trp_rhine_infantry_wurttemberg_ai|Württemberg Piyade Alayı
+trp_rhine_infantry_wurttemberg_ai_pl|Württemberg Piyade Alayı
+trp_rhine_infantry_saxony_ai|Sakson Piyade Alayı
+trp_rhine_infantry_saxony_ai_pl|Sakson Piyade Alayı
+trp_rhine_infantry_wurttemberg2_ai|Württemberg Ağır Piyadesi
+trp_rhine_infantry_wurttemberg2_ai_pl|Württemberg Ağır Piyadesi
+trp_rhine_grenadier_guard_ai|Vestfalya Ağır Muhafız Piyadesi
+trp_rhine_grenadier_guard_ai_pl|Ağır Muhafız Piyadeleri
+trp_rhine_light_infantry_hessen_ai|Hessen Hafif Piyadesi
+trp_rhine_light_infantry_hessen_ai_pl|Hafif Piyade
+trp_rhine_light_infantry_bavaria_ai|Bavyera Nişancısı
+trp_rhine_light_infantry_bavaria_ai_pl|Nişancılar
+trp_rhine_mounted_jaeger_ai|Nassau Atlı Yageri
+trp_rhine_mounted_jaeger_ai_pl|Atlı Yagerler
+trp_rhine_uhlan_ai|Sakson Uhlan
+trp_rhine_uhlan_ai_pl|Uhlanlar
+trp_rhine_light_dragoon_ai|Badner Hafif Dragun
+trp_rhine_light_dragoon_ai_pl|Hafif Dragunlar
+trp_rhine_cuirassier_ai|Vestfalya Zırhlı Süvarisi
+trp_rhine_cuirassier_ai_pl|Zırhlı Süvariler
+trp_rhine_garde_du_corps_ai|Sakson Atlı Muhafızı
+trp_rhine_garde_du_corps_ai_pl|Atlı Muhafızlar
+trp_rhine_arty_ai|Bavyera Topçusu
+trp_rhine_arty_ai_pl|Topçu (Gülle)
+trp_rhine_arty_alt_ai|Bavyera Topçusu
+trp_rhine_arty_alt_ai_pl|Topçu (Havan topu)
+trp_austrian_11_ai_pl|Piyade
+trp_austrian_11_ai|Avusturyalı Piyade
+trp_austrian_16_ai_pl|Ağır Piyade
+trp_austrian_16_ai|Avusturyalı Ağır Piyadesi
+trp_austrian_24_ai_pl|Piyade
+trp_austrian_24_ai|Avusturyalı Piyade
+trp_austrian_31_ai_pl|Piyade
+trp_austrian_31_ai|Macar Piyade
+trp_austrian_34_ai_pl|Piyade
+trp_austrian_34_ai|Macar Piyade
+trp_austrian_39_ai_pl|Piyade
+trp_austrian_39_ai|Macar Piyade
+trp_austrian_4_ai_pl|Piyade
+trp_austrian_4_ai|Avusturyalı Piyade
+trp_austrian_51_ai_pl|Piyade
+trp_austrian_51_ai|Macar Piyade
+trp_austrian_56_ai_pl|Ağır Piyade
+trp_austrian_56_ai|Avusturyalı Ağır Piyadesi
+trp_austrian_59_ai_pl|Piyade
+trp_austrian_59_ai|Avusturyalı Piyade
+trp_austrian_cuirassier5_ai_pl|Zırhlı Süvariler
+trp_austrian_cuirassier5_ai|Avusturyalı Ağır Piyadesi
+trp_austrian_grenzer5_ai_pl|Grenzerler
+trp_austrian_grenzer5_ai|Avusturyalı Grenzer
+trp_austrian_horseart_ai_pl|Süvari Topçusu
+trp_austrian_horseart_ai|Avusturyalı Süvari Topçusu
+trp_austrian_hussar12_ai_pl|Hussarlarlar
+trp_austrian_hussar12_ai|Avusturyalı Hussar
+trp_brit_canadian_horsemen_ai_pl|Kanada Sömürge Hafif Süvari Birliği
+trp_brit_canadian_horsemen_ai|Kanada Sömürge Hafif Süvari Birliği
+trp_brit_canadian_infantry_ai_pl|Kanada Sömürge Piyadeleri
+trp_brit_canadian_infantry_ai|Kanada Sömürge Piyadeleri
+trp_brit_horseart_ai_pl|Süvari Topçusu
+trp_brit_horseart_ai|Kraliyet atlı topçusu
+trp_brit_indian_ai_pl|Hint Piyadeleri
+trp_brit_indian_ai|Hint Piyadeleri
+trp_british_foot_guard_ai_pl|Muhafız Piyadesi
+trp_british_foot_guard_ai|İngiliz Muhafız Piyadesi
+trp_british_highlander78_ai_pl|Piyade
+trp_british_highlander78_ai|İngiliz Piyadesi
+trp_british_hussar_ai_pl|Hussarlarlar
+trp_british_hussar_ai|İngiliz Hussar
+trp_british_infantry14_ai_pl|Piyade
+trp_british_infantry14_ai|İngiliz Piyadesi
+trp_french_corses_ai_pl|Korsikalı Tüfekçiler
+trp_french_corses_ai|Korsikalı Tüfekçiler
+trp_french_foot_dragoon_ai_pl|Dragunlar
+trp_french_foot_dragoon_ai|Fransız Dragun
+trp_french_gendarme_ai_pl|Fransız Jandarması
+trp_french_gendarme_ai|Fransız Jandarması
+trp_french_guard_marines_ai_pl|Fransız Deniz Muhafızları
+trp_french_guard_marines_ai|Fransız Deniz Muhafızları
+trp_french_guard_light_ai|Fransız Avcı Piyadesi
+trp_french_guard_light_ai_pl|Avcı Piyadesi
+trp_french_horseart_ai_pl|Süvari Topçusu
+trp_french_horseart_ai|Fransız Süvari Topçusu
+trp_french_hussar5_ai_pl|Hussarlarlar
+trp_french_hussar5_ai|Fransız Hussar
+trp_french_infantry14_ai_pl|Piyade
+trp_french_infantry14_ai|Fransız Piyadesi
+trp_french_infantry3_ai_pl|Piyade
+trp_french_infantry3_ai|Fransız Piyadesi
+trp_french_infantry65_ai_pl|Piyade
+trp_french_infantry65_ai|Fransız Piyadesi
+trp_french_infantry_1er_ai_pl|Piyade
+trp_french_infantry_1er_ai|Fransız Piyadesi
+trp_french_infantry_swiss_ai_pl|Piyade
+trp_french_infantry_swiss_ai|İsviçre piyadesi
+trp_french_mounted_chasseur_ai_pl|Fransız Atlı Avcı
+trp_french_mounted_chasseur_ai|Fransız Atlı Avcı
+trp_nwe_rus_horse_arty_ai_pl|Süvari Topçusu
+trp_nwe_rus_horse_arty_ai|Rus Süvari Topçusu
+trp_ottoman_arty_ai_pl|Topçu (Gülle)
+trp_ottoman_arty_ai|Osmanlı topçusu
+trp_ottoman_arty_alt_ai_pl|Topçu (Havan topu)
+trp_ottoman_arty_alt_ai|Osmanlı topçusu
+trp_ottoman_arty_guard_ai_pl|Osmanlı Topçu Muhafızı
+trp_ottoman_arty_guard_ai|Osmanlı Topçu Muhafızı
+trp_ottoman_bashi_ai_pl|Başıbozuk
+trp_ottoman_bashi_ai|Başıbozuk
+trp_ottoman_camel_cav_ai_pl|Osmanlı Develi Süvarisi
+trp_ottoman_camel_cav_ai|Osmanlı Develi Süvarisi
+trp_ottoman_camel_heavy_cav_ai_pl|Osmanlı Develi Muhafızları
+trp_ottoman_camel_heavy_cav_ai|Osmanlı Develi Muhafızları
+trp_ottoman_cuirassier_ai_pl|Zırhlı Süvariler
+trp_ottoman_cuirassier_ai|Osmanlı Zırhlı Süvari
+trp_ottoman_dragoon_ai_pl|Dragunlar
+trp_ottoman_dragoon_ai|Osmanlı Dragun
+trp_ottoman_heavy_cavalry_ai_pl|Memlükler
+trp_ottoman_heavy_cavalry_ai|Memlükler
+trp_ottoman_horseart_ai_pl|Süvari Topçusu
+trp_ottoman_horseart_ai|Osmanlı Süvari Topçusu
+trp_ottoman_horseart_guard_ai_pl|Süvari Topçu Muhafızı
+trp_ottoman_horseart_guard_ai|Osmanlı Süvari Topçu Muhafızı
+trp_ottoman_hussar_ai_pl|Hussarlarlar
+trp_ottoman_hussar_ai|Osmanlı Hussar
+trp_ottoman_jani_ai_pl|Osmanlı Yeniçeri
+trp_ottoman_jani_ai|Osmanlı Yeniçeri
+trp_ottoman_jani_istanbul_ai_pl|Osmanlı Yeniçeri
+trp_ottoman_jani_istanbul_ai|Osmanlı Yeniçeri
+trp_ottoman_lancer_ai_pl|Kargılı Süvariler
+trp_ottoman_lancer_ai|Osmanlı Kargılı Süvari
+trp_ottoman_levend_ai_pl|Piyade
+trp_ottoman_levend_ai|Osmanlı Piyadesi
+trp_ottoman_libyan_ai_pl|Libya Bedevisi
+trp_ottoman_libyan_ai|Libya Bedevisi
+trp_ottoman_light_ai_pl|Arnavut Askerleri
+trp_ottoman_light_ai|Arnavut Askerleri
+trp_ottoman_rifle_ai_pl|Laz Neferleri
+trp_ottoman_rifle_ai|Laz Neferleri
+trp_ottoman_ship_ai_pl|Denizciler
+trp_ottoman_ship_ai|Osmanlı Denizci
+trp_ottoman_ship_cannon_ai_pl|Denizciler
+trp_ottoman_ship_cannon_ai|Osmanlı Osmanlı
+trp_ottoman_ship_marine_ai_pl|Deniz
+trp_ottoman_ship_marine_ai|Osmanlı Deniz
+trp_ottoman_subara_ai_pl|Piyade
+trp_ottoman_subara_ai|Osmanlı Piyadesi
+trp_ottoman_uskudar_ai_pl|Piyade
+trp_ottoman_uskudar_ai|Osmanlı Piyadesi
+trp_pruss_brun_ai_pl|Muhafız Piyadesi
+trp_pruss_brun_ai|Prusya Muhafız Piyadesi
+trp_pruss_cav_silesian_ai_pl|Zırhlı Süvariler
+trp_pruss_cav_silesian_ai|Prusya Ağır Piyadesi
+trp_pruss_freiw_ai_pl|Avcısı
+trp_pruss_freiw_ai|Prusya Avcısı
+trp_pruss_horseart_ai_pl|Süvari Topçusu
+trp_pruss_horseart_ai|Prusya Süvari Topçusu
+trp_rhine_grenadier_guard2_ai_pl|Ağır Muhafız Piyadesi
+trp_rhine_grenadier_guard2_ai|Berg Ağır Muhafız Piyadesi
+trp_rhine_horseart_ai_pl|Süvari Topçusu
+trp_rhine_horseart_ai|Sakson atlı topçusu
+trp_russian_butyrskiy_infantry_ai_pl|Piyade
+trp_russian_butyrskiy_infantry_ai|Rus Piyadesi
+trp_russian_finnish_jaeger_ai_pl|Avcısı
+trp_russian_finnish_jaeger_ai|Fin Avcısı
+trp_russian_glukhovskiy_cuirassier_ai_pl|Zırhlı Süvariler
+trp_russian_glukhovskiy_cuirassier_ai|Rus Ağır Piyadesi
+trp_russian_internal_guard_ai_pl|Rus iç muhafızları
+trp_russian_internal_guard_ai|Rus iç muhafızları
+trp_russian_litovski_guard_ai_pl|Muhafız Piyadesi
+trp_russian_litovski_guard_ai|Rus Muhafız Piyadesi
+trp_british_foot_guard1_ai|1. Muhafız Piyade Alayı
+trp_british_foot_guard1_ai_pl|Muhafız Piyade
+trp_british_hussar2_ai|2nd KGL Hussars
+trp_british_hussar2_ai_pl|Hussarlar
+trp_prussian_infantry_2_ai|2. Piyade Alayı
+trp_prussian_infantry_2_ai_pl|Piyade
+trp_prussian_infantry12_ai|12. Brandenburg Piyade Alayı
+trp_prussian_infantry12_ai_pl|Piyade
+trp_prussian_infantry14_ai|14. Vestfalya Piyade Alayı
+trp_prussian_infantry14_ai_pl|Piyade
+trp_prussian_infantry18_ai|18. Piyade Alayı
+trp_prussian_infantry18_ai_pl|Piyade
+trp_prussian_infantry24_ai|24. Brandenburg Piyade Alayı
+trp_prussian_infantry24_ai_pl|Piyade
+trp_prussian_infantry26_ai|26. Magdeburgische Piyade Alayı
+trp_prussian_infantry26_ai_pl|Piyade
+trp_prussian_infantry_elbe_ai|2. Elbe Landwehr Alayı
+trp_prussian_infantry_elbe_ai_pl|Piyade
+trp_prussian_dragoon5_ai|5. Brandenburg Dragunları
+trp_prussian_dragoon5_ai_pl|Dragun
+trp_prussian_hussar_mhr_ai|10. Magdeburgische Hussar Alayı
+trp_prussian_hussar_mhr_ai_pl|Hussarlar
+trp_austrian_32_ai|Eszterházy 32. Piyade Alayı
+trp_austrian_32_ai_pl|Piyade
+trp_italian_infantry1_ai|İtalyan Piyadesi
+trp_italian_infantry2_ai|İtalyan Piyadesi
+trp_italian_infantry3_ai|İtalyan Piyadesi
+trp_italian_infantry4_ai|İtalyan Piyadesi
+trp_italian_infantry5_ai|İtalyan Piyadesi
+trp_italian_foot_guard1_ai|İtalyan Muhafız Piyadesi
+trp_italian_foot_guard2_ai|İtalyan Muhafız Piyadesi
+trp_italian_foot_guard3_ai|İtalyan Muhafız Piyadesi
+trp_italian_light_ai|İtalyan Avcı Piyadesi
+trp_italian_rifle_ai|İtalyan Tüfekli Piyade
+trp_italian_hussar1_ai|İtalyan Hussar
+trp_italian_hussar2_ai|İtalyan Hussar
+trp_italian_dragoon_ai|İtalyan Dragun
+trp_italian_cuirassier1_ai|İtalyan Atlı Muhafızı
+trp_italian_cuirassier2_ai|İtalyan Atlı Muhafızı
+trp_italian_arty_ai|İtalyan Topçu Piyadesi
+trp_italian_arty_alt_ai|İtalyan Topçu Piyadesi
+trp_italian_horseart_ai|İtalyan Süvari Topçu Muhafızı
+trp_italian_ship_marine_ai|İtalyan Deniz
+trp_italian_ship_ai|İtalyan Denizci
+trp_italian_infantry1_ai_pl|Piyade
+trp_italian_infantry2_ai_pl|Piyade
+trp_italian_infantry3_ai_pl|Piyade
+trp_italian_infantry4_ai_pl|Piyade
+trp_italian_infantry5_ai_pl|Piyade
+trp_italian_foot_guard1_ai_pl|Muhafız Piyadesi
+trp_italian_foot_guard2_ai_pl|Muhafız Piyadesi
+trp_italian_foot_guard3_ai_pl|Muhafız Piyadesi
+trp_italian_light_ai_pl|Avcı Piyadesi
+trp_italian_rifle_ai_pl|Tüfekli Piyade
+trp_italian_hussar1_ai_pl|Hussarlarlar
+trp_italian_hussar2_ai_pl|Hussarlarlar
+trp_italian_dragoon_ai_pl|Dragunlar
+trp_italian_cuirassier1_ai_pl|Atlı Muhafız
+trp_italian_cuirassier2_ai_pl|Atlı Muhafız
+trp_italian_arty_ai_pl|Topçu Birliği (Top)
+trp_italian_arty_alt_ai_pl|Topçu Birliği (Havan Topu)
+trp_italian_horseart_ai_pl|Süvari Topçu Muhafızı
+trp_italian_ship_marine_ai_pl|Deniz
+trp_italian_ship_ai_pl|Denizciler
+trp_rhine_infantry_saxony2_ai|Sakson Piyade Alayı
+trp_rhine_infantry_saxony2_ai_pl|Sakson Piyade Alayı
+trp_rhine_westphalian_hussar_ai|Vestfalya Hussar
+trp_rhine_westphalian_hussar_ai_pl|Hussarlar
+trp_rhine_infantry_waldeck_ai|Waldeck Prensliği Piyade Taburu
+trp_rhine_infantry_waldeck_ai_pl|Piyade
+trp_rhine_wurt_guard_ai|Württemberg'de piyade muhafızı
+trp_rhine_wurt_guard_ai_pl|Muhafız Piyade
+trp_russian_ship_marine_ai_pl|Deniz
+trp_russian_ship_ai_pl|Denizciler
+trp_russian_ship_marine_ai|Deniz
+trp_russian_ship_ai|Denizci
+trp_british_infantry|33. Piyade Alayı
+trp_british_infantry_pl|Piyade
+trp_british_infantry_nco|33. Piyade Alayı
+trp_british_infantry_nco_pl|Çavuş
+trp_british_infantry_officer|33. Piyade Alayı
+trp_british_infantry_officer_pl|Subay
+trp_british_infantry_drum|33. Piyade Alayı
+trp_british_infantry_drum_pl|Davulcu
+trp_british_infantry_flute|33. Piyade Alayı
+trp_british_infantry_flute_pl|Flütçü
+trp_british_infantry2|5. Hat Taburu Kralın Alman Lejyonu
+trp_british_infantry2_pl|Piyade
+trp_british_infantry2_nco|Kralın Alman Lejyonu 5. Tabur
+trp_british_infantry2_nco_pl|Çavuş
+trp_british_infantry2_officer|Kralın Alman Lejyonu 5. Tabur
+trp_british_infantry2_officer_pl|Subay
+trp_british_infantry2_drum|Kralın Alman Lejyonu 5. Tabur
+trp_british_infantry2_drum_pl|Davulcu
+trp_british_infantry2_flute|Kralın Alman Lejyonu 5. Tabur
+trp_british_infantry2_flute_pl|Flütçü
+trp_british_highlander|42. Piyade Alayı (Kara Devriye)
+trp_british_highlander_pl|Piyade
+trp_british_highlander_nco|42. İskoç Piyade Alayı
+trp_british_highlander_nco_pl|Çavuş
+trp_british_highlander_officer|42. İskoç Piyade Alayı
+trp_british_highlander_officer_pl|Subay
+trp_british_highlander_drum|42. İskoç Piyade Alayı
+trp_british_highlander_drum_pl|Davulcu
+trp_british_highlander_pipes|42. İskoç Piyade Alayı
+trp_british_highlander_pipes_pl|Gaydacı
+trp_british_foot_guard|Coldstream Muhafız Piyade Alayı
+trp_british_foot_guard_pl|Muhafız Piyadeleri
+trp_british_foot_guard_nco|2. Muhafız Piyade Alayı (Coldstream)
+trp_british_foot_guard_nco_pl|Çavuş
+trp_british_foot_guard_officer|2. Muhafız Piyade Alayı (Coldstream)
+trp_british_foot_guard_officer_pl|Subay
+trp_british_foot_guard_drum|2. Muhafız Piyade Alayı (Coldstream)
+trp_british_foot_guard_drum_pl|Davulcu
+trp_british_foot_guard_flute|2. Muhafız Piyade Alayı (Coldstream)
+trp_british_foot_guard_flute_pl|Flütçü
+trp_british_light_infantry|51. (2. Yorkshire West Riding) Piyade Alayı
+trp_british_light_infantry_pl|Piyade
+trp_british_light_infantry_nco|51. Piyade Alayı
+trp_british_light_infantry_nco_pl|Çavuş
+trp_british_light_infantry_officer|51. Piyade Alayı
+trp_british_light_infantry_officer_pl|Subay
+trp_british_light_infantry_horn|51. Piyade Alayı
+trp_british_light_infantry_horn_pl|Kornocu
+trp_british_rifle|95. Piyade Alayı (Tüfekli)
+trp_british_rifle_pl|Tüfekli Piyade
+trp_british_rifle_nco|95. Tüfekli Piyade Alayı
+trp_british_rifle_nco_pl|Çavuş
+trp_british_rifle_officer|95. Tüfekli Piyade Alayı
+trp_british_rifle_officer_pl|Subay
+trp_british_rifle_horn|95. Tüfekli Piyade Alayı
+trp_british_rifle_horn_pl|Kornocu
+trp_british_hussar|1st KGL Hussars
+trp_british_hussar_pl|Hussarlar
+trp_british_hussar_nco|1st KGL Hussars
+trp_british_hussar_nco_pl|Çavuş
+trp_british_hussar_officer|1st KGL Hussars
+trp_british_hussar_officer_pl|Subay
+trp_british_hussar_trumpet|1st KGL Hussars
+trp_british_hussar_trumpet_pl|Borazancı
+trp_british_light_dragoon|23. Hafif Dragunlar
+trp_british_light_dragoon_pl|Hafif Süvari
+trp_british_light_dragoon_nco|23. Hafif Dragunlar
+trp_british_light_dragoon_nco_pl|Çavuş
+trp_british_light_dragoon_officer|23. Hafif Dragunlar
+trp_british_light_dragoon_officer_pl|Subay
+trp_british_light_dragoon_trumpet|23. Hafif Dragunlar
+trp_british_light_dragoon_trumpet_pl|Borazancı
+trp_british_dragoon|6. (Inniskilling) Dragunlar
+trp_british_dragoon_pl|Ağır Süvari
+trp_british_dragoon_nco|6. (Inniskilling) Dragunlar
+trp_british_dragoon_nco_pl|Çavuş
+trp_british_dragoon_officer|6. (Inniskilling) Dragunlar
+trp_british_dragoon_officer_pl|Subay
+trp_british_dragoon_trumpet|6. (Inniskilling) Dragunlar
+trp_british_dragoon_trumpet_pl|Borazancı
+trp_british_horseguard|Mavi Kraliyet Atlı Muhafızları
+trp_british_horseguard_pl|Ağır Süvari
+trp_british_horseguard_nco|Mavi Kraliyet Atlı Muhafızları
+trp_british_horseguard_nco_pl|Çavuş
+trp_british_horseguard_officer|Mavi Kraliyet Atlı Muhafızları
+trp_british_horseguard_officer_pl|Subay
+trp_british_horseguard_trumpet|Mavi Kraliyet Atlı Muhafızları
+trp_british_horseguard_trumpet_pl|Borazancı
+trp_british_arty|Kraliyet Piyade Topçu Birliği
+trp_british_arty_pl|Topçu Piyade
+trp_british_arty_guard|Topçu Muhafızı
+trp_british_arty_guard_pl|Topçu Muhafızı
+trp_british_arty_nco|Kraliyet Piyade Topçu Birliği
+trp_british_arty_nco_pl|Top Taşıyıcı
+trp_british_arty_officer|Kraliyet Piyade Topçu Birliği
+trp_british_arty_officer_pl|Subay
+trp_british_rocket|2. Roket Bölüğü
+trp_british_rocket_pl|Roket Topçusu
+trp_british_medic|Sıhhiyeci
+trp_british_medic_pl|Cerrah
+trp_british_sapper|İstihkam
+trp_british_sapper_pl|Mühendis
+trp_british_ship|Gemi Mürettebat
+trp_british_ship_pl|Piyade
+trp_british_ship_cannon|Gemi Mürettebat
+trp_british_ship_cannon_pl|deniz topçu
+trp_british_ship_marine|Gemi Mürettebat
+trp_british_ship_marine_pl|Deniz, 1st Battalion - Royal Marines
+trp_british_ship_captain|Gemi Mürettebat
+trp_british_ship_captain_pl|Mesaj Captain, HMS Neptune
+trp_wellington|Arthur Wellesley, Wellington Dükü
+trp_wellington_pl|Kumandan
+trp_french_infantry|45. Piyade Alayı
+trp_french_infantry_pl|Piyade
+trp_french_infantry_nco|45. Piyade Alayı
+trp_french_infantry_nco_pl|Çavuş
+trp_french_infantry_officer|45. Piyade Alayı
+trp_french_infantry_officer_pl|Subay
+trp_french_infantry_drum|45. Piyade Alayı
+trp_french_infantry_drum_pl|Davulcu
+trp_french_infantry_flute|45. Piyade Alayı
+trp_french_infantry_flute_pl|Flütçü
+trp_french_infantry2|84. Piyade Alayı
+trp_french_infantry2_pl|Piyade
+trp_french_infantry2_nco|84. Piyade Alayı
+trp_french_infantry2_nco_pl|Çavuş
+trp_french_infantry2_officer|84. Piyade Alayı
+trp_french_infantry2_officer_pl|Subay
+trp_french_infantry2_drum|84. Piyade Alayı
+trp_french_infantry2_drum_pl|Davulcu
+trp_french_infantry2_flute|84. Piyade Alayı
+trp_french_infantry2_flute_pl|Flütçü
+trp_french_infantry_vistula|Vistül Lejyonu
+trp_french_infantry_vistula_pl|Piyade
+trp_french_infantry_vistula_nco|Vistül Lejyonu
+trp_french_infantry_vistula_nco_pl|Çavuş
+trp_french_infantry_vistula_officer|Vistül Lejyonu
+trp_french_infantry_vistula_officer_pl|Subay
+trp_french_infantry_vistula_drum|Vistül Lejyonu
+trp_french_infantry_vistula_drum_pl|Davulcu
+trp_french_infantry_vistula_flute|Vistül Lejyonu
+trp_french_infantry_vistula_flute_pl|Flütçü
+trp_french_old_guard|1. Ağır Muhafız Piyade Alayı
+trp_french_old_guard_pl|Muhafız Piyade
+trp_french_old_guard_nco|1. Ağır Muhafız Piyade Alayı
+trp_french_old_guard_nco_pl|Çavuş
+trp_french_old_guard_officer|1. Ağır Muhafız Piyade Alayı
+trp_french_old_guard_officer_pl|Subay
+trp_french_old_guard_drum|1. Ağır Muhafız Piyade Alayı
+trp_french_old_guard_drum_pl|Davulcu
+trp_french_old_guard_flute|1. Ağır Muhafız Piyade Alayı
+trp_french_old_guard_flute_pl|Flütçü
+trp_french_voltigeur|15. Hafif Piyade Alayı
+trp_french_voltigeur_pl|Hafif Piyade
+trp_french_voltigeur_nco|15. Hafif Piyade Alayı
+trp_french_voltigeur_nco_pl|Çavuş
+trp_french_voltigeur_officer|15. Hafif Piyade Alayı
+trp_french_voltigeur_officer_pl|Subay
+trp_french_voltigeur_horn|15. Hafif Piyade Alayı
+trp_french_voltigeur_horn_pl|Kornocu
+trp_french_hussar|2. Hussar Alayı
+trp_french_hussar_pl|Hussarlar
+trp_french_hussar_nco|2. Hussar Alayı
+trp_french_hussar_nco_pl|Çavuş
+trp_french_hussar_officer|2. Hussar Alayı
+trp_french_hussar_officer_pl|Subay
+trp_french_hussar_trumpet|2. Hussar Alayı
+trp_french_hussar_trumpet_pl|Trompetçi
+trp_french_lancer|Kargılı Hafif Süvari Muhafız Alayı
+trp_french_lancer_pl|Kargılı Süvari
+trp_french_lancer_nco|Kargılı Hafif Süvari Muhafız Alayı
+trp_french_lancer_nco_pl|Çavuş
+trp_french_lancer_officer|Kargılı Hafif Süvari Muhafız Alayı
+trp_french_lancer_officer_pl|Subay
+trp_french_lancer_trumpet|Kargılı Hafif Süvari Muhafız Alayı
+trp_french_lancer_trumpet_pl|Trompetçi
+trp_french_dragoon|İmparatoriçe Dragunları Alayı
+trp_french_dragoon_pl|Dragun
+trp_french_dragoon_nco|İmparatoriçe Dragunları Alayı
+trp_french_dragoon_nco_pl|Çavuş
+trp_french_dragoon_officer|İmparatoriçe Dragunları Alayı
+trp_french_dragoon_officer_pl|Subay
+trp_french_dragoon_trumpet|İmparatoriçe Dragunları Alayı
+trp_french_dragoon_trumpet_pl|Trompetçi
+trp_french_cuirassier|9. Zırhlı Süvari Alayı
+trp_french_cuirassier_pl|Zırhlı Süvari
+trp_french_cuirassier_nco|Zırhlı Süvariler
+trp_french_cuirassier_nco_pl|Çavuş
+trp_french_cuirassier_officer|Zırhlı Süvariler
+trp_french_cuirassier_officer_pl|Subay
+trp_french_cuirassier_trumpet|Zırhlı Süvariler
+trp_french_cuirassier_trumpet_pl|Trompetçi
+trp_french_carabineer|1. Karabinacı Alayı
+trp_french_carabineer_pl|Karabinacı
+trp_french_carabineer_nco|Karabinacılar
+trp_french_carabineer_nco_pl|Çavuş
+trp_french_carabineer_officer|Karabinacılar
+trp_french_carabineer_officer_pl|Subay
+trp_french_carabineer_trumpet|Karabinacılar
+trp_french_carabineer_trumpet_pl|Trompetçi
+trp_french_grenadier_a_cheval|Ağır Muhafız Süvari Alayı
+trp_french_grenadier_a_cheval_pl|Ağır Süvari
+trp_french_grenadier_a_cheval_nco|Ağır Muhafız Süvari Alayı
+trp_french_grenadier_a_cheval_nco_pl|Çavuş
+trp_french_grenadier_a_cheval_officer|Ağır Muhafız Süvari Alayı
+trp_french_grenadier_a_cheval_officer_pl|Subay
+trp_french_grenadier_a_cheval_trumpet|Ağır Muhafız Süvari Alayı
+trp_french_grenadier_a_cheval_trumpet_pl|Trompetçi
+trp_french_arty|Topçu Birliği
+trp_french_arty_pl|Topçu Piyade
+trp_french_arty_guard|Topçu Muhafızı
+trp_french_arty_guard_pl|Topçu Muhafızı
+trp_french_arty_nco|Topçu Birliği
+trp_french_arty_nco_pl|Top Taşıyıcı
+trp_french_arty_officer|Topçu Birliği
+trp_french_arty_officer_pl|Subay
+trp_french_medic|Sıhhiyeci
+trp_french_medic_pl|Cerrah
+trp_french_sapper|İstihkam
+trp_french_sapper_pl|Mühendis
+trp_french_ship|Gemi Mürettebat
+trp_french_ship_pl|Piyade
+trp_french_ship_cannon|Gemi Mürettebat
+trp_french_ship_cannon_pl|Deniz topçu
+trp_french_ship_marine|Gemi Mürettebat
+trp_french_ship_marine_pl|Deniz, 24e Bataillon des Equipages
+trp_french_ship_captain|Gemi Mürettebat
+trp_french_ship_captain_pl|Capitaine de Vaisseau, Intrepide
+trp_napoleon|İmparator Napoleon Bonaparte
+trp_napoleon_pl|Kumandan
+trp_prussian_infantry|8. Brandenburg Piyade Alayı
+trp_prussian_infantry_pl|Piyade
+trp_prussian_infantry_nco|8. Piyade Alayı
+trp_prussian_infantry_nco_pl|Çavuş
+trp_prussian_infantry_officer|8. Piyade Alayı
+trp_prussian_infantry_officer_pl|Subay
+trp_prussian_infantry_drum|8. Piyade Alayı
+trp_prussian_infantry_drum_pl|Davulcu
+trp_prussian_infantry_flute|8. Piyade Alayı
+trp_prussian_infantry_flute_pl|Flütçü
+trp_prussian_infantry2|23. Ren Piyade Alayı
+trp_prussian_infantry2_pl|Piyade
+trp_prussian_infantry2_nco|23. Ren Piyade Alayı
+trp_prussian_infantry2_nco_pl|Çavuş
+trp_prussian_infantry2_officer|23. Ren Piyade Alayı
+trp_prussian_infantry2_officer_pl|Subay
+trp_prussian_infantry2_drum|23. Ren Piyade Alayı
+trp_prussian_infantry2_drum_pl|Davulcu
+trp_prussian_infantry2_flute|23. Ren Piyade Alayı
+trp_prussian_infantry2_flute_pl|Flütçü
+trp_prussian_infantry_kurmark|3. Kurmark Milis Alayı
+trp_prussian_infantry_kurmark_pl|Piyade
+trp_prussian_infantry_kurmark_nco|3. Kurmark Milis Alayı
+trp_prussian_infantry_kurmark_nco_pl|Çavuş
+trp_prussian_infantry_kurmark_officer|3. Kurmark Milis Alayı
+trp_prussian_infantry_kurmark_officer_pl|Subay
+trp_prussian_infantry_kurmark_drum|3. Kurmark Milis Alayı
+trp_prussian_infantry_kurmark_drum_pl|Davulcu
+trp_prussian_infantry_kurmark_flute|3. Kurmark Milis Alayı
+trp_prussian_infantry_kurmark_flute_pl|Flütçü
+trp_prussian_infantry_freikorps|Lützow Gönüllü Kıtası
+trp_prussian_infantry_freikorps_pl|Piyade
+trp_prussian_infantry_freikorps_nco|Lützow Gönüllü Kıtası
+trp_prussian_infantry_freikorps_nco_pl|Çavuş
+trp_prussian_infantry_freikorps_officer|Lützow Gönüllü Kıtası
+trp_prussian_infantry_freikorps_officer_pl|Subay
+trp_prussian_infantry_freikorps_drum|Lützow Gönüllü Kıtası
+trp_prussian_infantry_freikorps_drum_pl|Davulcu
+trp_prussian_infantry_freikorps_flute|Lützow Gönüllü Kıtası
+trp_prussian_infantry_freikorps_flute_pl|Flütçü
+trp_prussian_infantry_15|1. Muhafız Piyade Alayı
+trp_prussian_infantry_15_pl|Muhafız Piyade
+trp_prussian_infantry_15_nco|1. Muhafız Piyade Alayı
+trp_prussian_infantry_15_nco_pl|Çavuş
+trp_prussian_infantry_15_officer|1. Muhafız Piyade Alayı
+trp_prussian_infantry_15_officer_pl|Subay
+trp_prussian_infantry_15_drum|1. Muhafız Piyade Alayı
+trp_prussian_infantry_15_drum_pl|Davulcu
+trp_prussian_infantry_15_flute|1. Muhafız Piyade Alayı
+trp_prussian_infantry_15_flute_pl|Flütçü
+trp_prussian_infantry_rifle|Silezya Korucuları
+trp_prussian_infantry_rifle_pl|Tüfekli Piyade
+trp_prussian_infantry_rifle_nco|Silezyalı Yager
+trp_prussian_infantry_rifle_nco_pl|Çavuş
+trp_prussian_infantry_rifle_officer|Silezyalı Yager
+trp_prussian_infantry_rifle_officer_pl|Subay
+trp_prussian_infantry_rifle_horn|Silezyalı Yager
+trp_prussian_infantry_rifle_horn_pl|Kornocu
+trp_prussian_dragoon|6. Neumark Dragunları
+trp_prussian_dragoon_pl|Dragun
+trp_prussian_dragoon_nco|6. Dragun Alayı 
+trp_prussian_dragoon_nco_pl|Çavuş
+trp_prussian_dragoon_officer|6. Dragun Alayı
+trp_prussian_dragoon_officer_pl|Subay
+trp_prussian_dragoon_trumpet|6. Dragun Alayı
+trp_prussian_dragoon_trumpet_pl|Trompetçi
+trp_prussian_hussar|1. Hussar Alayı (Kurukafa Hussarları)
+trp_prussian_hussar_pl|Hussarlar
+trp_prussian_hussar_nco|Kurukafa Hussar Alayı
+trp_prussian_hussar_nco_pl|Çavuş
+trp_prussian_hussar_officer|Kurukafa Hussar Alayı
+trp_prussian_hussar_officer_pl|Subay
+trp_prussian_hussar_trumpet|Kurukafa Hussar Alayı
+trp_prussian_hussar_trumpet_pl|Trompetçi
+trp_prussian_landwehr_cav|Westfalische Milis Süvarileri
+trp_prussian_landwehr_cav_pl|Kargılı Süvari
+trp_prussian_landwehr_cav_nco|Westfalische Milis Süvarileri
+trp_prussian_landwehr_cav_nco_pl|Çavuş
+trp_prussian_landwehr_cav_officer|Westfalische Milis Süvarileri
+trp_prussian_landwehr_cav_officer_pl|Subay
+trp_prussian_landwehr_cav_trumpet|Westfalische Milis Süvarileri
+trp_prussian_landwehr_cav_trumpet_pl|Trompetçi
+trp_prussian_cuirassier|3. Brandenburg Zırhlı Süvari Alayı
+trp_prussian_cuirassier_pl|Ağır Süvari
+trp_prussian_cuirassier_nco|3. Brandenburg Zırhlı Süvari Alayı
+trp_prussian_cuirassier_nco_pl|Çavuş
+trp_prussian_cuirassier_officer|3. Brandenburg Zırhlı Süvari Alayı
+trp_prussian_cuirassier_officer_pl|Subay
+trp_prussian_cuirassier_trumpet|3. Brandenburg Zırhlı Süvari Alayı
+trp_prussian_cuirassier_trumpet_pl|Trompetçi
+trp_prussian_arty|36. Piyade Topçu Alayı
+trp_prussian_arty_pl|Topçu Piyade
+trp_prussian_arty_guard|Topçu Muhafızı
+trp_prussian_arty_guard_pl|Topçu Muhafızı
+trp_prussian_arty_nco|36. Piyade Topçu Alayı
+trp_prussian_arty_nco_pl|Top Taşıyıcı
+trp_prussian_arty_officer|36. Piyade Topçu Alayı
+trp_prussian_arty_officer_pl|Subay
+trp_prussian_medic|Sıhhiyeci
+trp_prussian_medic_pl|Cerrah
+trp_prussian_sapper|4. Mansfeld Öncü Kıtası
+trp_prussian_sapper_pl|Mühendis
+trp_prussian_blucher|Mareşal Gebhard von Blucher
+trp_prussian_blucher_pl|Kumandan
+trp_russian_partizan|Partizan
+trp_russian_partizan_pl|Partizan Çetesi
+trp_russian_opol|St Petersburg Milisleri
+trp_russian_opol_pl|Milis
+trp_russian_opol_nco|St Petersburg Milisleri
+trp_russian_opol_nco_pl|Çavuş
+trp_russian_opol_officer|St Petersburg Milisleri
+trp_russian_opol_officer_pl|Subay
+trp_russian_infantry|Simbirsk Piyade Alayı
+trp_russian_infantry_pl|Piyade
+trp_russian_infantry_nco|Simbirsk Piyade Alayı
+trp_russian_infantry_nco_pl|Çavuş
+trp_russian_infantry_officer|Simbirsk Piyade Alayı
+trp_russian_infantry_officer_pl|Subay
+trp_russian_infantry_drum|Simbirsk Piyade Alayı
+trp_russian_infantry_drum_pl|Davulcu
+trp_russian_infantry_flute|Simbirsk Piyade Alayı
+trp_russian_infantry_flute_pl|Flütçü
+trp_russian_grenadier|Pavlovski Ağır Piyade Alayı
+trp_russian_grenadier_pl|Piyade
+trp_russian_grenadier_nco|Pavlovski Ağır Piyade Alayı
+trp_russian_grenadier_nco_pl|Çavuş
+trp_russian_grenadier_officer|Pavlovski Ağır Piyade Alayı
+trp_russian_grenadier_officer_pl|Subay
+trp_russian_grenadier_drum|Pavlovski Ağır Piyade Alayı
+trp_russian_grenadier_drum_pl|Davulcu
+trp_russian_grenadier_flute|Pavlovski Ağır Piyade Alayı
+trp_russian_grenadier_flute_pl|Flütçü
+trp_russian_foot_guard|Preobrazhenskiy Cankurtaran Alayı
+trp_russian_foot_guard_pl|Muhafız Piyade
+trp_russian_foot_guard_nco|Preobrazhenskiy Muhafız Alayı
+trp_russian_foot_guard_nco_pl|Çavuş
+trp_russian_foot_guard_officer|Preobrazhenskiy Muhafız Alayı
+trp_russian_foot_guard_officer_pl|Subay
+trp_russian_foot_guard_drum|Preobrazhenskiy Muhafız Alayı
+trp_russian_foot_guard_drum_pl|Davulcu
+trp_russian_foot_guard_flute|Preobrazhenskiy Muhafız Alayı
+trp_russian_foot_guard_flute_pl|Flütçü
+trp_russian_infantry_rifle|21. Yager Alayı
+trp_russian_infantry_rifle_pl|Tüfekli Piyade
+trp_russian_infantry_rifle_nco|21. Yager Alayı
+trp_russian_infantry_rifle_nco_pl|Çavuş
+trp_russian_infantry_rifle_officer|21. Yager Alayı
+trp_russian_infantry_rifle_officer_pl|Subay
+trp_russian_infantry_rifle_horn|21. Yager Alayı
+trp_russian_infantry_rifle_horn_pl|Kornocu
+trp_russian_hussar|Sumskoy Hussar Alayı
+trp_russian_hussar_pl|Hussarlar
+trp_russian_hussar_nco|Sumskiy Hussar Alayı
+trp_russian_hussar_nco_pl|Çavuş
+trp_russian_hussar_officer|Sumskiy Hussar Alayı
+trp_russian_hussar_officer_pl|Subay
+trp_russian_hussar_trumpet|Sumskiy Hussar Alayı
+trp_russian_hussar_trumpet_pl|Trompetçi
+trp_russian_uhlan|Litovskiy Ulanskiy Alayı
+trp_russian_uhlan_pl|Kargılı Süvari
+trp_russian_uhlan_nco|Lithuanian Uhlans Alayı
+trp_russian_uhlan_nco_pl|Çavuş
+trp_russian_uhlan_officer|Lithuanian Uhlans Alayı
+trp_russian_uhlan_officer_pl|Subay
+trp_russian_uhlan_trumpet|Lithuanian Uhlans Alayı
+trp_russian_uhlan_trumpet_pl|Trompetçi
+trp_russian_cossack|Don Kazak Alayı
+trp_russian_cossack_pl|Kargılı Süvari
+trp_russian_cossack_nco|Don Kazakları
+trp_russian_cossack_nco_pl|Çavuş
+trp_russian_cossack_officer|Don Kazakları
+trp_russian_cossack_officer_pl|Subay
+trp_russian_dragoon|Kiev Dragun Alayı
+trp_russian_dragoon_pl|Dragun
+trp_russian_dragoon_nco|Kiev Dragun Alayı
+trp_russian_dragoon_nco_pl|Çavuş
+trp_russian_dragoon_officer|Kiev Dragun Alayı
+trp_russian_dragoon_officer_pl|Subay
+trp_russian_dragoon_trumpet|Kiev Dragun Alayı
+trp_russian_dragoon_trumpet_pl|Trompetçi
+trp_russian_horse_guard|Süvari Alayı
+trp_russian_horse_guard_pl|Zırhlı Süvari
+trp_russian_horse_guard_nco|Süvari Muhafızları
+trp_russian_horse_guard_nco_pl|Çavuş
+trp_russian_horse_guard_officer|Süvari Muhafızları
+trp_russian_horse_guard_officer_pl|Subay
+trp_russian_horse_guard_trumpet|Süvari Muhafızları
+trp_russian_horse_guard_trumpet_pl|Trompetçi
+trp_russian_arty|8. Batarya Bölüğü
+trp_russian_arty_pl|Topçu Piyade
+trp_russian_arty_guard|Topçu Muhafızı
+trp_russian_arty_guard_pl|Topçu Muhafızı
+trp_russian_arty_nco|Topçu Birliği
+trp_russian_arty_nco_pl|Top Taşıyıcı
+trp_russian_arty_officer|Topçu Birliği
+trp_russian_arty_officer_pl|Subay
+trp_russian_medic|Sıhhiyeci
+trp_russian_medic_pl|Cerrah
+trp_russian_sapper|İstihkam
+trp_russian_sapper_pl|Mühendis
+trp_kutuzov|Mareşal Mikhail Kutuzov
+trp_kutuzov_pl|Kumandan
+trp_austrian_infantry|Arşidük Rudolf 14. Piyade Alayı
+trp_austrian_infantry_pl|Piyade
+trp_austrian_infantry_nco|Arşidük Rudolf 14. Piyade Alayı
+trp_austrian_infantry_nco_pl|Çavuş
+trp_austrian_infantry_officer|Arşidük Rudolf 14. Piyade Alayı
+trp_austrian_infantry_officer_pl|Subay
+trp_austrian_infantry_drum|Arşidük Rudolf 14. Piyade Alayı
+trp_austrian_infantry_drum_pl|Davulcu
+trp_austrian_infantry_flute|Arşidük Rudolf 14. Piyade Alayı
+trp_austrian_infantry_flute_pl|Flütçü
+trp_austrian_infantry2|Freiherr von Wacquant 62. Piyade Alayı
+trp_austrian_infantry2_pl|Piyade
+trp_austrian_infantry2_nco|Freiherr von Wacquant 62. Piyade Alayı
+trp_austrian_infantry2_nco_pl|Çavuş
+trp_austrian_infantry2_officer|Freiherr von Wacquant 62. Piyade Alayı
+trp_austrian_infantry2_officer_pl|Subay
+trp_austrian_infantry2_drum|Freiherr von Wacquant 62. Piyade Alayı
+trp_austrian_infantry2_drum_pl|Davulcu
+trp_austrian_infantry2_flute|Freiherr von Wacquant 62. Piyade Alayı
+trp_austrian_infantry2_flute_pl|Flütçü
+trp_austrian_grenzer|Ogulin Sınır Alayı No: 3
+trp_austrian_grenzer_pl|Hat/Hafif Piyade
+trp_austrian_grenzer_nco|Ogulin Sınır Alayı No: 3
+trp_austrian_grenzer_nco_pl|Çavuş
+trp_austrian_grenzer_officer|Ogulin Sınır Alayı No: 3
+trp_austrian_grenzer_officer_pl|Subay
+trp_austrian_grenzer_drum|Ogulin Sınır Alayı No: 3
+trp_austrian_grenzer_drum_pl|Davulcu
+trp_austrian_grenzer_flute|Ogulin Sınır Alayı No: 3
+trp_austrian_grenzer_flute_pl|Flütçü
+trp_austrian_grenadier|Purcell Ağır Piyade Taburu
+trp_austrian_grenadier_pl|Muhafız Piyade
+trp_austrian_grenadier_nco|Purcell Ağır Piyade Taburu
+trp_austrian_grenadier_nco_pl|Çavuş
+trp_austrian_grenadier_officer|Purcell Ağır Piyade Taburu
+trp_austrian_grenadier_officer_pl|Subay
+trp_austrian_grenadier_drum|Purcell Ağır Piyade Taburu
+trp_austrian_grenadier_drum_pl|Davulcu
+trp_austrian_grenadier_flute|Purcell Ağır Piyade Taburu
+trp_austrian_grenadier_flute_pl|Flütçü
+trp_austrian_infantry_rifle|2. Yager Taburu
+trp_austrian_infantry_rifle_pl|Tüfekli Piyade
+trp_austrian_infantry_rifle_nco|2. Yager Taburu
+trp_austrian_infantry_rifle_nco_pl|Çavuş
+trp_austrian_infantry_rifle_officer|2. Yager Taburu
+trp_austrian_infantry_rifle_officer_pl|Subay
+trp_austrian_infantry_rifle_horn|2. Yager Taburu
+trp_austrian_infantry_rifle_horn_pl|Kornocu
+trp_austrian_hussar|Hesse-Homburg Dükü 4. Hussar Alayı
+trp_austrian_hussar_pl|Hussarlar
+trp_austrian_hussar_nco|Hesse-Homburg Dükü 4. Hussar Alayı
+trp_austrian_hussar_nco_pl|Çavuş
+trp_austrian_hussar_officer|Hesse-Homburg Dükü 4. Hussar Alayı
+trp_austrian_hussar_officer_pl|Subay
+trp_austrian_hussar_trumpet|Hesse-Homburg Dükü 4. Hussar Alayı
+trp_austrian_hussar_trumpet_pl|Trompetçi
+trp_austrian_uhlan|Schwarzenberg 2. Uhlan Alayı
+trp_austrian_uhlan_pl|Kargılı Süvari
+trp_austrian_uhlan_nco|Schwarzenberg 2. Uhlan Alayı
+trp_austrian_uhlan_nco_pl|Çavuş
+trp_austrian_uhlan_officer|Schwarzenberg 2. Uhlan Alayı
+trp_austrian_uhlan_officer_pl|Subay
+trp_austrian_uhlan_trumpet|Schwarzenberg 2. Uhlan Alayı
+trp_austrian_uhlan_trumpet_pl|Trompetçi
+trp_austrian_light_horse|Furst von Hohenzollern 2. Hafif Süvari Alayı
+trp_austrian_light_horse_pl|Hafif Süvari
+trp_austrian_light_horse_nco|Furst von Hohenzollern 2. Hafif Süvari Alayı
+trp_austrian_light_horse_nco_pl|Çavuş
+trp_austrian_light_horse_officer|Furst von Hohenzollern 2. Hafif Süvari Alayı
+trp_austrian_light_horse_officer_pl|Subay
+trp_austrian_light_horse_trumpet|Furst von Hohenzollern 2. Hafif Süvari Alayı
+trp_austrian_light_horse_trumpet_pl|Trompetçi
+trp_austrian_dragoon|Arşidük Ferdinand 5. Dragun Alayı
+trp_austrian_dragoon_pl|Dragun
+trp_austrian_dragoon_nco|Arşidük Ferdinand 5. Dragun Alayı
+trp_austrian_dragoon_nco_pl|Çavuş
+trp_austrian_dragoon_officer|Arşidük Ferdinand 5. Dragun Alayı
+trp_austrian_dragoon_officer_pl|Subay
+trp_austrian_dragoon_trumpet|Arşidük Ferdinand 5. Dragun Alayı
+trp_austrian_dragoon_trumpet_pl|Trompetçi
+trp_austrian_cuirassier|İmparator Franz 1. Zırhlı Süvari Alayı
+trp_austrian_cuirassier_pl|Zırhlı Süvari
+trp_austrian_cuirassier_nco|İmparator Franz 1. Zırhlı Süvari Alayı
+trp_austrian_cuirassier_nco_pl|Çavuş
+trp_austrian_cuirassier_officer|İmparator Franz 1. Zırhlı Süvari Alayı
+trp_austrian_cuirassier_officer_pl|Subay
+trp_austrian_cuirassier_trumpet|İmparator Franz 1. Zırhlı Süvari Alayı
+trp_austrian_cuirassier_trumpet_pl|Trompetçi
+trp_austrian_arty|Lorraine Prensi 7. Topçu Alayı
+trp_austrian_arty_pl|Topçu Piyade
+trp_austrian_arty_guard|Topçu Muhafızı
+trp_austrian_arty_guard_pl|Topçu Muhafızı
+trp_austrian_arty_nco|Lorraine Prensi 7. Topçu Alayı
+trp_austrian_arty_nco_pl|Top Taşıyıcı
+trp_austrian_arty_officer|Lorraine Prensi 7. Topçu Alayı
+trp_austrian_arty_officer_pl|Subay
+trp_austrian_medic|Sıhhiyeci
+trp_austrian_medic_pl|Cerrah
+trp_austrian_sapper|1. Mühendis Taburu
+trp_austrian_sapper_pl|Mühendis
+trp_schwarzenberg|Karl Philipp, Schwarzenberg Prensi
+trp_schwarzenberg_pl|Kumandan
+trp_rhine_infantry_bavaria|2. Piyade Alayı Kronprinz, Bavyera
+trp_rhine_infantry_bavaria_pl|Piyade Alayı
+trp_rhine_infantry_bavaria_nco|Bavyera Piyade Alayı
+trp_rhine_infantry_bavaria_nco_pl|Çavuş
+trp_rhine_infantry_bavaria_officer|Bavyera Piyade Alayı
+trp_rhine_infantry_bavaria_officer_pl|Subay
+trp_rhine_infantry_bavaria_drum|Bavyera Piyade Alayı
+trp_rhine_infantry_bavaria_drum_pl|Davulcu
+trp_rhine_infantry_bavaria_flute|Bavyera Piyade Alayı
+trp_rhine_infantry_bavaria_flute_pl|Flütçü
+trp_rhine_infantry_wurttemberg|Piyade Alayı No.2 Herzog Wilhelm, Württemberg
+trp_rhine_infantry_wurttemberg_pl|Piyade Alayı
+trp_rhine_infantry_wurttemberg_nco|Württemberg Piyade Alayı
+trp_rhine_infantry_wurttemberg_nco_pl|Çavuş
+trp_rhine_infantry_wurttemberg_officer|Württemberg Piyade Alayı
+trp_rhine_infantry_wurttemberg_officer_pl|Subay
+trp_rhine_infantry_wurttemberg_drum|Württemberg Piyade Alayı
+trp_rhine_infantry_wurttemberg_drum_pl|Davulcu
+trp_rhine_infantry_wurttemberg_flute|Württemberg Piyade Alayı
+trp_rhine_infantry_wurttemberg_flute_pl|Flütçü
+trp_rhine_infantry_saxony|Piyade Alayı Prensi Frederick Augustus, Saksonya
+trp_rhine_infantry_saxony_pl|Piyade Alayı
+trp_rhine_infantry_saxony_nco|Sakson Piyade Alayı
+trp_rhine_infantry_saxony_nco_pl|Çavuş
+trp_rhine_infantry_saxony_officer|Sakson Piyade Alayı
+trp_rhine_infantry_saxony_officer_pl|Subay
+trp_rhine_infantry_saxony_drum|Sakson Piyade Alayı
+trp_rhine_infantry_saxony_drum_pl|Davulcu
+trp_rhine_infantry_saxony_flute|Sakson Piyade Alayı
+trp_rhine_infantry_saxony_flute_pl|Flütçü
+trp_rhine_infantry_wurttemberg2|Piyade Alayı No.4 von Franquemont, Württemberg
+trp_rhine_infantry_wurttemberg2_pl|Piyade Alayı
+trp_rhine_infantry_wurttemberg2_nco|Württemberg Ağır Piyade Alayı
+trp_rhine_infantry_wurttemberg2_nco_pl|Çavuş
+trp_rhine_infantry_wurttemberg2_officer|Württemberg Ağır Piyade Alayı
+trp_rhine_infantry_wurttemberg2_officer_pl|Subay
+trp_rhine_infantry_wurttemberg2_drum|Württemberg Ağır Piyade Alayı
+trp_rhine_infantry_wurttemberg2_drum_pl|Davulcu
+trp_rhine_infantry_wurttemberg2_flute|Württemberger Ağır Piyade Alayı
+trp_rhine_infantry_wurttemberg2_flute_pl|Flütçü
+trp_rhine_grenadier_guard|Grenadiers de la Garde, Vestfalya
+trp_rhine_grenadier_guard_pl|Piyade
+trp_rhine_grenadier_guard_nco|Vestfalya Ağır Muhafız Piyadesi
+trp_rhine_grenadier_guard_nco_pl|Çavuş
+trp_rhine_grenadier_guard_officer|Vestfalya Ağır Muhafız Piyadesi
+trp_rhine_grenadier_guard_officer_pl|Subay
+trp_rhine_grenadier_guard_drum|Vestfalya Ağır Muhafız Piyadesi
+trp_rhine_grenadier_guard_drum_pl|Davulcu
+trp_rhine_grenadier_guard_flute|Vestfalya Ağır Muhafız Piyadesi
+trp_rhine_grenadier_guard_flute_pl|Flütçü
+trp_rhine_light_infantry_hessen|Piyade Alayı Gross- und Erbprinz, Hessen-Darmstadt
+trp_rhine_light_infantry_hessen_pl|Hafif Piyade
+trp_rhine_light_infantry_hessen_nco|Hessen Hafif Piyadesi
+trp_rhine_light_infantry_hessen_nco_pl|Çavuş
+trp_rhine_light_infantry_hessen_officer|Hessen Hafif Piyadesi
+trp_rhine_light_infantry_hessen_officer_pl|Subay
+trp_rhine_light_infantry_hessen_horn|Hessen Hafif Piyadesi
+trp_rhine_light_infantry_hessen_horn_pl|Kornocu
+trp_rhine_light_infantry_bavaria|7. Leichtes Piyade Taburu, Bavyera
+trp_rhine_light_infantry_bavaria_pl|Hafif Piyade/Nişancı
+trp_rhine_light_infantry_bavaria_nco|Bavyera Nişancısı
+trp_rhine_light_infantry_bavaria_nco_pl|Çavuş
+trp_rhine_light_infantry_bavaria_officer|Bavyera Nişancısı
+trp_rhine_light_infantry_bavaria_officer_pl|Subay
+trp_rhine_light_infantry_bavaria_horn|Bavyera Nişancısı
+trp_rhine_light_infantry_bavaria_horn_pl|Kornocu
+trp_rhine_mounted_jaeger|Reitende Yageri, Nassau
+trp_rhine_mounted_jaeger_pl|Hussarlar
+trp_rhine_mounted_jaeger_nco|Nassau Atlı Yageri
+trp_rhine_mounted_jaeger_nco_pl|Çavuş
+trp_rhine_mounted_jaeger_officer|Nassau Atlı Yageri
+trp_rhine_mounted_jaeger_officer_pl|Subay
+trp_rhine_mounted_jaeger_trumpet|Nassau Atlı Yageri
+trp_rhine_mounted_jaeger_trumpet_pl|Trompetçi
+trp_rhine_uhlan|Uhlan Alayı Prensi Clemens, Saksonya
+trp_rhine_uhlan_pl|Kargılı
+trp_rhine_uhlan_nco|Sakson Uhlanı
+trp_rhine_uhlan_nco_pl|Çavuş
+trp_rhine_uhlan_officer|Sakson Uhlanı
+trp_rhine_uhlan_officer_pl|Subay
+trp_rhine_uhlan_trumpet|Sakson Uhlanı
+trp_rhine_uhlan_trumpet_pl|Trompetçi
+trp_rhine_light_dragoon|Leichtes Dragun Alayı, Baden
+trp_rhine_light_dragoon_pl|Hafif At
+trp_rhine_light_dragoon_nco|Badner Hafif Dragunu
+trp_rhine_light_dragoon_nco_pl|Çavuş
+trp_rhine_light_dragoon_officer|Badner Hafif Dragunu
+trp_rhine_light_dragoon_officer_pl|Subay
+trp_rhine_light_dragoon_trumpet|Badner Hafif Dragunu
+trp_rhine_light_dragoon_trumpet_pl|Trompetçi
+trp_rhine_cuirassier|1er Zırhlı Süvari Alayı, Vestfalya
+trp_rhine_cuirassier_pl|Zırhlı Süvari
+trp_rhine_cuirassier_nco|Vestfalya Zırhlı Süvarisi
+trp_rhine_cuirassier_nco_pl|Çavuş
+trp_rhine_cuirassier_officer|Vestfalya Zırhlı Süvarisi
+trp_rhine_cuirassier_officer_pl|Subay
+trp_rhine_cuirassier_trumpet|Vestfalya Zırhlı Süvarisi
+trp_rhine_cuirassier_trumpet_pl|Trompetçi
+trp_rhine_garde_du_corps|Garde du Corp, Saksonya
+trp_rhine_garde_du_corps_pl|Ağır Süvari
+trp_rhine_garde_du_corps_nco|Sakson Atlı Muhafızı
+trp_rhine_garde_du_corps_nco_pl|Çavuş
+trp_rhine_garde_du_corps_officer|Sakson Atlı Muhafızı
+trp_rhine_garde_du_corps_officer_pl|Subay
+trp_rhine_garde_du_corps_trumpet|Sakson Atlı Muhafızı
+trp_rhine_garde_du_corps_trumpet_pl|Trompetçi
+trp_rhine_arty|Topçu Alayı, Bavyera
+trp_rhine_arty_pl|Topçu
+trp_rhine_arty_guard|Topçu Muhafızı, Bavyera
+trp_rhine_arty_guard_pl|Topçu Muhafızı
+trp_rhine_arty_nco|Bavyera Topçusu
+trp_rhine_arty_nco_pl|Topçu Refakatçisi
+trp_rhine_arty_officer|Bavyera Topçusu
+trp_rhine_arty_officer_pl|Subay
+trp_rhine_medic|Sıhhiyeci Sınıfı, Fransa
+trp_rhine_medic_pl|Cerrah
+trp_rhine_sapper|İstihkam, Berg
+trp_rhine_sapper_pl|Mühendis
+trp_friedrich_august|Frederick Augustus I, Saksonya Krallığı
+trp_friedrich_august_pl|Kumandan
+trp_british_infantry_flag_bearer|33. Piyade Alayı
+trp_british_infantry2_flag_bearer|5. Hat Taburu Kralın Alman Lejyonu
+trp_british_highlander_flag_bearer|42. Piyade Alayı (Kara Devriye)
+trp_british_foot_guard_flag_bearer|Coldstream Muhafız Piyade Alayı
+trp_british_light_infantry_flag_bearer|51. (2. Yorkshire West Riding) Piyade Alayı
+trp_british_rifle_flag_bearer|95. Piyade Alayı (Tüfekli)
+trp_british_hussar_flag_bearer|1st KGL Hussars
+trp_british_light_dragoon_flag_bearer|23. Hafif Dragunlar
+trp_british_dragoon_flag_bearer|6. (Inniskilling) Dragunlar
+trp_british_horseguard_flag_bearer|Mavi Kraliyet Atlı Muhafızları
+trp_british_arty_flag_bearer|Kraliyet Piyade Topçu Birliği
+trp_british_ship_flag_bearer|Gemi Mürettebat
+trp_french_infantry_flag_bearer|45. Piyade Alayı
+trp_french_infantry2_flag_bearer|84. Piyade Alayı
+trp_french_infantry_vistula_flag_bearer|Vistül Lejyonu
+trp_french_old_guard_flag_bearer|1. Ağır Muhafız Piyade Alayı
+trp_french_voltigeur_flag_bearer|15. Hafif Piyade Alayı
+trp_french_hussar_flag_bearer|2. Hussar Alayı
+trp_french_lancer_flag_bearer|Kargılı Hafif Süvari Muhafız Alayı
+trp_french_dragoon_flag_bearer|İmparatoriçe Dragunları Alayı
+trp_french_cuirassier_flag_bearer|9. Zırhlı Süvari Alayı
+trp_french_carabineer_flag_bearer|1. Karabinacı Alayı
+trp_french_grenadier_a_cheval_flag_bearer|Ağır Muhafız Süvari Alayı
+trp_french_arty_flag_bearer|Topçu Birliği
+trp_french_ship_flag_bearer|Gemi Mürettebat
+trp_prussian_infantry_flag_bearer|8. Bradenburg Piyade Alayı
+trp_prussian_infantry2_flag_bearer|23. Ren Piyade Alayı
+trp_prussian_infantry_kurmark_flag_bearer|3. Kurmark Milis Alayı
+trp_prussian_infantry_freikorps_flag_bearer|Lützow Gönüllü Kıtası
+trp_prussian_infantry_15_flag_bearer|1. Muhafız Piyade Alayı
+trp_prussian_infantry_rifle_flag_bearer|Silezya Korucuları
+trp_prussian_dragoon_flag_bearer|6. Neumark Dragunları
+trp_prussian_hussar_flag_bearer|1. Hussar Alayı (Kurukafa Hussarları)
+trp_prussian_landwehr_cav_flag_bearer|Westfalische Milis Süvarileri
+trp_prussian_cuirassier_flag_bearer|3. Brandenburg Zırhlı Süvari Alayı
+trp_prussian_arty_flag_bearer|36. Piyade Topçu Alayı
+trp_russian_opol_flag_bearer|St Petersburg Milisleri
+trp_russian_infantry_flag_bearer|Simbirsk Piyade Alayı
+trp_russian_grenadier_flag_bearer|Pavlovski Ağır Piyade Alayı
+trp_russian_foot_guard_flag_bearer|Preobrazhenskiy Cankurtaran Alayı
+trp_russian_infantry_rifle_flag_bearer|21. Yager Alayı
+trp_russian_hussar_flag_bearer|Sumskoy Hussar Alayı
+trp_russian_uhlan_flag_bearer|Litovskiy Ulanskiy Alayı
+trp_russian_cossack_flag_bearer|Don Kazak Alayı
+trp_russian_dragoon_flag_bearer|Kiev Dragun Alayı
+trp_russian_horse_guard_flag_bearer|Süvari Alayı
+trp_russian_arty_flag_bearer|8. Batarya Bölüğü
+trp_austrian_infantry_flag_bearer|Arşidük Rudolf 14. Piyade Alayı
+trp_austrian_infantry2_flag_bearer|Freiherr von Wacquant 62. Piyade Alayı
+trp_austrian_grenzer_flag_bearer|Ogulin Sınır Alayı No: 3
+trp_austrian_grenadier_flag_bearer|Purcell Ağır Piyade Taburu
+trp_austrian_infantry_rifle_flag_bearer|2. Yager Taburu
+trp_austrian_hussar_flag_bearer|Hesse-Homburg Dükü 4. Hussar Alayı
+trp_austrian_uhlan_flag_bearer|Schwarzenberg 2. Uhlan Alayı
+trp_austrian_light_horse_flag_bearer|Furst von Hohenzollern 2. Hafif Süvari Alayı
+trp_austrian_dragoon_flag_bearer|Arşidük Ferdinand 5. Dragun Alayı
+trp_austrian_cuirassier_flag_bearer|İmparator Franz 1. Zırhlı Süvari Alayı
+trp_austrian_arty_flag_bearer|Lorraine Prensi 7. Topçu Alayı
+trp_rhine_infantry_bavaria_flag_bearer|2. Piyade Alayı Kronprinz, Bavyera
+trp_rhine_infantry_wurttemberg_flag_bearer|Piyade Alayı No.2 Herzog Wilhelm, Württemberg
+trp_rhine_infantry_saxony_flag_bearer|Piyade Alayı Prensi Frederick Augustus, Saksonya
+trp_rhine_infantry_wurttemberg2_flag_bearer|Piyade Alayı No.4 von Franquemont, Württemberg
+trp_rhine_grenadier_guard_flag_bearer|Grenadiers de la Garde, Vestfalya
+trp_rhine_light_infantry_hessen_flag_bearer|Piyade Alayı Gross- und Erbprinz, Hessen-Darmstadt
+trp_rhine_light_infantry_bavaria_flag_bearer|7. Leichtes Piyade Taburu, Bavyera
+trp_rhine_mounted_jaeger_flag_bearer|Reitende Yageri, Nassau
+trp_rhine_uhlan_flag_bearer|Uhlan Alayı Prensi Clemens, Saksonya
+trp_rhine_light_dragoon_flag_bearer|Leichtes Dragun Alayı, Baden
+trp_rhine_cuirassier_flag_bearer|1er Zırhlı Süvari Alayı, Vestfalya
+trp_rhine_garde_du_corps_flag_bearer|Garde du Corp, Saksonya
+trp_rhine_arty_flag_bearer|Topçu Alayı, Bavyera
+trp_british_infantry_flag_bearer_pl|Bayraktar
+trp_british_infantry2_flag_bearer_pl|Bayraktar
+trp_british_highlander_flag_bearer_pl|Bayraktar
+trp_british_foot_guard_flag_bearer_pl|Bayraktar
+trp_british_light_infantry_flag_bearer_pl|Bayraktar
+trp_british_rifle_flag_bearer_pl|Bayraktar
+trp_british_hussar_flag_bearer_pl|Bayraktar
+trp_british_light_dragoon_flag_bearer_pl|Bayraktar
+trp_british_dragoon_flag_bearer_pl|Bayraktar
+trp_british_horseguard_flag_bearer_pl|Bayraktar
+trp_british_arty_flag_bearer_pl|Bayraktar
+trp_british_ship_flag_bearer_pl|Bayraktar
+trp_french_infantry_flag_bearer_pl|Sancaktar
+trp_french_infantry2_flag_bearer_pl|Sancaktar
+trp_french_infantry_vistula_flag_bearer_pl|Sancaktar
+trp_french_old_guard_flag_bearer_pl|Sancaktar
+trp_french_voltigeur_flag_bearer_pl|Sancaktar
+trp_french_hussar_flag_bearer_pl|Sancaktar
+trp_french_lancer_flag_bearer_pl|Sancaktar
+trp_french_dragoon_flag_bearer_pl|Sancaktar
+trp_french_cuirassier_flag_bearer_pl|Sancaktar
+trp_french_carabineer_flag_bearer_pl|Sancaktar
+trp_french_grenadier_a_cheval_flag_bearer_pl|Sancaktar
+trp_french_arty_flag_bearer_pl|Sancaktar
+trp_french_ship_flag_bearer_pl|Sancaktar
+trp_prussian_infantry_flag_bearer_pl|Bayraktar
+trp_prussian_infantry2_flag_bearer_pl|Bayraktar
+trp_prussian_infantry_kurmark_flag_bearer_pl|Bayraktar
+trp_prussian_infantry_freikorps_flag_bearer_pl|Bayraktar
+trp_prussian_infantry_15_flag_bearer_pl|Bayraktar
+trp_prussian_infantry_rifle_flag_bearer_pl|Bayraktar
+trp_prussian_dragoon_flag_bearer_pl|Bayraktar
+trp_prussian_hussar_flag_bearer_pl|Bayraktar
+trp_prussian_landwehr_cav_flag_bearer_pl|Bayraktar
+trp_prussian_cuirassier_flag_bearer_pl|Bayraktar
+trp_prussian_arty_flag_bearer_pl|Bayraktar
+trp_russian_opol_flag_bearer_pl|Bayraktar
+trp_russian_infantry_flag_bearer_pl|Bayraktar
+trp_russian_grenadier_flag_bearer_pl|Bayraktar
+trp_russian_foot_guard_flag_bearer_pl|Bayraktar
+trp_russian_infantry_rifle_flag_bearer_pl|Bayraktar
+trp_russian_hussar_flag_bearer_pl|Bayraktar
+trp_russian_uhlan_flag_bearer_pl|Bayraktar
+trp_russian_cossack_flag_bearer_pl|Bayraktar
+trp_russian_dragoon_flag_bearer_pl|Bayraktar
+trp_russian_horse_guard_flag_bearer_pl|Bayraktar
+trp_russian_arty_flag_bearer_pl|Bayraktar
+trp_austrian_infantry_flag_bearer_pl|Bayraktar
+trp_austrian_infantry2_flag_bearer_pl|Bayraktar
+trp_austrian_grenzer_flag_bearer_pl|Bayraktar
+trp_austrian_grenadier_flag_bearer_pl|Bayraktar
+trp_austrian_infantry_rifle_flag_bearer_pl|Bayraktar
+trp_austrian_hussar_flag_bearer_pl|Bayraktar
+trp_austrian_uhlan_flag_bearer_pl|Bayraktar
+trp_austrian_light_horse_flag_bearer_pl|Bayraktar
+trp_austrian_dragoon_flag_bearer_pl|Bayraktar
+trp_austrian_cuirassier_flag_bearer_pl|Bayraktar
+trp_austrian_arty_flag_bearer_pl|Bayraktar
+trp_rhine_infantry_bavaria_flag_bearer_pl|Bayraktar
+trp_rhine_infantry_wurttemberg_flag_bearer_pl|Bayraktar
+trp_rhine_infantry_saxony_flag_bearer_pl|Bayraktar
+trp_rhine_infantry_wurttemberg2_flag_bearer_pl|Bayraktar
+trp_rhine_grenadier_guard_flag_bearer_pl|Bayraktar
+trp_rhine_light_infantry_hessen_flag_bearer_pl|Bayraktar
+trp_rhine_light_infantry_bavaria_flag_bearer_pl|Bayraktar
+trp_rhine_mounted_jaeger_flag_bearer_pl|Bayraktar
+trp_rhine_uhlan_flag_bearer_pl|Bayraktar
+trp_rhine_light_dragoon_flag_bearer_pl|Bayraktar
+trp_rhine_cuirassier_flag_bearer_pl|Bayraktar
+trp_rhine_garde_du_corps_flag_bearer_pl|Bayraktar
+trp_rhine_arty_flag_bearer_pl|Bayraktar
+trp_brit_canadian_infantry|Kanada Sömürge Piyadeleri
+trp_brit_canadian_infantry_pl|Piyade
+trp_brit_canadian_infantry_flag_bearer|Kanada Sömürge Piyadeleri
+trp_brit_canadian_infantry_flag_bearer_pl|Bayraktar
+trp_brit_canadian_infantry_nco|Kanada Sömürge Piyadeleri
+trp_brit_canadian_infantry_nco_pl|Çavuş
+trp_brit_canadian_infantry_officer|Kanada Sömürge Piyadeleri
+trp_brit_canadian_infantry_officer_pl|Subay
+trp_brit_canadian_infantry_drum|Kanada Sömürge Piyadeleri
+trp_brit_canadian_infantry_drum_pl|Davulcu
+trp_brit_canadian_infantry_flute|Kanada Sömürge Piyadeleri
+trp_brit_canadian_infantry_flute_pl|Flütçü
+trp_british_infantry14|14. Piyade Alayı (The Buckinghamshire)
+trp_british_infantry14_pl|Piyade
+trp_british_infantry14_flag_bearer|14. Piyade Alayı (The Buckinghamshire)
+trp_british_infantry14_flag_bearer_pl|Bayraktar
+trp_british_infantry14_nco|14. Piyade Alayı (The Buckinghamshire)
+trp_british_infantry14_nco_pl|Çavuş
+trp_british_infantry14_officer|14. Piyade Alayı (The Buckinghamshire)
+trp_british_infantry14_officer_pl|Subay
+trp_british_infantry14_drum|14. Piyade Alayı (The Buckinghamshire)
+trp_british_infantry14_drum_pl|Davulcu
+trp_british_infantry14_flute|14. Piyade Alayı (The Buckinghamshire)
+trp_british_infantry14_flute_pl|Flütçü
+trp_british_highlander78|78. Piyade Alayı (the Ross-shire Buffs)
+trp_british_highlander78_pl|Piyade
+trp_british_highlander78_flag_bearer|78. Piyade Alayı (the Ross-shire Buffs)
+trp_british_highlander78_flag_bearer_pl|Bayraktar
+trp_british_highlander78_nco|78. Piyade Alayı (the Ross-shire Buffs)
+trp_british_highlander78_nco_pl|Çavuş
+trp_british_highlander78_officer|78. Piyade Alayı (the Ross-shire Buffs)
+trp_british_highlander78_officer_pl|Subay
+trp_british_highlander78_drum|78. Piyade Alayı (the Ross-shire Buffs)
+trp_british_highlander78_drum_pl|Davulcu
+trp_british_highlander78_pipes|78. Piyade Alayı (the Ross-shire Buffs)
+trp_british_highlander78_pipes_pl|Gaydacı
+trp_brit_indian|5. Batı Hint Piyade Alayı
+trp_brit_indian_pl|Muhafız Piyade
+trp_brit_indian_flag_bearer|5. Batı Hint Piyade Alayı
+trp_brit_indian_flag_bearer_pl|Bayraktar
+trp_brit_indian_nco|5. Batı Hint Piyade Alayı
+trp_brit_indian_nco_pl|Çavuş
+trp_brit_indian_officer|5. Batı Hint Piyade Alayı
+trp_brit_indian_officer_pl|Subay
+trp_brit_indian_drum|5. Batı Hint Piyade Alayı
+trp_brit_indian_drum_pl|Davulcu
+trp_brit_indian_flute|5. Batı Hint Piyade Alayı
+trp_brit_indian_flute_pl|Flütçü
+trp_brit_canadian_horsemen|Kanada Sömürge Hafif Süvari Birliği
+trp_brit_canadian_horsemen_pl|Hussarlar
+trp_brit_canadian_horsemen_flag_bearer|Kanada Sömürge Hafif Süvari Birliği
+trp_brit_canadian_horsemen_flag_bearer_pl|Bayraktar
+trp_brit_canadian_horsemen_nco|Kanada Sömürge Hafif Süvari Birliği
+trp_brit_canadian_horsemen_nco_pl|Çavuş
+trp_brit_canadian_horsemen_officer|Kanada Sömürge Hafif Süvari Birliği
+trp_brit_canadian_horsemen_officer_pl|Subay
+trp_brit_canadian_horsemen_trumpet|Kanada Sömürge Hafif Süvari Birliği
+trp_brit_canadian_horsemen_trumpet_pl|Trompetçi
+trp_brit_horseart|Kraliyet atlı topçusu
+trp_brit_horseart_pl|Süvari Topçuları
+trp_brit_horseart_guard|Kraliyet atlı topçusu
+trp_brit_horseart_guard_pl|Topçu Muhafızı
+trp_brit_horseart_flag_bearer|Kraliyet atlı topçusu
+trp_brit_horseart_flag_bearer_pl|Bayraktar
+trp_brit_horseart_nco|Kraliyet atlı topçusu
+trp_brit_horseart_nco_pl|Top Taşıyıcı
+trp_brit_horseart_officer|Kraliyet atlı topçusu
+trp_brit_horseart_officer_pl|Subay
+trp_french_infantry_swiss|4. İsviçre Piyade Alayı
+trp_french_infantry_swiss_pl|Piyade
+trp_french_infantry_swiss_flag_bearer|4. İsviçre Piyade Alayı
+trp_french_infantry_swiss_flag_bearer_pl|Sancaktar
+trp_french_infantry_swiss_nco|4. İsviçre Piyade Alayı
+trp_french_infantry_swiss_nco_pl|Çavuş
+trp_french_infantry_swiss_officer|4. İsviçre Piyade Alayı
+trp_french_infantry_swiss_officer_pl|Subay
+trp_french_infantry_swiss_drum|4. İsviçre Piyade Alayı
+trp_french_infantry_swiss_drum_pl|Davulcu
+trp_french_infantry_swiss_flute|4. İsviçre Piyade Alayı
+trp_french_infantry_swiss_flute_pl|Flütçü
+trp_french_infantry_1er|1. Piyade Alayı
+trp_french_infantry_1er_pl|Piyade
+trp_french_infantry_1er_flag_bearer|1. Piyade Alayı
+trp_french_infantry_1er_flag_bearer_pl|Sancaktar
+trp_french_infantry_1er_nco|1. Piyade Alayı
+trp_french_infantry_1er_nco_pl|Çavuş
+trp_french_infantry_1er_officer|1. Piyade Alayı
+trp_french_infantry_1er_officer_pl|Subay
+trp_french_infantry_1er_drum|1. Piyade Alayı
+trp_french_infantry_1er_drum_pl|Davulcu
+trp_french_infantry_1er_flute|1. Piyade Alayı
+trp_french_infantry_1er_flute_pl|Flütçü
+trp_french_infantry3|3. Piyade Alayı
+trp_french_infantry3_pl|Piyade
+trp_french_infantry3_flag_bearer|3. Piyade Alayı
+trp_french_infantry3_flag_bearer_pl|Sancaktar
+trp_french_infantry3_nco|3. Piyade Alayı
+trp_french_infantry3_nco_pl|Çavuş
+trp_french_infantry3_officer|3. Piyade Alayı
+trp_french_infantry3_officer_pl|Subay
+trp_french_infantry3_drum|3. Piyade Alayı
+trp_french_infantry3_drum_pl|Davulcu
+trp_french_infantry3_flute|3. Piyade Alayı
+trp_french_infantry3_flute_pl|Flütçü
+trp_french_infantry14|14. Piyade Alayı
+trp_french_infantry14_pl|Piyade
+trp_french_infantry14_flag_bearer|14. Piyade Alayı
+trp_french_infantry14_flag_bearer_pl|Sancaktar
+trp_french_infantry14_nco|14. Piyade Alayı
+trp_french_infantry14_nco_pl|Çavuş
+trp_french_infantry14_officer|14. Piyade Alayı
+trp_french_infantry14_officer_pl|Subay
+trp_french_infantry14_drum|14. Piyade Alayı
+trp_french_infantry14_drum_pl|Davulcu
+trp_french_infantry14_flute|14. Piyade Alayı
+trp_french_infantry14_flute_pl|Flütçü
+trp_french_infantry65|65. Piyade Alayı
+trp_french_infantry65_pl|Piyade
+trp_french_infantry65_flag_bearer|65. Piyade Alayı
+trp_french_infantry65_flag_bearer_pl|Sancaktar
+trp_french_infantry65_nco|65. Piyade Alayı
+trp_french_infantry65_nco_pl|Çavuş
+trp_french_infantry65_officer|65. Piyade Alayı
+trp_french_infantry65_officer_pl|Subay
+trp_french_infantry65_drum|65. Piyade Alayı
+trp_french_infantry65_drum_pl|Davulcu
+trp_french_infantry65_flute|65. Piyade Alayı
+trp_french_infantry65_flute_pl|Flütçü
+trp_french_guard_marines|İmparatorluk Muhafız Deniz Piyade Alayı
+trp_french_guard_marines_pl|Muhafız Piyade
+trp_french_guard_marines_flag_bearer|İmparatorluk Muhafız Deniz Piyade Alayı
+trp_french_guard_marines_flag_bearer_pl|Sancaktar
+trp_french_guard_marines_nco|İmparatorluk Muhafız Deniz Piyade Alayı
+trp_french_guard_marines_nco_pl|Çavuş
+trp_french_guard_marines_officer|İmparatorluk Muhafız Deniz Piyade Alayı
+trp_french_guard_marines_officer_pl|Subay
+trp_french_guard_marines_drum|İmparatorluk Muhafız Deniz Piyade Alayı
+trp_french_guard_marines_drum_pl|Davulcu
+trp_french_guard_marines_flute|İmparatorluk Muhafız Deniz Piyade Alayı
+trp_french_guard_marines_flute_pl|Flütçü
+trp_french_gendarme|İmparatorluk Jandarması Lejyonu
+trp_french_gendarme_pl|Muhafız Piyade
+trp_french_gendarme_flag_bearer|İmparatorluk Jandarması Lejyonu
+trp_french_gendarme_flag_bearer_pl|Sancaktar
+trp_french_gendarme_nco|İmparatorluk Jandarması Lejyonu
+trp_french_gendarme_nco_pl|Çavuş
+trp_french_gendarme_officer|İmparatorluk Jandarması Lejyonu
+trp_french_gendarme_officer_pl|Subay
+trp_french_gendarme_drum|İmparatorluk Jandarması Lejyonu
+trp_french_gendarme_drum_pl|Davulcu
+trp_french_gendarme_flute|İmparatorluk Jandarması Lejyonu
+trp_french_gendarme_flute_pl|Flütçü
+trp_french_guard_light|İmparatorluk Muhafızlarının 1. Voltigeur Alayı
+trp_french_guard_light_pl|Hafif Piyade
+trp_french_guard_light_flag_bearer|İmparatorluk Muhafızlarının 1. Voltigeur Alayı
+trp_french_guard_light_flag_bearer_pl|Sancaktar
+trp_french_guard_light_nco|İmparatorluk Muhafızlarının 1. Voltigeur Alayı
+trp_french_guard_light_nco_pl|Çavuş
+trp_french_guard_light_officer|İmparatorluk Muhafızlarının 1. Voltigeur Alayı
+trp_french_guard_light_officer_pl|Subay
+trp_french_guard_light_horn|İmparatorluk Muhafızlarının 1. Voltigeur Alayı
+trp_french_guard_light_horn_pl|Kornocu
+trp_french_corses|Korsikalı Tüfekçiler Taburu
+trp_french_corses_pl|Tüfekli Piyade
+trp_french_corses_flag_bearer|Korsikalı Tüfekçiler Taburu
+trp_french_corses_flag_bearer_pl|Sancaktar
+trp_french_corses_nco|Korsikalı Tüfekçiler Taburu
+trp_french_corses_nco_pl|Çavuş
+trp_french_corses_officer|Korsikalı Tüfekçiler Taburu
+trp_french_corses_officer_pl|Subay
+trp_french_corses_horn|Korsikalı Tüfekçiler Taburu
+trp_french_corses_horn_pl|Kornocu
+trp_french_foot_dragoon|28. Piyade Süvari Alayı
+trp_french_foot_dragoon_pl|Tüfekli Piyade
+trp_french_foot_dragoon_flag_bearer|28. Piyade Süvari Alayı
+trp_french_foot_dragoon_flag_bearer_pl|Sancaktar
+trp_french_foot_dragoon_nco|28. Piyade Süvari Alayı
+trp_french_foot_dragoon_nco_pl|Çavuş
+trp_french_foot_dragoon_officer|28. Piyade Süvari Alayı
+trp_french_foot_dragoon_officer_pl|Subay
+trp_french_foot_dragoon_horn|28. Piyade Süvari Alayı
+trp_french_foot_dragoon_horn_pl|Kornocu
+trp_french_hussar5|5. Hussar Alayı
+trp_french_hussar5_pl|Hussarlar
+trp_french_hussar5_flag_bearer|5. Hussar Alayı
+trp_french_hussar5_flag_bearer_pl|Sancaktar
+trp_french_hussar5_nco|5. Hussar Alayı
+trp_french_hussar5_nco_pl|Çavuş
+trp_french_hussar5_officer|5. Hussar Alayı
+trp_french_hussar5_officer_pl|Subay
+trp_french_hussar5_trumpet|5. Hussar Alayı
+trp_french_hussar5_trumpet_pl|Trompetçi
+trp_french_mounted_chasseur|Chasseurs a Cheval Muhafız Alayı
+trp_french_mounted_chasseur_pl|Dragun
+trp_french_mounted_chasseur_flag_bearer|Chasseurs a Cheval Muhafız Alayı
+trp_french_mounted_chasseur_flag_bearer_pl|Sancaktar
+trp_french_mounted_chasseur_nco|Chasseurs a Cheval Muhafız Alayı
+trp_french_mounted_chasseur_nco_pl|Çavuş
+trp_french_mounted_chasseur_officer|Chasseurs a Cheval Muhafız Alayı
+trp_french_mounted_chasseur_officer_pl|Subay
+trp_french_mounted_chasseur_trumpet|Chasseurs a Cheval Muhafız Alayı
+trp_french_mounted_chasseur_trumpet_pl|Trompetçi
+trp_french_horseart|Fransız atlı topçusu
+trp_french_horseart_pl|Süvari Topçuları
+trp_french_horseart_guard|Fransız atlı topçusu
+trp_french_horseart_guard_pl|Topçu Muhafızı
+trp_french_horseart_flag_bearer|Fransız atlı topçusu
+trp_french_horseart_flag_bearer_pl|Sancaktar
+trp_french_horseart_nco|Fransız atlı topçusu
+trp_french_horseart_nco_pl|Top Taşıyıcı
+trp_french_horseart_officer|Fransız atlı topçusu
+trp_french_horseart_officer_pl|Subay
+trp_pruss_brun|Brunswick Piyade Alayı
+trp_pruss_brun_pl|Muhafız Piyade
+trp_pruss_brun_flag_bearer|Brunswick Piyade Alayı
+trp_pruss_brun_flag_bearer_pl|Bayraktar
+trp_pruss_brun_nco|Brunswick Piyade Alayı
+trp_pruss_brun_nco_pl|Çavuş
+trp_pruss_brun_officer|Brunswick Piyade Alayı
+trp_pruss_brun_officer_pl|Subay
+trp_pruss_brun_drum|Brunswick Piyade Alayı
+trp_pruss_brun_drum_pl|Davulcu
+trp_pruss_brun_flute|Brunswick Piyade Alayı
+trp_pruss_brun_flute_pl|Flütçü
+trp_pruss_freiw|1. Silezya Landwehr'i, Gönüllü Avcılar
+trp_pruss_freiw_pl|Hafif Piyade
+trp_pruss_freiw_flag_bearer|1. Silezya Landwehr'i, Gönüllü Avcılar
+trp_pruss_freiw_flag_bearer_pl|Bayraktar
+trp_pruss_freiw_nco|1. Silezya Landwehr'i, Gönüllü Avcılar
+trp_pruss_freiw_nco_pl|Çavuş
+trp_pruss_freiw_officer|1. Silezya Landwehr'i, Gönüllü Avcılar
+trp_pruss_freiw_officer_pl|Subay
+trp_pruss_freiw_horn|1. Silezya Landwehr'i, Gönüllü Avcılar
+trp_pruss_freiw_horn_pl|Kornocu
+trp_pruss_cav_silesian|1. Silezya Zırhlı Süvari Alayı
+trp_pruss_cav_silesian_pl|Zırhlı Süvari
+trp_pruss_cav_silesian_flag_bearer|1. Silezya Zırhlı Süvari Alayı
+trp_pruss_cav_silesian_flag_bearer_pl|Bayraktar
+trp_pruss_cav_silesian_nco|1. Silezya Zırhlı Süvari Alayı
+trp_pruss_cav_silesian_nco_pl|Çavuş
+trp_pruss_cav_silesian_officer|1. Silezya Zırhlı Süvari Alayı
+trp_pruss_cav_silesian_officer_pl|Subay
+trp_pruss_cav_silesian_trumpet|1. Silezya Zırhlı Süvari Alayı
+trp_pruss_cav_silesian_trumpet_pl|Trompetçi
+trp_pruss_horseart|Takılı Pil No. 20
+trp_pruss_horseart_pl|Süvari Topçuları
+trp_pruss_horseart_guard|Takılı Pil No. 20
+trp_pruss_horseart_guard_pl|Topçu Muhafızı
+trp_pruss_horseart_flag_bearer|Takılı Pil No. 20
+trp_pruss_horseart_flag_bearer_pl|Bayraktar
+trp_pruss_horseart_nco|Takılı Pil No. 20
+trp_pruss_horseart_nco_pl|Top Taşıyıcı
+trp_pruss_horseart_officer|Takılı Pil No. 20
+trp_pruss_horseart_officer_pl|Subay
+trp_russian_butyrskiy_infantry|Butyrsky Piyade Alayı
+trp_russian_butyrskiy_infantry_pl|Piyade
+trp_russian_butyrskiy_infantry_flag_bearer|Butyrsky Piyade Alayı
+trp_russian_butyrskiy_infantry_flag_bearer_pl|Bayraktar
+trp_russian_butyrskiy_infantry_nco|Butyrsky Piyade Alayı
+trp_russian_butyrskiy_infantry_nco_pl|Çavuş
+trp_russian_butyrskiy_infantry_officer|Butyrsky Piyade Alayı
+trp_russian_butyrskiy_infantry_officer_pl|Subay
+trp_russian_butyrskiy_infantry_drum|Butyrsky Piyade Alayı
+trp_russian_butyrskiy_infantry_drum_pl|Davulcu
+trp_russian_butyrskiy_infantry_flute|Butyrsky Piyade Alayı
+trp_russian_butyrskiy_infantry_flute_pl|Flütçü
+trp_russian_internal_guard|Rus İç Muhafızları
+trp_russian_internal_guard_pl|Piyade
+trp_russian_internal_guard_flag_bearer|Rus İç Muhafızları
+trp_russian_internal_guard_flag_bearer_pl|Bayraktar
+trp_russian_internal_guard_nco|Rus İç Muhafızları
+trp_russian_internal_guard_nco_pl|Çavuş
+trp_russian_internal_guard_officer|Rus İç Muhafızları
+trp_russian_internal_guard_officer_pl|Subay
+trp_russian_internal_guard_drum|Rus İç Muhafızları
+trp_russian_internal_guard_drum_pl|Davulcu
+trp_russian_internal_guard_flute|Rus İç Muhafızları
+trp_russian_internal_guard_flute_pl|Flütçü
+trp_russian_litovski_guard|Litovskiy Cankurtaran Alayı
+trp_russian_litovski_guard_pl|Muhafız Piyade
+trp_russian_litovski_guard_flag_bearer|Litovskiy Cankurtaran Alayı
+trp_russian_litovski_guard_flag_bearer_pl|Bayraktar
+trp_russian_litovski_guard_nco|Litovskiy Cankurtaran Alayı
+trp_russian_litovski_guard_nco_pl|Çavuş
+trp_russian_litovski_guard_officer|Litovskiy Cankurtaran Alayı
+trp_russian_litovski_guard_officer_pl|Subay
+trp_russian_litovski_guard_drum|Litovskiy Cankurtaran Alayı
+trp_russian_litovski_guard_drum_pl|Davulcu
+trp_russian_litovski_guard_flute|Litovskiy Cankurtaran Alayı
+trp_russian_litovski_guard_flute_pl|Flütçü
+trp_russian_finnish_jaeger|Finlandiya Hayat Avcı Alayı
+trp_russian_finnish_jaeger_pl|Hafif Piyade
+trp_russian_finnish_jaeger_flag_bearer|Finlandiya Hayat Avcı Alayı
+trp_russian_finnish_jaeger_flag_bearer_pl|Bayraktar
+trp_russian_finnish_jaeger_nco|Finlandiya Hayat Avcı Alayı
+trp_russian_finnish_jaeger_nco_pl|Çavuş
+trp_russian_finnish_jaeger_officer|Finlandiya Hayat Avcı Alayı
+trp_russian_finnish_jaeger_officer_pl|Subay
+trp_russian_finnish_jaeger_horn|Finlandiya Hayat Avcı Alayı
+trp_russian_finnish_jaeger_horn_pl|Kornocu
+trp_russian_glukhovskiy_cuirassier|Glukhovsky Süvari Alayı
+trp_russian_glukhovskiy_cuirassier_pl|Zırhlı Süvari
+trp_russian_glukhovskiy_cuirassier_flag_bearer|Glukhovsky Süvari Alayı
+trp_russian_glukhovskiy_cuirassier_flag_bearer_pl|Bayraktar
+trp_russian_glukhovskiy_cuirassier_nco|Glukhovsky Süvari Alayı
+trp_russian_glukhovskiy_cuirassier_nco_pl|Çavuş
+trp_russian_glukhovskiy_cuirassier_officer|Glukhovsky Süvari Alayı
+trp_russian_glukhovskiy_cuirassier_officer_pl|Subay
+trp_russian_glukhovskiy_cuirassier_trumpet|Glukhovsky Süvari Alayı
+trp_russian_glukhovskiy_cuirassier_trumpet_pl|Trompetçi
+trp_nwe_rus_horse_arty|4. Süvari Topçu Bölüğü
+trp_nwe_rus_horse_arty_pl|Süvari Topçuları
+trp_nwe_rus_horse_arty_guard|4. Süvari Topçu Bölüğü
+trp_nwe_rus_horse_arty_guard_pl|Topçu Muhafızı
+trp_nwe_rus_horse_arty_flag_bearer|4. Süvari Topçu Bölüğü
+trp_nwe_rus_horse_arty_flag_bearer_pl|Bayraktar
+trp_nwe_rus_horse_arty_nco|4. Süvari Topçu Bölüğü
+trp_nwe_rus_horse_arty_nco_pl|Top Taşıyıcı
+trp_nwe_rus_horse_arty_officer|4. Süvari Topçu Bölüğü
+trp_nwe_rus_horse_arty_officer_pl|Subay
+trp_austrian_4|Hoch und Deutschmeister 4. Piyade Alayı
+trp_austrian_4_pl|Piyade
+trp_austrian_4_flag_bearer|Hoch und Deutschmeister 4. Piyade Alayı
+trp_austrian_4_flag_bearer_pl|Bayraktar
+trp_austrian_4_nco|Hoch und Deutschmeister 4. Piyade Alayı
+trp_austrian_4_nco_pl|Çavuş
+trp_austrian_4_officer|Hoch und Deutschmeister 4. Piyade Alayı
+trp_austrian_4_officer_pl|Subay
+trp_austrian_4_drum|Hoch und Deutschmeister 4. Piyade Alayı
+trp_austrian_4_drum_pl|Davulcu
+trp_austrian_4_flute|Hoch und Deutschmeister 4. Piyade Alayı
+trp_austrian_4_flute_pl|Flütçü
+trp_austrian_11|Rainer 11. Piyade Alayı
+trp_austrian_11_pl|Piyade
+trp_austrian_11_flag_bearer|Rainer 11. Piyade Alayı
+trp_austrian_11_flag_bearer_pl|Bayraktar
+trp_austrian_11_nco|Rainer 11. Piyade Alayı
+trp_austrian_11_nco_pl|Çavuş
+trp_austrian_11_officer|Rainer 11. Piyade Alayı
+trp_austrian_11_officer_pl|Subay
+trp_austrian_11_drum|Rainer 11. Piyade Alayı
+trp_austrian_11_drum_pl|Davulcu
+trp_austrian_11_flute|Rainer 11. Piyade Alayı
+trp_austrian_11_flute_pl|Flütçü
+trp_austrian_24|Von Strauch 24. Piyade Alayı
+trp_austrian_24_pl|Piyade
+trp_austrian_24_flag_bearer|Von Strauch 24. Piyade Alayı
+trp_austrian_24_flag_bearer_pl|Bayraktar
+trp_austrian_24_nco|Von Strauch 24. Piyade Alayı
+trp_austrian_24_nco_pl|Çavuş
+trp_austrian_24_officer|Von Strauch 24. Piyade Alayı
+trp_austrian_24_officer_pl|Subay
+trp_austrian_24_drum|Von Strauch 24. Piyade Alayı
+trp_austrian_24_drum_pl|Davulcu
+trp_austrian_24_flute|Von Strauch 24. Piyade Alayı
+trp_austrian_24_flute_pl|Flütçü
+trp_austrian_31|Benjowsky 31. Piyade Alayı
+trp_austrian_31_pl|Piyade
+trp_austrian_31_flag_bearer|Benjowsky 31. Piyade Alayı
+trp_austrian_31_flag_bearer_pl|Bayraktar
+trp_austrian_31_nco|Benjowsky 31. Piyade Alayı
+trp_austrian_31_nco_pl|Çavuş
+trp_austrian_31_officer|Benjowsky 31. Piyade Alayı
+trp_austrian_31_officer_pl|Subay
+trp_austrian_31_drum|Benjowsky 31. Piyade Alayı
+trp_austrian_31_drum_pl|Davulcu
+trp_austrian_31_flute|Benjowsky 31. Piyade Alayı
+trp_austrian_31_flute_pl|Flütçü
+trp_austrian_34|Freiherr von Davidovich 34. Piyade Alayı
+trp_austrian_34_pl|Piyade
+trp_austrian_34_flag_bearer|Freiherr von Davidovich 34. Piyade Alayı
+trp_austrian_34_flag_bearer_pl|Bayraktar
+trp_austrian_34_nco|Freiherr von Davidovich 34. Piyade Alayı
+trp_austrian_34_nco_pl|Çavuş
+trp_austrian_34_officer|Freiherr von Davidovich 34. Piyade Alayı
+trp_austrian_34_officer_pl|Subay
+trp_austrian_34_drum|Freiherr von Davidovich 34. Piyade Alayı
+trp_austrian_34_drum_pl|Davulcu
+trp_austrian_34_flute|Freiherr von Davidovich 34. Piyade Alayı
+trp_austrian_34_flute_pl|Flütçü
+trp_austrian_39|Freiherr Duka 39. Piyade Alayı
+trp_austrian_39_pl|Piyade
+trp_austrian_39_flag_bearer|Freiherr Duka 39. Piyade Alayı
+trp_austrian_39_flag_bearer_pl|Bayraktar
+trp_austrian_39_nco|Freiherr Duka 39. Piyade Alayı
+trp_austrian_39_nco_pl|Çavuş
+trp_austrian_39_officer|Freiherr Duka 39. Piyade Alayı
+trp_austrian_39_officer_pl|Subay
+trp_austrian_39_drum|Freiherr Duka 39. Piyade Alayı
+trp_austrian_39_drum_pl|Davulcu
+trp_austrian_39_flute|Freiherr Duka 39. Piyade Alayı
+trp_austrian_39_flute_pl|Flütçü
+trp_austrian_51|Splenyi 'Legion Infernale' 51. Piyade Alayı
+trp_austrian_51_pl|Piyade
+trp_austrian_51_flag_bearer|Splenyi 'Legion Infernale' 51. Piyade Alayı
+trp_austrian_51_flag_bearer_pl|Bayraktar
+trp_austrian_51_nco|Splenyi 'Legion Infernale' 51. Piyade Alayı
+trp_austrian_51_nco_pl|Çavuş
+trp_austrian_51_officer|Splenyi 'Legion Infernale' 51. Piyade Alayı
+trp_austrian_51_officer_pl|Subay
+trp_austrian_51_drum|Splenyi 'Legion Infernale' 51. Piyade Alayı
+trp_austrian_51_drum_pl|Davulcu
+trp_austrian_51_flute|Splenyi 'Legion Infernale' 51. Piyade Alayı
+trp_austrian_51_flute_pl|Flütçü
+trp_austrian_59|Alexander von Jordis 59. Piyade Alayı
+trp_austrian_59_pl|Piyade
+trp_austrian_59_flag_bearer|Alexander von Jordis 59. Piyade Alayı
+trp_austrian_59_flag_bearer_pl|Bayraktar
+trp_austrian_59_nco|Alexander von Jordis 59. Piyade Alayı
+trp_austrian_59_nco_pl|Çavuş
+trp_austrian_59_officer|Alexander von Jordis 59. Piyade Alayı
+trp_austrian_59_officer_pl|Subay
+trp_austrian_59_drum|Alexander von Jordis 59. Piyade Alayı
+trp_austrian_59_drum_pl|Davulcu
+trp_austrian_59_flute|Alexander von Jordis 59. Piyade Alayı
+trp_austrian_59_flute_pl|Flütçü
+trp_austrian_16|Lusignan 16. Piyade Alayı
+trp_austrian_16_pl|Muhafız Piyade
+trp_austrian_16_flag_bearer|Lusignan 16. Piyade Alayı
+trp_austrian_16_flag_bearer_pl|Bayraktar
+trp_austrian_16_nco|Lusignan 16. Piyade Alayı
+trp_austrian_16_nco_pl|Çavuş
+trp_austrian_16_officer|Lusignan 16. Piyade Alayı
+trp_austrian_16_officer_pl|Subay
+trp_austrian_16_drum|Lusignan 16. Piyade Alayı
+trp_austrian_16_drum_pl|Davulcu
+trp_austrian_16_flute|Lusignan 16. Piyade Alayı
+trp_austrian_16_flute_pl|Flütçü
+trp_austrian_56|Graf Wenzel Colloredo 56. Piyade Alayı
+trp_austrian_56_pl|Muhafız Piyade
+trp_austrian_56_flag_bearer|Graf Wenzel Colloredo 56. Piyade Alayı
+trp_austrian_56_flag_bearer_pl|Bayraktar
+trp_austrian_56_nco|Graf Wenzel Colloredo 56. Piyade Alayı
+trp_austrian_56_nco_pl|Çavuş
+trp_austrian_56_officer|Graf Wenzel Colloredo 56. Piyade Alayı
+trp_austrian_56_officer_pl|Subay
+trp_austrian_56_drum|Graf Wenzel Colloredo 56. Piyade Alayı
+trp_austrian_56_drum_pl|Davulcu
+trp_austrian_56_flute|Graf Wenzel Colloredo 56. Piyade Alayı
+trp_austrian_56_flute_pl|Flütçü
+trp_austrian_grenzer5|Warasdiner-Kreuzer Sınır Alayı No: 5
+trp_austrian_grenzer5_pl|Hafif Piyade
+trp_austrian_grenzer5_flag_bearer|Warasdiner-Kreuzer Sınır Alayı No: 5
+trp_austrian_grenzer5_flag_bearer_pl|Bayraktar
+trp_austrian_grenzer5_nco|Warasdiner-Kreuzer Sınır Alayı No: 5
+trp_austrian_grenzer5_nco_pl|Çavuş
+trp_austrian_grenzer5_officer|Warasdiner-Kreuzer Sınır Alayı No: 5
+trp_austrian_grenzer5_officer_pl|Subay
+trp_austrian_grenzer5_horn|Warasdiner-Kreuzer Sınır Alayı No: 5
+trp_austrian_grenzer5_horn_pl|Kornocu
+trp_austrian_hussar12|Palatin Husar 12. Hussar Alayı
+trp_austrian_hussar12_pl|Hussarlar
+trp_austrian_hussar12_flag_bearer|Palatinal-Husaren 12. Hussar Alayı
+trp_austrian_hussar12_flag_bearer_pl|Bayraktar
+trp_austrian_hussar12_nco|Palatinal-Husaren 12. Hussar Alayı
+trp_austrian_hussar12_nco_pl|Çavuş
+trp_austrian_hussar12_officer|Palatinal-Husaren 12. Hussar Alayı
+trp_austrian_hussar12_officer_pl|Subay
+trp_austrian_hussar12_trumpet|Palatinal-Husaren 12. Hussar Alayı
+trp_austrian_hussar12_trumpet_pl|Trompetçi
+trp_austrian_cuirassier5|Marquis Sommariva 5. Zırhlı Süvari Alayı
+trp_austrian_cuirassier5_pl|Zırhlı Süvari
+trp_austrian_cuirassier5_flag_bearer|Marquis Sommariva 5. Zırhlı Süvari Alayı
+trp_austrian_cuirassier5_flag_bearer_pl|Bayraktar
+trp_austrian_cuirassier5_nco|Marquis Sommariva 5. Zırhlı Süvari Alayı
+trp_austrian_cuirassier5_nco_pl|Çavuş
+trp_austrian_cuirassier5_officer|Marquis Sommariva 5. Zırhlı Süvari Alayı
+trp_austrian_cuirassier5_officer_pl|Subay
+trp_austrian_cuirassier5_trumpet|Marquis Sommariva 5. Zırhlı Süvari Alayı
+trp_austrian_cuirassier5_trumpet_pl|Trompetçi
+trp_austrian_horseart|Süvari Bataryası
+trp_austrian_horseart_pl|Süvari Topçuları
+trp_austrian_horseart_guard|Süvari Bataryası
+trp_austrian_horseart_guard_pl|Topçu Muhafızı
+trp_austrian_horseart_flag_bearer|Süvari Bataryası
+trp_austrian_horseart_flag_bearer_pl|Bayraktar
+trp_austrian_horseart_nco|Süvari Bataryası
+trp_austrian_horseart_nco_pl|Top Taşıyıcı
+trp_austrian_horseart_officer|Süvari Bataryası
+trp_austrian_horseart_officer_pl|Subay
+trp_rhine_grenadier_guard2|Grenadiers de la Garde, Berg
+trp_rhine_grenadier_guard2_pl|Muhafız Piyade
+trp_rhine_grenadier_guard2_flag_bearer|Grenadiers de la Garde, Berg
+trp_rhine_grenadier_guard2_flag_bearer_pl|Bayraktar
+trp_rhine_grenadier_guard2_nco|Grenadiers de la Garde, Berg
+trp_rhine_grenadier_guard2_nco_pl|Çavuş
+trp_rhine_grenadier_guard2_officer|Grenadiers de la Garde, Berg
+trp_rhine_grenadier_guard2_officer_pl|Subay
+trp_rhine_grenadier_guard2_drum|Grenadiers de la Garde, Berg
+trp_rhine_grenadier_guard2_drum_pl|Davulcu
+trp_rhine_grenadier_guard2_flute|Grenadiers de la Garde, Berg
+trp_rhine_grenadier_guard2_flute_pl|Flütçü
+trp_rhine_horseart|Topçu Birliği, Saksonya
+trp_rhine_horseart_pl|Süvari Topçuları
+trp_rhine_horseart_guard|Topçu Birliği, Saksonya
+trp_rhine_horseart_guard_pl|Topçu Muhafızı
+trp_rhine_horseart_flag_bearer|Topçu Birliği, Saksonya
+trp_rhine_horseart_flag_bearer_pl|Bayraktar
+trp_rhine_horseart_nco|Topçu Birliği, Saksonya
+trp_rhine_horseart_nco_pl|Top Taşıyıcı
+trp_rhine_horseart_officer|Topçu Birliği, Saksonya
+trp_rhine_horseart_officer_pl|Subay
+trp_ottoman_levend|Levend Çiftliği Alayı
+trp_ottoman_levend_pl|Piyade
+trp_ottoman_levend_flag_bearer|Levend Çiftliği Alayı
+trp_ottoman_levend_flag_bearer_pl|Bayraktar
+trp_ottoman_levend_nco|Levend Çiftliği Alayı
+trp_ottoman_levend_nco_pl|Çavuş
+trp_ottoman_levend_officer|Levend Çiftliği Alayı
+trp_ottoman_levend_officer_pl|Subay
+trp_ottoman_levend_drum|Levend Çiftliği Alayı
+trp_ottoman_levend_drum_pl|Davulcu
+trp_ottoman_levend_flute|Levend Çiftliği Alayı
+trp_ottoman_levend_flute_pl|Flütçü
+trp_ottoman_uskudar|Üsküdar Alayı
+trp_ottoman_uskudar_pl|Piyade
+trp_ottoman_uskudar_flag_bearer|Üsküdar Alayı
+trp_ottoman_uskudar_flag_bearer_pl|Bayraktar
+trp_ottoman_uskudar_nco|Üsküdar Alayı
+trp_ottoman_uskudar_nco_pl|Çavuş
+trp_ottoman_uskudar_officer|Üsküdar Alayı
+trp_ottoman_uskudar_officer_pl|Subay
+trp_ottoman_uskudar_drum|Üsküdar Alayı
+trp_ottoman_uskudar_drum_pl|Davulcu
+trp_ottoman_uskudar_flute|Üsküdar Alayı
+trp_ottoman_uskudar_flute_pl|Flütçü
+trp_ottoman_libyan|Libya Bedevisi
+trp_ottoman_libyan_pl|Piyade
+trp_ottoman_libyan_flag_bearer|Libya Bedevisi
+trp_ottoman_libyan_flag_bearer_pl|Bayraktar
+trp_ottoman_libyan_nco|Libya Bedevisi
+trp_ottoman_libyan_nco_pl|Çavuş
+trp_ottoman_libyan_officer|Libya Bedevisi
+trp_ottoman_libyan_officer_pl|Subay
+trp_ottoman_libyan_drum|Libya Bedevisi
+trp_ottoman_libyan_drum_pl|Davulcu
+trp_ottoman_libyan_flute|Libya Bedevisi
+trp_ottoman_libyan_flute_pl|Flütçü
+trp_ottoman_subara|Şubara Neferi
+trp_ottoman_subara_pl|Piyade
+trp_ottoman_subara_flag_bearer|Şubara Neferi
+trp_ottoman_subara_flag_bearer_pl|Bayraktar
+trp_ottoman_subara_nco|Şubara Neferi
+trp_ottoman_subara_nco_pl|Çavuş
+trp_ottoman_subara_officer|Şubara Neferi
+trp_ottoman_subara_officer_pl|Subay
+trp_ottoman_subara_drum|Şubara Neferi
+trp_ottoman_subara_drum_pl|Davulcu
+trp_ottoman_subara_flute|Şubara Neferi
+trp_ottoman_subara_flute_pl|Flütçü
+trp_ottoman_jani|Yeniçeri Ocağı - 1. Orta
+trp_ottoman_jani_pl|Muhafız Piyade
+trp_ottoman_jani_flag_bearer|Yeniçeri Ocağı - 1. Orta
+trp_ottoman_jani_flag_bearer_pl|Bayraktar
+trp_ottoman_jani_nco|Yeniçeri Ocağı - 1. Orta
+trp_ottoman_jani_nco_pl|Çavuş
+trp_ottoman_jani_officer|Yeniçeri Ocağı - 1. Orta
+trp_ottoman_jani_officer_pl|Subay
+trp_ottoman_jani_drum|Yeniçeri Ocağı - 1. Orta
+trp_ottoman_jani_drum_pl|Davulcu
+trp_ottoman_jani_flute|Yeniçeri Ocağı - 1. Orta
+trp_ottoman_jani_flute_pl|Flütçü
+trp_ottoman_jani_istanbul|Yeniçeri Ocağı - İstanbul Ortası
+trp_ottoman_jani_istanbul_pl|Muhafız Piyade
+trp_ottoman_jani_istanbul_flag_bearer|Yeniçeri Ocağı - İstanbul Ortası
+trp_ottoman_jani_istanbul_flag_bearer_pl|Bayraktar
+trp_ottoman_jani_istanbul_nco|Yeniçeri Ocağı - İstanbul Ortası
+trp_ottoman_jani_istanbul_nco_pl|Çavuş
+trp_ottoman_jani_istanbul_officer|Yeniçeri Ocağı - İstanbul Ortası
+trp_ottoman_jani_istanbul_officer_pl|Subay
+trp_ottoman_jani_istanbul_drum|Yeniçeri Ocağı - İstanbul Ortası
+trp_ottoman_jani_istanbul_drum_pl|Davulcu
+trp_ottoman_jani_istanbul_flute|Yeniçeri Ocağı - İstanbul Ortası
+trp_ottoman_jani_istanbul_flute_pl|Flütçü
+trp_ottoman_light|Arnavut Askerleri
+trp_ottoman_light_pl|Hafif Piyade
+trp_ottoman_light_flag_bearer|Arnavut Askerleri
+trp_ottoman_light_flag_bearer_pl|Bayraktar
+trp_ottoman_light_nco|Arnavut Askerleri
+trp_ottoman_light_nco_pl|Çavuş
+trp_ottoman_light_officer|Arnavut Askerleri
+trp_ottoman_light_officer_pl|Subay
+trp_ottoman_light_horn|Arnavut Askerleri
+trp_ottoman_light_horn_pl|Kornocu
+trp_ottoman_rifle|Laz Neferleri
+trp_ottoman_rifle_pl|Tüfekli Piyade
+trp_ottoman_rifle_flag_bearer|Laz Neferleri
+trp_ottoman_rifle_flag_bearer_pl|Bayraktar
+trp_ottoman_rifle_nco|Laz Neferleri
+trp_ottoman_rifle_nco_pl|Çavuş
+trp_ottoman_rifle_officer|Laz Neferleri
+trp_ottoman_rifle_officer_pl|Subay
+trp_ottoman_rifle_horn|Laz Neferleri
+trp_ottoman_rifle_horn_pl|Kornocu
+trp_ottoman_hussar|Deliler
+trp_ottoman_hussar_pl|Hussarlar
+trp_ottoman_hussar_flag_bearer|Deliler
+trp_ottoman_hussar_flag_bearer_pl|Bayraktar
+trp_ottoman_hussar_nco|Deliler
+trp_ottoman_hussar_nco_pl|Çavuş
+trp_ottoman_hussar_officer|Deliler
+trp_ottoman_hussar_officer_pl|Subay
+trp_ottoman_hussar_trumpet|Deliler
+trp_ottoman_hussar_trumpet_pl|Trompetçi
+trp_ottoman_camel_cav|Develi Süvarisi
+trp_ottoman_camel_cav_pl|Hafif deve süvarileri
+trp_ottoman_camel_cav_flag_bearer|Develi Süvarisi
+trp_ottoman_camel_cav_flag_bearer_pl|Bayraktar
+trp_ottoman_camel_cav_nco|Develi Süvarisi
+trp_ottoman_camel_cav_nco_pl|Çavuş
+trp_ottoman_camel_cav_officer|Develi Süvarisi
+trp_ottoman_camel_cav_officer_pl|Subay
+trp_ottoman_camel_cav_trumpet|Develi Süvarisi
+trp_ottoman_camel_cav_trumpet_pl|Trompetçi
+trp_ottoman_lancer|Sipahiler
+trp_ottoman_lancer_pl|Kargılı Süvari
+trp_ottoman_lancer_flag_bearer|Sipahiler
+trp_ottoman_lancer_flag_bearer_pl|Bayraktar
+trp_ottoman_lancer_nco|Sipahiler
+trp_ottoman_lancer_nco_pl|Çavuş
+trp_ottoman_lancer_officer|Sipahiler
+trp_ottoman_lancer_officer_pl|Subay
+trp_ottoman_lancer_trumpet|Sipahiler
+trp_ottoman_lancer_trumpet_pl|Trompetçi
+trp_ottoman_dragoon|Sekban Süvarileri
+trp_ottoman_dragoon_pl|Dragun
+trp_ottoman_dragoon_flag_bearer|Sekban Süvarileri
+trp_ottoman_dragoon_flag_bearer_pl|Bayraktar
+trp_ottoman_dragoon_nco|Sekban Süvarileri
+trp_ottoman_dragoon_nco_pl|Çavuş
+trp_ottoman_dragoon_officer|Sekban Süvarileri
+trp_ottoman_dragoon_officer_pl|Subay
+trp_ottoman_dragoon_trumpet|Sekban Süvarileri
+trp_ottoman_dragoon_trumpet_pl|Trompetçi
+trp_ottoman_cuirassier|Kapıkulu Sipahileri
+trp_ottoman_cuirassier_pl|Zırhlı Süvari
+trp_ottoman_cuirassier_flag_bearer|Kapıkulu Sipahileri
+trp_ottoman_cuirassier_flag_bearer_pl|Bayraktar
+trp_ottoman_cuirassier_nco|Kapıkulu Sipahileri
+trp_ottoman_cuirassier_nco_pl|Çavuş
+trp_ottoman_cuirassier_officer|Kapıkulu Sipahileri
+trp_ottoman_cuirassier_officer_pl|Subay
+trp_ottoman_cuirassier_trumpet|Kapıkulu Sipahileri
+trp_ottoman_cuirassier_trumpet_pl|Trompetçi
+trp_ottoman_heavy_cavalry|Memlükler
+trp_ottoman_heavy_cavalry_pl|Ağır Süvari
+trp_ottoman_heavy_cavalry_flag_bearer|Memlükler
+trp_ottoman_heavy_cavalry_flag_bearer_pl|Bayraktar
+trp_ottoman_heavy_cavalry_nco|Memlükler
+trp_ottoman_heavy_cavalry_nco_pl|Çavuş
+trp_ottoman_heavy_cavalry_officer|Memlükler
+trp_ottoman_heavy_cavalry_officer_pl|Subay
+trp_ottoman_heavy_cavalry_trumpet|Memlükler
+trp_ottoman_heavy_cavalry_trumpet_pl|Trompetçi
+trp_ottoman_camel_heavy_cav|Develi Muhafızları
+trp_ottoman_camel_heavy_cav_pl|Ağır deve süvarileri
+trp_ottoman_camel_heavy_cav_flag_bearer|Develi Muhafızları
+trp_ottoman_camel_heavy_cav_flag_bearer_pl|Bayraktar
+trp_ottoman_camel_heavy_cav_nco|Develi Muhafızları
+trp_ottoman_camel_heavy_cav_nco_pl|Çavuş
+trp_ottoman_camel_heavy_cav_officer|Develi Muhafızları
+trp_ottoman_camel_heavy_cav_officer_pl|Subay
+trp_ottoman_camel_heavy_cav_trumpet|Develi Muhafızları
+trp_ottoman_camel_heavy_cav_trumpet_pl|Trompetçi
+trp_ottoman_arty|Topçu Ocağı
+trp_ottoman_arty_pl|Topçu Piyade
+trp_ottoman_arty_guard|Topçu Ocağı
+trp_ottoman_arty_guard_pl|Topçu Muhafızı
+trp_ottoman_arty_flag_bearer|Topçu Ocağı
+trp_ottoman_arty_flag_bearer_pl|Bayraktar
+trp_ottoman_arty_nco|Topçu Ocağı
+trp_ottoman_arty_nco_pl|Top Taşıyıcı
+trp_ottoman_arty_officer|Topçu Ocağı
+trp_ottoman_arty_officer_pl|Subay
+trp_ottoman_horseart|Süvari Topçuları
+trp_ottoman_horseart_pl|Süvari Topçuları
+trp_ottoman_horseart_guard|Süvari Topçuları
+trp_ottoman_horseart_guard_pl|Topçu Muhafızı
+trp_ottoman_horseart_flag_bearer|Süvari Topçuları
+trp_ottoman_horseart_flag_bearer_pl|Bayraktar
+trp_ottoman_horseart_nco|Süvari Topçuları
+trp_ottoman_horseart_nco_pl|Top Taşıyıcı
+trp_ottoman_horseart_officer|Süvari Topçuları
+trp_ottoman_horseart_officer_pl|Subay
+trp_british_horse_sapper|İstihkam
+trp_british_horse_sapper_pl|Atlı mühendis
+trp_french_horse_sapper|İstihkam
+trp_french_horse_sapper_pl|Atlı mühendis
+trp_prussian_horse_sapper|4. Mansfelder Pionierskorps
+trp_prussian_horse_sapper_pl|Atlı mühendis
+trp_russian_horse_sapper|İstihkam
+trp_russian_horse_sapper_pl|Atlı mühendis
+trp_austrian_horse_sapper|1. Mühendis Taburu
+trp_austrian_horse_sapper_pl|Atlı mühendis
+trp_rhine_horse_sapper|İstihkam, Berg
+trp_rhine_horse_sapper_pl|Atlı mühendis
+trp_ottoman_bashi|Başıbozuk
+trp_ottoman_bashi_pl|Paralı askerler
+trp_ottoman_medic|Hekim
+trp_ottoman_medic_pl|Cerrah
+trp_ottoman_sapper|Lağımcı
+trp_ottoman_sapper_pl|İstihkam
+trp_ottoman_horse_sapper|Lağımcı
+trp_ottoman_horse_sapper_pl|Atlı mühendis
+trp_ottoman_ship_marine|Leventler
+trp_ottoman_ship_marine_pl|Leventler
+trp_ottoman_ship_flag_bearer|Gemi Mürettebat
+trp_ottoman_ship_flag_bearer_pl|Bayraktar
+trp_ottoman_ship|Gemi Mürettebat
+trp_ottoman_ship_pl|Piyade
+trp_ottoman_ship_cannon|Gemi Mürettebat
+trp_ottoman_ship_cannon_pl|Deniz topçu
+trp_ottoman_ship_captain|Gemi Mürettebat
+trp_ottoman_ship_captain_pl|Captain
+trp_ottoman_pasha|Cezzar Ahmet Paşa
+trp_ottoman_pasha_pl|Kumandan
+trp_british_foot_guard1|1. Muhafız Piyade Alayı
+trp_british_foot_guard1_pl|Muhafız Piyade
+trp_british_foot_guard1_flag_bearer|1. Muhafız Piyade Alayı
+trp_british_foot_guard1_flag_bearer_pl|Bayraktar
+trp_british_foot_guard1_nco|1. Muhafız Piyade Alayı
+trp_british_foot_guard1_nco_pl|Çavuş
+trp_british_foot_guard1_officer|1. Muhafız Piyade Alayı
+trp_british_foot_guard1_officer_pl|Subay
+trp_british_foot_guard1_drum|1. Muhafız Piyade Alayı
+trp_british_foot_guard1_drum_pl|Davulcu
+trp_british_foot_guard1_flute|1. Muhafız Piyade Alayı
+trp_british_foot_guard1_flute_pl|Flütçü
+trp_british_hussar2|2nd KGL Hussars
+trp_british_hussar2_pl|Hussarlar
+trp_british_hussar2_flag_bearer|2nd KGL Hussars
+trp_british_hussar2_flag_bearer_pl|Bayraktar
+trp_british_hussar2_nco|2nd KGL Hussars
+trp_british_hussar2_nco_pl|Çavuş
+trp_british_hussar2_officer|2nd KGL Hussars
+trp_british_hussar2_officer_pl|Subay
+trp_british_hussar2_trumpet|2nd KGL Hussars
+trp_british_hussar2_trumpet_pl|Trompetçi
+trp_prussian_infantry_2|2. Piyade Alayı
+trp_prussian_infantry_2_pl|Piyade
+trp_prussian_infantry_2_flag_bearer|2. Piyade Alayı
+trp_prussian_infantry_2_flag_bearer_pl|Bayraktar
+trp_prussian_infantry_2_nco|2. Piyade Alayı
+trp_prussian_infantry_2_nco_pl|Çavuş
+trp_prussian_infantry_2_officer|2. Piyade Alayı
+trp_prussian_infantry_2_officer_pl|Subay
+trp_prussian_infantry_2_drum|2. Piyade Alayı
+trp_prussian_infantry_2_drum_pl|Davulcu
+trp_prussian_infantry_2_flute|2. Piyade Alayı
+trp_prussian_infantry_2_flute_pl|Flütçü
+trp_prussian_infantry12|12. Brandenburg Piyade Alayı
+trp_prussian_infantry12_pl|Piyade
+trp_prussian_infantry12_flag_bearer|12. Brandenburg Piyade Alayı
+trp_prussian_infantry12_flag_bearer_pl|Bayraktar
+trp_prussian_infantry12_nco|12. Brandenburg Piyade Alayı
+trp_prussian_infantry12_nco_pl|Çavuş
+trp_prussian_infantry12_officer|12. Brandenburg Piyade Alayı
+trp_prussian_infantry12_officer_pl|Subay
+trp_prussian_infantry12_drum|12. Brandenburg Piyade Alayı
+trp_prussian_infantry12_drum_pl|Davulcu
+trp_prussian_infantry12_flute|12. Brandenburg Piyade Alayı
+trp_prussian_infantry12_flute_pl|Flütçü
+trp_prussian_infantry14|14. Vestfalya Piyade Alayı
+trp_prussian_infantry14_pl|Piyade
+trp_prussian_infantry14_flag_bearer|14. Vestfalya Piyade Alayı
+trp_prussian_infantry14_flag_bearer_pl|Bayraktar
+trp_prussian_infantry14_nco|14. Vestfalya Piyade Alayı
+trp_prussian_infantry14_nco_pl|Çavuş
+trp_prussian_infantry14_officer|14. Vestfalya Piyade Alayı
+trp_prussian_infantry14_officer_pl|Subay
+trp_prussian_infantry14_drum|14. Vestfalya Piyade Alayı
+trp_prussian_infantry14_drum_pl|Davulcu
+trp_prussian_infantry14_flute|14. Vestfalya Piyade Alayı
+trp_prussian_infantry14_flute_pl|Flütçü
+trp_prussian_infantry18|18. Piyade Alayı
+trp_prussian_infantry18_pl|Piyade
+trp_prussian_infantry18_flag_bearer|18. Piyade Alayı
+trp_prussian_infantry18_flag_bearer_pl|Bayraktar
+trp_prussian_infantry18_nco|18. Piyade Alayı
+trp_prussian_infantry18_nco_pl|Çavuş
+trp_prussian_infantry18_officer|18. Piyade Alayı
+trp_prussian_infantry18_officer_pl|Subay
+trp_prussian_infantry18_drum|18. Piyade Alayı
+trp_prussian_infantry18_drum_pl|Davulcu
+trp_prussian_infantry18_flute|18. Piyade Alayı
+trp_prussian_infantry18_flute_pl|Flütçü
+trp_prussian_infantry24|24. Brandenburg Piyade Alayı
+trp_prussian_infantry24_pl|Piyade
+trp_prussian_infantry24_flag_bearer|24. Brandenburg Piyade Alayı
+trp_prussian_infantry24_flag_bearer_pl|Bayraktar
+trp_prussian_infantry24_nco|24. Brandenburg Piyade Alayı
+trp_prussian_infantry24_nco_pl|Çavuş
+trp_prussian_infantry24_officer|24. Brandenburg Piyade Alayı
+trp_prussian_infantry24_officer_pl|Subay
+trp_prussian_infantry24_drum|24. Brandenburg Piyade Alayı
+trp_prussian_infantry24_drum_pl|Davulcu
+trp_prussian_infantry24_flute|24. Brandenburg Piyade Alayı
+trp_prussian_infantry24_flute_pl|Flütçü
+trp_prussian_infantry26|26. Magdeburgische Piyade Alayı
+trp_prussian_infantry26_pl|Piyade
+trp_prussian_infantry26_flag_bearer|26. Magdeburgische Piyade Alayı
+trp_prussian_infantry26_flag_bearer_pl|Bayraktar
+trp_prussian_infantry26_nco|26. Magdeburgische Piyade Alayı
+trp_prussian_infantry26_nco_pl|Çavuş
+trp_prussian_infantry26_officer|26. Magdeburgische Piyade Alayı
+trp_prussian_infantry26_officer_pl|Subay
+trp_prussian_infantry26_drum|26. Magdeburgische Piyade Alayı
+trp_prussian_infantry26_drum_pl|Davulcu
+trp_prussian_infantry26_flute|26. Magdeburgische Piyade Alayı
+trp_prussian_infantry26_flute_pl|Flütçü
+trp_prussian_infantry_elbe|2. Elbe Landwehr Alayı
+trp_prussian_infantry_elbe_pl|Piyade
+trp_prussian_infantry_elbe_flag_bearer|2. Elbe Landwehr Alayı
+trp_prussian_infantry_elbe_flag_bearer_pl|Bayraktar
+trp_prussian_infantry_elbe_nco|2. Elbe Landwehr Alayı
+trp_prussian_infantry_elbe_nco_pl|Çavuş
+trp_prussian_infantry_elbe_officer|2. Elbe Landwehr Alayı
+trp_prussian_infantry_elbe_officer_pl|Subay
+trp_prussian_infantry_elbe_drum|2. Elbe Landwehr Alayı
+trp_prussian_infantry_elbe_drum_pl|Davulcu
+trp_prussian_infantry_elbe_flute|2. Elbe Landwehr Alayı
+trp_prussian_infantry_elbe_flute_pl|Flütçü
+trp_prussian_dragoon5|5. Brandenburg Dragunları
+trp_prussian_dragoon5_pl|Dragun
+trp_prussian_dragoon5_flag_bearer|5. Brandenburg Dragunları
+trp_prussian_dragoon5_flag_bearer_pl|Bayraktar
+trp_prussian_dragoon5_nco|5. Brandenburg Dragunları
+trp_prussian_dragoon5_nco_pl|Çavuş
+trp_prussian_dragoon5_officer|5. Brandenburg Dragunları
+trp_prussian_dragoon5_officer_pl|Subay
+trp_prussian_dragoon5_trumpet|5. Brandenburg Dragunları
+trp_prussian_dragoon5_trumpet_pl|Trompetçi
+trp_prussian_hussar_mhr|10. Magdeburgische Hussar Alayı
+trp_prussian_hussar_mhr_pl|Hussarlar
+trp_prussian_hussar_mhr_flag_bearer|10. Magdeburgische Hussar Alayı
+trp_prussian_hussar_mhr_flag_bearer_pl|Bayraktar
+trp_prussian_hussar_mhr_nco|10. Magdeburgische Hussar Alayı
+trp_prussian_hussar_mhr_nco_pl|Çavuş
+trp_prussian_hussar_mhr_officer|10. Magdeburgische Hussar Alayı
+trp_prussian_hussar_mhr_officer_pl|Subay
+trp_prussian_hussar_mhr_trumpet|10. Magdeburgische Hussar Alayı
+trp_prussian_hussar_mhr_trumpet_pl|Trompetçi
+trp_prussian_hussar_mhr_elite|Magdeburgisches Husaren-Regiment Nr.10
+trp_prussian_hussar_mhr_elite_pl|Gönüllü avcı
+trp_austrian_32|Eszterházy 32. Piyade Alayı
+trp_austrian_32_pl|Piyade
+trp_austrian_32_flag_bearer|Eszterházy 32. Piyade Alayı
+trp_austrian_32_flag_bearer_pl|Bayraktar
+trp_austrian_32_nco|Eszterházy 32. Piyade Alayı
+trp_austrian_32_nco_pl|Çavuş
+trp_austrian_32_officer|Eszterházy 32. Piyade Alayı
+trp_austrian_32_officer_pl|Subay
+trp_austrian_32_drum|Eszterházy 32. Piyade Alayı
+trp_austrian_32_drum_pl|Davulcu
+trp_austrian_32_flute|Eszterházy 32. Piyade Alayı
+trp_austrian_32_flute_pl|Flütçü
+trp_italian_infantry1|1. Piyade Alayı 'Mantova'
+trp_italian_infantry1_pl|Piyade
+trp_italian_infantry1_flag_bearer|1. Piyade Alayı 'Mantova'
+trp_italian_infantry1_flag_bearer_pl|Bayraktar
+trp_italian_infantry1_nco|1. Piyade Alayı 'Mantova'
+trp_italian_infantry1_nco_pl|Çavuş
+trp_italian_infantry1_officer|1. Piyade Alayı 'Mantova'
+trp_italian_infantry1_officer_pl|Subay
+trp_italian_infantry1_drum|1. Piyade Alayı 'Mantova'
+trp_italian_infantry1_drum_pl|Davulcu
+trp_italian_infantry1_flute|1. Piyade Alayı 'Mantova'
+trp_italian_infantry1_flute_pl|Flütçü
+trp_italian_infantry2|2. Piyade Alayı 'Ferrara'
+trp_italian_infantry2_pl|Piyade
+trp_italian_infantry2_flag_bearer|2. Piyade Alayı 'Ferrara'
+trp_italian_infantry2_flag_bearer_pl|Bayraktar
+trp_italian_infantry2_nco|2. Piyade Alayı 'Ferrara'
+trp_italian_infantry2_nco_pl|Çavuş
+trp_italian_infantry2_officer|2. Piyade Alayı 'Ferrara'
+trp_italian_infantry2_officer_pl|Subay
+trp_italian_infantry2_drum|2. Piyade Alayı 'Ferrara'
+trp_italian_infantry2_drum_pl|Davulcu
+trp_italian_infantry2_flute|2. Piyade Alayı 'Ferrara'
+trp_italian_infantry2_flute_pl|Flütçü
+trp_italian_infantry3|3. Piyade Alayı 'Milano'
+trp_italian_infantry3_pl|Piyade
+trp_italian_infantry3_flag_bearer|3. Piyade Alayı 'Milano'
+trp_italian_infantry3_flag_bearer_pl|Bayraktar
+trp_italian_infantry3_nco|3. Piyade Alayı 'Milano'
+trp_italian_infantry3_nco_pl|Çavuş
+trp_italian_infantry3_officer|3. Piyade Alayı 'Milano'
+trp_italian_infantry3_officer_pl|Subay
+trp_italian_infantry3_drum|3. Piyade Alayı 'Milano'
+trp_italian_infantry3_drum_pl|Davulcu
+trp_italian_infantry3_flute|3. Piyade Alayı 'Milano'
+trp_italian_infantry3_flute_pl|Flütçü
+trp_italian_infantry4|Kraliyet Muhafızları'nın acemi askerleri
+trp_italian_infantry4_pl|Piyade
+trp_italian_infantry4_flag_bearer|Kraliyet Muhafızları'nın acemi askerleri
+trp_italian_infantry4_flag_bearer_pl|Bayraktar
+trp_italian_infantry4_nco|Kraliyet Muhafızları'nın acemi askerleri
+trp_italian_infantry4_nco_pl|Çavuş
+trp_italian_infantry4_officer|Kraliyet Muhafızları'nın acemi askerleri
+trp_italian_infantry4_officer_pl|Subay
+trp_italian_infantry4_drum|Kraliyet Muhafızları'nın acemi askerleri
+trp_italian_infantry4_drum_pl|Davulcu
+trp_italian_infantry4_flute|Kraliyet Muhafızları'nın acemi askerleri
+trp_italian_infantry4_flute_pl|Flütçü
+trp_italian_infantry5|Sömürge Alayı
+trp_italian_infantry5_pl|Piyade
+trp_italian_infantry5_flag_bearer|Sömürge Alayı
+trp_italian_infantry5_flag_bearer_pl|Bayraktar
+trp_italian_infantry5_nco|Sömürge Alayı
+trp_italian_infantry5_nco_pl|Çavuş
+trp_italian_infantry5_officer|Sömürge Alayı
+trp_italian_infantry5_officer_pl|Subay
+trp_italian_infantry5_drum|Sömürge Alayı
+trp_italian_infantry5_drum_pl|Davulcu
+trp_italian_infantry5_flute|Sömürge Alayı
+trp_italian_infantry5_flute_pl|Flütçü
+trp_italian_foot_guard1|Kraliyet Muhafızları Piyade Grenadierleri
+trp_italian_foot_guard1_pl|Muhafız Piyade
+trp_italian_foot_guard1_flag_bearer|Kraliyet Muhafızları Piyade Grenadierleri
+trp_italian_foot_guard1_flag_bearer_pl|Bayraktar
+trp_italian_foot_guard1_nco|Kraliyet Muhafızları Piyade Grenadierleri
+trp_italian_foot_guard1_nco_pl|Çavuş
+trp_italian_foot_guard1_officer|Kraliyet Muhafızları Piyade Grenadierleri
+trp_italian_foot_guard1_officer_pl|Subay
+trp_italian_foot_guard1_drum|Kraliyet Muhafızları Piyade Grenadierleri
+trp_italian_foot_guard1_drum_pl|Davulcu
+trp_italian_foot_guard1_flute|Kraliyet Muhafızları Piyade Grenadierleri
+trp_italian_foot_guard1_flute_pl|Flütçü
+trp_italian_foot_guard2|Kraliyet Muhafızlarından Veliti
+trp_italian_foot_guard2_pl|Muhafız Piyade
+trp_italian_foot_guard2_flag_bearer|Kraliyet Muhafızlarından Veliti
+trp_italian_foot_guard2_flag_bearer_pl|Bayraktar
+trp_italian_foot_guard2_nco|Kraliyet Muhafızlarından Veliti
+trp_italian_foot_guard2_nco_pl|Çavuş
+trp_italian_foot_guard2_officer|Kraliyet Muhafızlarından Veliti
+trp_italian_foot_guard2_officer_pl|Subay
+trp_italian_foot_guard2_drum|Kraliyet Muhafızlarından Veliti
+trp_italian_foot_guard2_drum_pl|Davulcu
+trp_italian_foot_guard2_flute|Kraliyet Muhafızlarından Veliti
+trp_italian_foot_guard2_flute_pl|Flütçü
+trp_italian_foot_guard3|Milano Ulusal Muhafızları
+trp_italian_foot_guard3_pl|Muhafız Piyade
+trp_italian_foot_guard3_flag_bearer|Milano Ulusal Muhafızları
+trp_italian_foot_guard3_flag_bearer_pl|Bayraktar
+trp_italian_foot_guard3_nco|Milano Ulusal Muhafızları
+trp_italian_foot_guard3_nco_pl|Çavuş
+trp_italian_foot_guard3_officer|Milano Ulusal Muhafızları
+trp_italian_foot_guard3_officer_pl|Subay
+trp_italian_foot_guard3_drum|Milano Ulusal Muhafızları
+trp_italian_foot_guard3_drum_pl|Davulcu
+trp_italian_foot_guard3_flute|Milano Ulusal Muhafızları
+trp_italian_foot_guard3_flute_pl|Flütçü
+trp_italian_light|3. Hafif Piyade Alayı 'Real Bresciano'
+trp_italian_light_pl|Hafif Piyade
+trp_italian_light_flag_bearer|3. Hafif Piyade Alayı 'Real Bresciano'
+trp_italian_light_flag_bearer_pl|Bayraktar
+trp_italian_light_nco|3. Hafif Piyade Alayı 'Real Bresciano'
+trp_italian_light_nco_pl|Çavuş
+trp_italian_light_officer|3. Hafif Piyade Alayı 'Real Bresciano'
+trp_italian_light_officer_pl|Subay
+trp_italian_light_horn|3. Hafif Piyade Alayı 'Real Bresciano'
+trp_italian_light_horn_pl|Kornocu
+trp_italian_rifle|Brescia'nın Bersaglieri'si
+trp_italian_rifle_pl|Tüfekli Piyade
+trp_italian_rifle_flag_bearer|Brescia'nın Bersaglieri'si
+trp_italian_rifle_flag_bearer_pl|Bayraktar
+trp_italian_rifle_nco|Brescia'nın Bersaglieri'si
+trp_italian_rifle_nco_pl|Çavuş
+trp_italian_rifle_officer|Brescia'nın Bersaglieri'si
+trp_italian_rifle_officer_pl|Subay
+trp_italian_rifle_horn|Brescia'nın Bersaglieri'si
+trp_italian_rifle_horn_pl|Kornocu
+trp_italian_hussar1|1. Atlı Avcılar 'Reale Italiano'
+trp_italian_hussar1_pl|Hussarlar
+trp_italian_hussar1_flag_bearer|1. Atlı Avcılar 'Reale Italiano'
+trp_italian_hussar1_flag_bearer_pl|Bayraktar
+trp_italian_hussar1_nco|1. Atlı Avcılar 'Reale Italiano'
+trp_italian_hussar1_nco_pl|Çavuş
+trp_italian_hussar1_officer|1. Atlı Avcılar 'Reale Italiano'
+trp_italian_hussar1_officer_pl|Subay
+trp_italian_hussar1_trumpet|1. Atlı Avcılar 'Reale Italiano'
+trp_italian_hussar1_trumpet_pl|Trompetçi
+trp_italian_hussar2|2. Atlı Avcılar 'Reale Prince'
+trp_italian_hussar2_pl|Hussarlar
+trp_italian_hussar2_flag_bearer|2. Atlı Avcılar 'Reale Prince'
+trp_italian_hussar2_flag_bearer_pl|Bayraktar
+trp_italian_hussar2_nco|2. Atlı Avcılar 'Reale Prince'
+trp_italian_hussar2_nco_pl|Çavuş
+trp_italian_hussar2_officer|2. Atlı Avcılar 'Reale Prince'
+trp_italian_hussar2_officer_pl|Subay
+trp_italian_hussar2_trumpet|2. Atlı Avcılar 'Reale Prince'
+trp_italian_hussar2_trumpet_pl|Trompetçi
+trp_italian_dragoon|1. Dragunlar 'Regina'
+trp_italian_dragoon_pl|Dragun
+trp_italian_dragoon_flag_bearer|1. Dragunlar 'Regina'
+trp_italian_dragoon_flag_bearer_pl|Bayraktar
+trp_italian_dragoon_nco|1. Dragunlar 'Regina'
+trp_italian_dragoon_nco_pl|Çavuş
+trp_italian_dragoon_officer|1. Dragunlar 'Regina'
+trp_italian_dragoon_officer_pl|Subay
+trp_italian_dragoon_trumpet|1. Dragunlar 'Regina'
+trp_italian_dragoon_trumpet_pl|Trompetçi
+trp_italian_cuirassier1|Kraliyet Şeref Muhafızları 'Brescia'
+trp_italian_cuirassier1_pl|Ağır Süvari
+trp_italian_cuirassier1_flag_bearer|Kraliyet Şeref Muhafızları 'Brescia'
+trp_italian_cuirassier1_flag_bearer_pl|Bayraktar
+trp_italian_cuirassier1_nco|Kraliyet Şeref Muhafızları 'Brescia'
+trp_italian_cuirassier1_nco_pl|Çavuş
+trp_italian_cuirassier1_officer|Kraliyet Şeref Muhafızları 'Brescia'
+trp_italian_cuirassier1_officer_pl|Subay
+trp_italian_cuirassier1_trumpet|Kraliyet Şeref Muhafızları 'Brescia'
+trp_italian_cuirassier1_trumpet_pl|Trompetçi
+trp_italian_cuirassier2|Kraliyet Muhafızları Seçkin Jandarma Birliği
+trp_italian_cuirassier2_pl|Ağır Süvari
+trp_italian_cuirassier2_flag_bearer|Kraliyet Muhafızları Seçkin Jandarma Birliği
+trp_italian_cuirassier2_flag_bearer_pl|Bayraktar
+trp_italian_cuirassier2_nco|Kraliyet Muhafızları Seçkin Jandarma Birliği
+trp_italian_cuirassier2_nco_pl|Çavuş
+trp_italian_cuirassier2_officer|Kraliyet Muhafızları Seçkin Jandarma Birliği
+trp_italian_cuirassier2_officer_pl|Subay
+trp_italian_cuirassier2_trumpet|Kraliyet Muhafızları Seçkin Jandarma Birliği
+trp_italian_cuirassier2_trumpet_pl|Trompetçi
+trp_italian_arty|Piyade Topçu Alayı
+trp_italian_arty_pl|Topçu Piyade
+trp_italian_arty_guard|Piyade Topçu Alayı
+trp_italian_arty_guard_pl|Topçu Muhafızı
+trp_italian_arty_flag_bearer|Piyade Topçu Alayı
+trp_italian_arty_flag_bearer_pl|Bayraktar
+trp_italian_arty_nco|Piyade Topçu Alayı
+trp_italian_arty_nco_pl|Top Taşıyıcı
+trp_italian_arty_officer|Piyade Topçu Alayı
+trp_italian_arty_officer_pl|Subay
+trp_italian_horseart|Süvari Topçu Alayı
+trp_italian_horseart_pl|Süvari Topçuları
+trp_italian_horseart_guard|Süvari Topçu Alayı
+trp_italian_horseart_guard_pl|Topçu Muhafızı
+trp_italian_horseart_flag_bearer|Süvari Topçu Alayı
+trp_italian_horseart_flag_bearer_pl|Bayraktar
+trp_italian_horseart_nco|Süvari Topçu Alayı
+trp_italian_horseart_nco_pl|Top Taşıyıcı
+trp_italian_horseart_officer|Süvari Topçu Alayı
+trp_italian_horseart_officer_pl|Subay
+trp_italian_medic|Hekim
+trp_italian_medic_pl|Cerrah
+trp_italian_sapper|Lağımcı
+trp_italian_sapper_pl|İstihkam
+trp_italian_horse_sapper|Lağımcı
+trp_italian_horse_sapper_pl|Atlı mühendis
+trp_italian_ship_marine|Gemi Mürettebat
+trp_italian_ship_marine_pl|Gemi Mürettebat
+trp_italian_ship_flag_bearer|Gemi Mürettebat
+trp_italian_ship_flag_bearer_pl|Bayraktar
+trp_italian_ship|Gemi Mürettebat
+trp_italian_ship_pl|Piyade
+trp_italian_ship_cannon|Gemi Mürettebat
+trp_italian_ship_cannon_pl|Deniz topçu
+trp_italian_ship_captain|Gemi Mürettebat
+trp_italian_ship_captain_pl|Captain
+trp_italian_general|Eugène de Beauharnais, İtalya Genel Valisi
+trp_italian_general_pl|Kumandan
+trp_rhine_infantry_saxony2|Piyade Alayı No. 8 von Rechtsen, Saksonya
+trp_rhine_infantry_saxony2_pl|Piyade
+trp_rhine_infantry_saxony2_flag_bearer|Piyade Alayı No. 8 von Rechtsen, Saksonya
+trp_rhine_infantry_saxony2_flag_bearer_pl|Bayraktar
+trp_rhine_infantry_saxony2_nco|Piyade Alayı No. 8 von Rechtsen, Saksonya
+trp_rhine_infantry_saxony2_nco_pl|Çavuş
+trp_rhine_infantry_saxony2_officer|Piyade Alayı No. 8 von Rechtsen, Saksonya
+trp_rhine_infantry_saxony2_officer_pl|Subay
+trp_rhine_infantry_saxony2_drum|Piyade Alayı No. 8 von Rechtsen, Saksonya
+trp_rhine_infantry_saxony2_drum_pl|Davulcu
+trp_rhine_infantry_saxony2_flute|Piyade Alayı No. 8 von Rechtsen, Saksonya
+trp_rhine_infantry_saxony2_flute_pl|Flütçü
+trp_rhine_westphalian_hussar|Vestfalya 2. Süvari Alayı
+trp_rhine_westphalian_hussar_pl|Hussarlar
+trp_rhine_westphalian_hussar_flag_bearer|Vestfalya 2. Süvari Alayı
+trp_rhine_westphalian_hussar_flag_bearer_pl|Bayraktar
+trp_rhine_westphalian_hussar_nco|Vestfalya 2. Süvari Alayı
+trp_rhine_westphalian_hussar_nco_pl|Çavuş
+trp_rhine_westphalian_hussar_officer|Vestfalya 2. Süvari Alayı
+trp_rhine_westphalian_hussar_officer_pl|Subay
+trp_rhine_westphalian_hussar_trumpet|Vestfalya 2. Süvari Alayı
+trp_rhine_westphalian_hussar_trumpet_pl|Trompetçi
+trp_rhine_infantry_waldeck|Waldeck Prensliği Piyade Taburu
+trp_rhine_infantry_waldeck_pl|Piyade
+trp_rhine_infantry_waldeck_flag_bearer|Waldeck Prensliği Piyade Taburu
+trp_rhine_infantry_waldeck_flag_bearer_pl|Bayraktar
+trp_rhine_infantry_waldeck_nco|Waldeck Prensliği Piyade Taburu
+trp_rhine_infantry_waldeck_nco_pl|Çavuş
+trp_rhine_infantry_waldeck_officer|Waldeck Prensliği Piyade Taburu
+trp_rhine_infantry_waldeck_officer_pl|Subay
+trp_rhine_infantry_waldeck_drum|Waldeck Prensliği Piyade Taburu
+trp_rhine_infantry_waldeck_drum_pl|Davulcu
+trp_rhine_infantry_waldeck_flute|Waldeck Prensliği Piyade Taburu
+trp_rhine_infantry_waldeck_flute_pl|Flütçü
+trp_rhine_wurt_guard|Württemberg'de piyade muhafızı
+trp_rhine_wurt_guard_pl|Muhafız Piyade
+trp_rhine_wurt_guard_flag_bearer|Württemberg'de piyade muhafızı
+trp_rhine_wurt_guard_flag_bearer_pl|Bayraktar
+trp_rhine_wurt_guard_nco|Württemberg'de piyade muhafızı
+trp_rhine_wurt_guard_nco_pl|Çavuş
+trp_rhine_wurt_guard_officer|Württemberg'de piyade muhafızı
+trp_rhine_wurt_guard_officer_pl|Subay
+trp_rhine_wurt_guard_drum|Württemberg'de piyade muhafızı
+trp_rhine_wurt_guard_drum_pl|Davulcu
+trp_rhine_wurt_guard_flute|Württemberg'de piyade muhafızı
+trp_rhine_wurt_guard_flute_pl|Flütçü
+trp_russian_ship_marine|Gemi Mürettebat
+trp_russian_ship_marine_pl|Gemi Mürettebat
+trp_russian_ship_flag_bearer|Gemi Mürettebat
+trp_russian_ship_flag_bearer_pl|Bayraktar
+trp_russian_ship|Gemi Mürettebat
+trp_russian_ship_pl|Gemi Mürettebat
+trp_russian_ship_cannon|Gemi Mürettebat
+trp_russian_ship_cannon_pl|Deniz topçu
+trp_russian_ship_captain|Gemi Mürettebat
+trp_russian_ship_captain_pl|Captain
+trp_british_arty_commander|Kraliyet Piyade Topçu Alayı
+trp_british_arty_commander_pl|Subay
+trp_british_arty_alt_commander|Kraliyet Piyade Topçu Alayı
+trp_british_arty_alt_commander_pl|Subay
+trp_french_arty_commander|Topçu Birliği
+trp_french_arty_commander_pl|Subay
+trp_french_arty_alt_commander|Topçu Birliği
+trp_french_arty_alt_commander_pl|Subay
+trp_prussian_arty_commander|36. Piyade Topçu Alayı
+trp_prussian_arty_commander_pl|Subay
+trp_prussian_arty_alt_commander|36. Piyade Topçu Alayı
+trp_prussian_arty_alt_commander_pl|Subay
+trp_russian_arty_commander|Topçu Birliği
+trp_russian_arty_commander_pl|Subay
+trp_russian_arty_alt_commander|Topçu Birliği
+trp_russian_arty_alt_commander_pl|Subay
+trp_austrian_arty_commander|Lorraine Prensi 7. Topçu Alayı
+trp_austrian_arty_commander_pl|Subay
+trp_austrian_arty_alt_commander|Lorraine Prensi 7. Topçu Alayı
+trp_austrian_arty_alt_commander_pl|Subay
+trp_rhine_arty_commander|Topçu, Bavyera.
+trp_rhine_arty_commander_pl|Subay
+trp_rhine_arty_alt_commander|Topçu, Bavyera.
+trp_rhine_arty_alt_commander_pl|Subay
+trp_custom_string_1|Kullan
+trp_custom_string_2|Kullan
+trp_custom_string_3|Kullan
+trp_custom_string_4|Kullan
+trp_custom_string_5|Kullan
+trp_custom_string_6|Kullan
+trp_custom_string_7|Kullan
+trp_custom_string_8|Kullan
+trp_custom_string_9|Kullan
+trp_custom_string_10|Kullan
+trp_custom_string_11|Kullan
+trp_custom_string_12|Kullan
+trp_custom_string_13|Kullan
+trp_custom_string_14|Kullan
+trp_custom_string_15|Kullan
+trp_custom_string_16|Kullan
+trp_custom_string_17|Kullan
+trp_custom_string_18|Kullan
+trp_custom_string_19|Kullan
+trp_custom_string_20|Kullan
+trp_custom_string_21|Kullan
+trp_custom_string_22|Kullan
+trp_custom_string_23|Kullan
+trp_custom_string_24|Kullan
+trp_custom_string_25|Kullan
+trp_custom_string_26|Kullan
+trp_custom_string_27|Kullan
+trp_custom_string_28|Kullan
+trp_custom_string_29|Kullan
+trp_custom_string_30|Kullan
+trp_custom_string_31|Kullan
+trp_custom_string_32|Kullan
+trp_custom_string_33|Kullan
+trp_custom_string_34|Kullan
+trp_custom_string_35|Kullan
+trp_custom_string_36|Kullan
+trp_custom_string_37|Kullan
+trp_custom_string_38|Kullan
+trp_custom_string_39|Kullan
+trp_custom_string_40|Kullan
+trp_quick_battle_troop_britain_1|Arthur Wellesley
+trp_quick_battle_troop_britain_1_pl|General
+trp_quick_battle_troop_france_1|Napoleon Bonaparte
+trp_quick_battle_troop_france_1_pl|Emperor
+trp_quick_battle_troop_prussia_1|Gebhard von Blucher
+trp_quick_battle_troop_prussia_1_pl|General
+trp_quick_battle_troop_russia_1|Mikhail Kutuzov
+trp_quick_battle_troop_russia_1_pl|General
+trp_quick_battle_troop_austria_1|Karl Philipp
+trp_quick_battle_troop_austria_1_pl|General
+trp_quick_battle_troop_rhine_1|Frederick Augustus
+trp_quick_battle_troop_rhine_1_pl|General
+trp_companion_1|Raphael Martin
+trp_companion_1_pl|Raphael Martin
+trp_companion_2|Clement Bernard
+trp_companion_2_pl|Clement Bernard
+trp_companion_3|Maxim Munnig Schmidt
+trp_companion_3_pl|Maxime Petit
+trp_companion_4|Alexandre Durand
+trp_companion_4_pl|Alexandre Durand
+trp_companion_5|Antoine Richard
+trp_companion_5_pl|Antoine Richard
+trp_companion_6|Alexis Moreau
+trp_companion_6_pl|Alexis Moreau
+trp_companion_7|Jules Dubois
+trp_companion_7_pl|Jules Dubois
+trp_companion_8|Matteo Robert
+trp_companion_8_pl|Matteo Robert
+trp_companion_9|Julien Laurent
+trp_companion_9_pl|Julien Laurent
+trp_companion_10|Samuel Simon
+trp_companion_10_pl|Samuel Simon
+trp_companion_11|Noe Michel
+trp_companion_11_pl|Noe Michel
+trp_companion_12|Corentin Leroy
+trp_companion_12_pl|Corentin Leroy
+trp_companion_13|Jeremy Garcia
+trp_companion_13_pl|Jeremy Garcia
+trp_companion_14|Charles Lefebvre
+trp_companion_14_pl|Charles Lefebvre
+trp_companion_15|Eliott Roux
+trp_companion_15_pl|Eliott Roux
+trp_companion_16|Theo David
+trp_companion_16_pl|Theo David
+trp_companion_17|Romain Bertrand
+trp_companion_17_pl|Romain Bertrand
+trp_companion_18|Quentin Fournier
+trp_companion_18_pl|Quentin Fournier
+trp_companion_19|Girard Baptiste
+trp_companion_19_pl|Girard Baptiste
+trp_companion_20|Valentin Bonnet
+trp_companion_20_pl|Valentin Bonnet
+trp_companion_21|Nico Kamps
+trp_companion_21_pl|Nicolas Morel
+trp_companion_22|Mael Rousseau
+trp_companion_22_pl|Mael Rousseau
+trp_companion_23|Pierre Lambert
+trp_companion_23_pl|Pierre Lambert
+trp_companion_24|Marius Blanc
+trp_companion_24_pl|Marius Blanc
+trp_companion_25|Remi Thomas
+trp_companion_25_pl|Remi Thomas
+trp_companion_26|Benjamin Aguillon
+trp_companion_26_pl|Benjamin Aguillon
+trp_companion_27|Maxence Beauregard
+trp_companion_27_pl|Maxence Beauregard
+trp_companion_28|Axel Lemieux
+trp_companion_28_pl|Axel Lemieux
+trp_companion_29|Jules Plantier
+trp_companion_29_pl|Jules Plantier
+trp_companion_30|Martin Roche
+trp_companion_30_pl|Martin Roche
+trp_companions_end|companions end
+trp_companions_end_pl|companions end
+trp_walker_french_infantry|Infantryman
+trp_walker_french_infantry_pl|Infantry
+trp_walker_french_voltigeur|Voltigeur
+trp_walker_french_voltigeur_pl|Voltigeurs
+trp_walker_french_hussar|Hussarlar
+trp_walker_french_hussar_pl|Hussarlars
+trp_walker_french_officer|Officer
+trp_walker_french_officer_pl|officers
+trp_walker_messenger|Messenger
+trp_walker_messenger_pl|Messenger
+trp_walker_peasant_male|Peasant
+trp_walker_peasant_male_pl|Peasants
+trp_walker_peasant_female|Peasant
+trp_walker_peasant_female_pl|Peasants
+trp_walkers_end|walkers end
+trp_walkers_end_pl|walkers end
+trp_camp_armorer|Tailor
+trp_camp_weaponsmith|Weapon Merchant
+trp_camp_horse_merchant|Horse Merchant
+trp_merchants_end|merchants end
+trp_merchants_end_pl|merchants end
