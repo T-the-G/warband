@@ -20,13 +20,24 @@ A simple, dockerised, dedicated server for Mount &amp; Blade: Warband, Napoleoni
 
 ### Build the image
 
-    docker build -t warband .
+The docker image is available from [ttheg/warband](https://hub.docker.com/r/ttheg/warband), with the following tags.
+
+- **`latest`**: Contains the modules 'Native' and 'Napoleonic Wars'.
+- **`nwe`**: Additionally contains the module 'Napoleonic Wars Extended'.
+
+Alternatively, build the image locally by cloning this repo, and running the following command in the project's root folder.
+
+```sh
+docker build -t warband .
+```
 
 ### Modify the entrypoint
 
 If you would like to use game modules other than `Napoleonic Wars`, you must create the file `path/to/warband/entrypoint.sh` **before** running the container for the first time, add the contents in the [file](./entrypoint.sh), and mount it in the container's `/entrypoint.sh` location using a volume.
 
-    path/to/warband/entrypoint.sh:/entrypoint.sh
+```yaml
+path/to/warband/entrypoint.sh:/entrypoint.sh
+```
 
 Make sure to make it executable with `sudo chmod +x path/to/warband/entrypoint.sh`.  The server's run-command can then be modified within `entrypoint.sh`.
 
@@ -36,37 +47,41 @@ If you pull the `ttheg/warband` image from Docker Hub, be sure to modify `entryp
 
 #### Docker run
 
-    docker run -dit --name warband \
-        --network host \
-        -v path/to/warband:/server \
-        warband
+```sh
+docker run -dit --name warband \
+    --network host \
+    -v path/to/warband:/server \
+    warband
+```
 
 Be sure to replace `path/to/warband` with the actual path where the server files should be located. To use Docker's NAT service, replace `--network host` with `-p 7240:7240/udp`.
 
 #### Docker compose
 
 Add the following service to your `compose.yaml`.
-
-    services:
-      warband:
-        image: ttheg/warband:latest
-        container_name: warband
-        network_mode: host
-        volumes:
-          - path/to/warband:/server
-        #  - path/to/warband/entrypoint.sh:/entrypoint.sh
-        restart: unless-stopped
-        # The following provides wine output for debugging
-        stdin_open: true
-        tty: true
-        # ports:
-        #   - "7240:7240/udp"
-
+```yaml
+services:
+  warband:
+    image: ttheg/warband:latest
+    container_name: warband
+    network_mode: host
+    volumes:
+      - path/to/warband:/server
+    #  - path/to/warband/entrypoint.sh:/entrypoint.sh
+    restart: unless-stopped
+    # The following provides wine output for debugging
+    stdin_open: true
+    tty: true
+    # ports:
+    #   - "7240:7240/udp"
+```
 Be sure to replace `path/to/warband` with the actual location where the server files should be located. To use Docker's NAT service, delete or comment out the line `network_mode: host`, and uncomment `ports:` etc. at the bottom.
 
 Once you are happy with your `compose.yaml`, run your services.
 
-    cd path/to/compose.yaml; docker compose up -d --remove-orphans
+```sh
+cd path/to/compose.yaml; docker compose up -d --remove-orphans
+```
 
 ## Server setup
 
@@ -74,7 +89,9 @@ The first time the container is run, it will populate `path/to/warband` with the
 
 Since the container should be running as the root user, it can be useful to change the file ownerships, for easier editing.
 
-    sudo chown -R 1000:1000 path/to/warband
+```sh
+sudo chown -R 1000:1000 path/to/warband
+```
 
 Configuring the server is done via `server_config.txt`. At minimum, configure the following fields, then restart the container.
 
